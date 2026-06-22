@@ -1,0 +1,1088 @@
+{"study": "Legislative Assembly of the Province of Canada is to Legislative Assembly of Ontario", "query": "Thirteen Colonies is to", "target": ["United States of America"], "relation": "replaced by"}
+{"study": "Legionella pneumophila is to Legionella", "query": "St Kilda Wren is to", "target": ["Eurasian Wren"], "relation": "parent taxon"}
+{"study": "sea urchin is to Echinodermata", "query": "Hexactinellid is to", "target": ["Porifera"], "relation": "parent taxon"}
+{"study": "potato is to Solanum", "query": "Eucestoda is to", "target": ["Cestoda"], "relation": "parent taxon"}
+{"study": "British Indian Army is to Indian Army", "query": "Soviet ruble is to", "target": ["Russian ruble"], "relation": "replaced by"}
+{"study": "Microsoft Active Accessibility is to UI Automation", "query": "Mandatory Palestine is to", "target": ["Israel"], "relation": "replaced by"}
+{"study": "Kazakh Soviet Socialist Republic is to Kazakhstan", "query": "Trucial States is to", "target": ["United Arab Emirates"], "relation": "replaced by"}
+{"study": "Territory of Hawaii is to Hawaii", "query": "Schweizerische Nordostbahn is to", "target": ["Swiss Federal Railways"], "relation": "replaced by"}
+{"study": "Asian tiger mosquito is to Aedes", "query": "Entamoeba histolytica is to", "target": ["Entamoeba"], "relation": "parent taxon"}
+{"study": "Ulucanlar Prison Museum is to museum", "query": "Dhana Nanda is to", "target": ["Chandragupta Maurya"], "relation": "replaced by"}
+{"study": "Mycobacterium tuberculosis is to Mycobacterium", "query": "Lunaria is to", "target": ["Brassicaceae"], "relation": "parent taxon"}
+{"study": "City of Rochester-upon-Medway is to Medway", "query": "Upper Canada is to", "target": ["Province of Canada"], "relation": "replaced by"}
+{"study": "Serious Organised Crime Agency is to National Crime Agency", "query": "Commonwealth realm of Uganda is to", "target": ["Uganda"], "relation": "replaced by"}
+{"study": "Grand Duchy of Finland is to Finland", "query": "Commonwealth of the Philippines is to", "target": ["Philippines"], "relation": "replaced by"}
+{"study": "Coffea is to Rubiaceae", "query": "sturgeon is to", "target": ["Acipenseriformes"], "relation": "parent taxon"}
+{"study": "Amanita muscaria is to Amanita", "query": "Crocus sativus is to", "target": ["Crocus"], "relation": "parent taxon"}
+{"study": "Fagus sylvatica is to Fagus", "query": "Alnus glutinosa is to", "target": ["Alnus"], "relation": "parent taxon"}
+{"study": "Lepisma saccharina is to Lepisma", "query": "Picea abies is to", "target": ["Picea"], "relation": "parent taxon"}
+{"study": "Province of Georgia is to Georgia", "query": "Committee of European Securities Regulators is to", "target": ["European Securities and Markets Authority"], "relation": "replaced by"}
+{"study": "Soviet Airborne Forces is to Russian Airborne Troops", "query": "Middle English is to", "target": ["Modern English"], "relation": "replaced by"}
+{"study": "Dominion of Fiji is to Fiji", "query": "North Ossetian Autonomous Soviet Socialist Republic is to", "target": ["Republic of North Ossetia-Alania"], "relation": "replaced by"}
+{"study": "Spathiphyllum wallisii is to Spathiphyllum", "query": "Eucalyptus globulus is to", "target": ["Eucalyptus"], "relation": "parent taxon"}
+{"study": "Alvar Aalto is to Finnish", "query": "Hafsat Abdulwaheed is to", "target": ["Hausa"], "relation": "native language"}
+{"study": "Brachiosaurus is to Brachiosauridae", "query": "Sorghum bicolor is to", "target": ["Sorghum"], "relation": "parent taxon"}
+{"study": "Belarusians is to Belarusian", "query": "Lionel Messi is to", "target": ["Spanish"], "relation": "native language"}
+{"study": "Mandatory Palestine is to Israel", "query": "Kingdom of Israel is to", "target": ["Judah"], "relation": "replaced by"}
+{"study": "Vespinae is to Vespidae", "query": "Escherichia coli is to", "target": ["Escherichia"], "relation": "parent taxon"}
+{"study": "Trucial States is to United Arab Emirates", "query": "Canada East is to", "target": ["Quebec"], "relation": "replaced by"}
+{"study": "Sequoia sempervirens is to Sequoia", "query": "Ficus carica is to", "target": ["Ficus"], "relation": "parent taxon"}
+{"study": "Crataegus monogyna is to Crataegus", "query": "Passiflora edulis is to", "target": ["Passiflora"], "relation": "parent taxon"}
+{"study": "Nephelium lappaceum is to Nephelium", "query": "Legionella pneumophila is to", "target": ["Legionella"], "relation": "parent taxon"}
+{"study": "BBC Choice is to BBC Three", "query": "German Empire is to", "target": ["Weimar Republic"], "relation": "replaced by"}
+{"study": "Redband trout is to rainbow trout", "query": "Picinae is to", "target": ["Picidae"], "relation": "parent taxon"}
+{"study": "Heracleum mantegazzianum is to Heracleum", "query": "Great White Pelican is to", "target": ["Pelecanus"], "relation": "parent taxon"}
+{"study": "Pterois volitans is to Pterois", "query": "Syzygium aromaticum is to", "target": ["Syzygium"], "relation": "parent taxon"}
+{"study": "City of Rochester-upon-Medway is to Medway", "query": "Craxi I Cabinet is to", "target": ["Craxi II Cabinet"], "relation": "replaced by"}
+{"study": "monkeypox virus is to Orthopoxvirus", "query": "Bougainvillea glabra is to", "target": ["Bougainvillea"], "relation": "parent taxon"}
+{"study": "Glaucus atlanticus is to Glaucus", "query": "Cimex lectularius is to", "target": ["Cimex"], "relation": "parent taxon"}
+{"study": "Nicotiana tabacum is to Nicotiana", "query": "Equus ferus przewalskii is to", "target": ["Equus ferus"], "relation": "parent taxon"}
+{"study": "Kazakh Soviet Socialist Republic is to Kazakhstan", "query": "Zoological Museum Amsterdam is to", "target": ["Naturalis Biodiversity Center"], "relation": "replaced by"}
+{"study": "Thunnus is to Thunnini", "query": "Lonicera is to", "target": ["Caprifoliaceae"], "relation": "parent taxon"}
+{"study": "Jasminum sambac is to Jasminum", "query": "Tawny Owl is to", "target": ["Strix"], "relation": "parent taxon"}
+{"study": "Rafflesia arnoldii is to Rafflesia", "query": "Colocasia esculenta is to", "target": ["Colocasia"], "relation": "parent taxon"}
+{"study": "Birmingham Central Library is to Library of Birmingham", "query": "Province of New Hampshire is to", "target": ["New Hampshire"], "relation": "replaced by"}
+{"study": "Adansonia digitata is to Adansonia", "query": "Eucestoda is to", "target": ["Cestoda"], "relation": "parent taxon"}
+{"study": "Iguana is to Iguanidae", "query": "Datura is to", "target": ["Solanaceae"], "relation": "parent taxon"}
+{"study": "European Pine Marten is to Martes", "query": "Apis mellifera is to", "target": ["Apis"], "relation": "parent taxon"}
+{"study": "Province of Canada is to Canada", "query": "Marinid Dynasty is to", "target": ["Wattasid dynasty"], "relation": "replaced by"}
+{"study": "Samoans is to Samoan", "query": "Yaghan people is to", "target": ["Yaghan"], "relation": "native language"}
+{"study": "DVB-T is to DVB-T2", "query": "Norwegian Public Employment Service is to", "target": ["Norwegian Labour and Welfare Administration"], "relation": "replaced by"}
+{"study": "dromedary is to Camelus", "query": "Quercus is to", "target": ["Fagaceae"], "relation": "parent taxon"}
+{"study": "Mustela erminea is to Mustela", "query": "Tipula is to", "target": ["Tipulidae"], "relation": "parent taxon"}
+{"study": "western barn owl is to Tyto", "query": "Picea abies is to", "target": ["Picea"], "relation": "parent taxon"}
+{"study": "Mastadenovirus is to Adenoviridae", "query": "Trifolium repens is to", "target": ["Trifolium"], "relation": "parent taxon"}
+{"study": "Ramazan Kadyrov is to Chechen", "query": "Alvar Aalto is to", "target": ["Finnish"], "relation": "native language"}
+{"study": "International Security Assistance Force is to Resolute Support Mission", "query": "Committee of European Securities Regulators is to", "target": ["European Securities and Markets Authority"], "relation": "replaced by"}
+{"study": "Cape wild dog is to African wild dog", "query": "Gardenia jasminoides is to", "target": ["Gardenia"], "relation": "parent taxon"}
+{"study": "Hans Christian Andersen is to Danish", "query": "Robert William Wilcox is to", "target": ["Hawaiian"], "relation": "native language"}
+{"study": "XX Constitutional Government of Portugal is to XXI Constitutional Government of Portugal", "query": "De Gasperi V Cabinet is to", "target": ["De Gasperi VI Cabinet"], "relation": "replaced by"}
+{"study": "Hydra vulgaris is to Hydra", "query": "Eucalyptus globulus is to", "target": ["Eucalyptus"], "relation": "parent taxon"}
+{"study": "Pistacia vera is to Pistacia", "query": "Apis mellifera is to", "target": ["Apis"], "relation": "parent taxon"}
+{"study": "Tomas O'Crohan is to Irish", "query": "Marie Curie is to", "target": ["Polish"], "relation": "native language"}
+{"study": "Richard Burton is to Welsh", "query": "Cristiano Ronaldo is to", "target": ["Portuguese"], "relation": "native language"}
+{"study": "European Pine Marten is to Martes", "query": "Juniperus is to", "target": ["Cupressaceae"], "relation": "parent taxon"}
+{"study": "First Van Agt cabinet is to Second Van Agt cabinet", "query": "De Gasperi VI Cabinet is to", "target": ["De Gasperi VII Cabinet"], "relation": "replaced by"}
+{"study": "Secale cereale is to Secale", "query": "Lophius piscatorius is to", "target": ["Lophius"], "relation": "parent taxon"}
+{"study": "Robert William Wilcox is to Hawaiian", "query": "Mohandas Karamchand Gandhi is to", "target": ["Gujarati"], "relation": "native language"}
+{"study": "Eurasian Lynx is to Lynx", "query": "Bos primigenius is to", "target": ["Bos"], "relation": "parent taxon"}
+{"study": "Bornean orangutan is to Orangutan", "query": "Vigna radiata is to", "target": ["Vigna"], "relation": "parent taxon"}
+{"study": "oceanic manta ray is to Manta", "query": "Quercus robur is to", "target": ["Quercus"], "relation": "parent taxon"}
+{"study": "D'Alema I Cabinet is to D'Alema II Cabinet", "query": "Royal Ulster Constabulary is to", "target": ["Police Service of Northern Ireland"], "relation": "replaced by"}
+{"study": "Canis is to Canidae", "query": "Eriobotrya japonica is to", "target": ["Eriobotrya"], "relation": "parent taxon"}
+{"study": "western barn owl is to Tyto", "query": "Varanus komodoensis is to", "target": ["Varanus"], "relation": "parent taxon"}
+{"study": "Centaurea cyanus is to Centaurea", "query": "Barbary lion is to", "target": ["lion"], "relation": "parent taxon"}
+{"study": "Ficus carica is to Ficus", "query": "Goniatitida is to", "target": ["Ammonoidea"], "relation": "parent taxon"}
+{"study": "University of Rennes is to University of Rennes 1", "query": "Dominion Bureau of Statistics is to", "target": ["Statistics Canada"], "relation": "replaced by"}
+{"study": "Cuijk en Sint Agatha is to Cuijk", "query": "Spadolini I Cabinet is to", "target": ["Spadolini II Cabinet"], "relation": "replaced by"}
+{"study": "common ostrich is to Struthio", "query": "Equus africanus asinus is to", "target": ["Equus africanus"], "relation": "parent taxon"}
+{"study": "Ramazan Kadyrov is to Chechen", "query": "Michael Essien is to", "target": ["Akan"], "relation": "native language"}
+{"study": "Theobroma cacao is to Theobroma", "query": "Sequoia sempervirens is to", "target": ["Sequoia"], "relation": "parent taxon"}
+{"study": "Hydrochoerus hydrochaeris is to Hydrochoerus", "query": "Opuntia ficus-indica is to", "target": ["Opuntia"], "relation": "parent taxon"}
+{"study": "Luciola is to Lampyridae", "query": "Amanita muscaria is to", "target": ["Amanita"], "relation": "parent taxon"}
+{"study": "Gold Coast is to Ghana", "query": "Royal Italian Army is to", "target": ["Italian Army"], "relation": "replaced by"}
+{"study": "Fofi Gennimata is to Greek", "query": "Ramazan Kadyrov is to", "target": ["Chechen"], "relation": "native language"}
+{"study": "Demodex folliculorum is to Demodex", "query": "Dionaea muscipula is to", "target": ["Dionaea"], "relation": "parent taxon"}
+{"study": "Soviet Airborne Forces is to Russian Airborne Troops", "query": "Chairman of the Municipality of Metropolitan Toronto is to", "target": ["Mayor of Toronto"], "relation": "replaced by"}
+{"study": "Province of New Jersey is to New Jersey", "query": "Province of Schleswig-Holstein is to", "target": ["Schleswig-Holstein"], "relation": "replaced by"}
+{"study": "Amanita muscaria is to Amanita", "query": "Galanthus is to", "target": ["Amaryllidaceae"], "relation": "parent taxon"}
+{"study": "Inverness-shire is to Highland", "query": "Federation of Nigeria is to", "target": ["Nigeria"], "relation": "replaced by"}
+{"study": "Tomas O'Crohan is to Irish", "query": "Bashar al-Assad is to", "target": ["Arabic"], "relation": "native language"}
+{"study": "Province of New Jersey is to New Jersey", "query": "Yuan dynasty is to", "target": ["Ming dynasty"], "relation": "replaced by"}
+{"study": "Schweizerische Nordostbahn is to Swiss Federal Railways", "query": "County of Aragon is to", "target": ["Kingdom of Aragon"], "relation": "replaced by"}
+{"study": "Belarusians is to Belarusian", "query": "Yaghan people is to", "target": ["Yaghan"], "relation": "native language"}
+{"study": "Nematocera is to Diptera", "query": "Magnolia grandiflora is to", "target": ["Magnolia"], "relation": "parent taxon"}
+{"study": "Samoans is to Samoan", "query": "Tomas O'Crohan is to", "target": ["Irish"], "relation": "native language"}
+{"study": "Barbary stag is to Red Deer", "query": "Quercus is to", "target": ["Fagaceae"], "relation": "parent taxon"}
+{"study": "University of Rennes is to University of Rennes 1", "query": "British National Space Centre is to", "target": ["UK Space Agency"], "relation": "replaced by"}
+{"study": "Inverness-shire is to Highland", "query": "DVB-T is to", "target": ["DVB-T2"], "relation": "replaced by"}
+{"study": "Tawny Owl is to Strix", "query": "Vespa is to", "target": ["Vespinae"], "relation": "parent taxon"}
+{"study": "Schweizerische Nordostbahn is to Swiss Federal Railways", "query": "Republic of Montenegro is to", "target": ["Montenegro"], "relation": "replaced by"}
+{"study": "Pterocarpus santalinus is to Pterocarpus", "query": "Taxus baccata is to", "target": ["Taxus"], "relation": "parent taxon"}
+{"study": "Ursus is to Ursidae", "query": "Python is to", "target": ["Pythonidae"], "relation": "parent taxon"}
+{"study": "Mycoplasma pneumoniae is to Mycoplasma", "query": "Elaeis is to", "target": ["Arecaceae"], "relation": "parent taxon"}
+{"study": "Rinpungpa is to Tsangpa", "query": "Cuijk en Sint Agatha is to", "target": ["Cuijk"], "relation": "replaced by"}
+{"study": "Lunaria is to Brassicaceae", "query": "Neisseria meningitidis is to", "target": ["Neisseria"], "relation": "parent taxon"}
+{"study": "Norwegian Army Air Service is to Royal Norwegian Air Force", "query": "Udmurt Autonomous Soviet Socialist Republic is to", "target": ["Udmurt Republic"], "relation": "replaced by"}
+{"study": "Canada East is to Quebec", "query": "Python License is to", "target": ["Python Software Foundation License"], "relation": "replaced by"}
+{"study": "Newfoundland dollar is to Canadian dollar", "query": "XX Constitutional Government of Portugal is to", "target": ["XXI Constitutional Government of Portugal"], "relation": "replaced by"}
+{"study": "Province of New York is to New York", "query": "Social Democratic Workers' Party of Germany is to", "target": ["Social Democratic Party of Germany"], "relation": "replaced by"}
+{"study": "Mustela erminea is to Mustela", "query": "Testudo is to", "target": ["Testudinidae"], "relation": "parent taxon"}
+{"study": "French Sudan is to Mali", "query": "Python License is to", "target": ["Python Software Foundation License"], "relation": "replaced by"}
+{"study": "Czechoslovakia is to Czech Republic", "query": "Old Chinese is to", "target": ["Middle Chinese"], "relation": "replaced by"}
+{"study": "Indian elephant is to Asian elephant", "query": "Araneus diadematus is to", "target": ["Araneus"], "relation": "parent taxon"}
+{"study": "Candida albicans is to Candida", "query": "Chinchilla lanigera is to", "target": ["Chinchilla"], "relation": "parent taxon"}
+{"study": "Armenians is to Armenian", "query": "Rabindranath Tagore is to", "target": ["Bengali"], "relation": "native language"}
+{"study": "Matricaria chamomilla is to Matricaria", "query": "European hedgehog is to", "target": ["Erinaceus"], "relation": "parent taxon"}
+{"study": "Colony of Vancouver Island is to Colony of British Columbia", "query": "Inverness-shire is to", "target": ["Highland"], "relation": "replaced by"}
+{"study": "Samoans is to Samoan", "query": "Macedonians is to", "target": ["Macedonian"], "relation": "native language"}
+{"study": "Jesus is to Hebrew", "query": "Hans Christian Andersen is to", "target": ["Danish"], "relation": "native language"}
+{"study": "Social Democratic Workers' Party of Germany is to Social Democratic Party of Germany", "query": "Rumor IV Cabinet is to", "target": ["Rumor V Cabinet"], "relation": "replaced by"}
+{"study": "Frithuswith is to Old English", "query": "Jesus is to", "target": ["Hebrew"], "relation": "native language"}
+{"study": "historical province of Finland is to province of Finland", "query": "Republic of Bosnia and Herzegovina is to", "target": ["Bosnia and Herzegovina"], "relation": "replaced by"}
+{"study": "National Congress of Ecuador is to National Assembly", "query": "Serbia and Montenegro is to", "target": ["Serbia"], "relation": "replaced by"}
+{"study": "Dominion of Ceylon is to Sri Lanka", "query": "First Van Agt cabinet is to", "target": ["Second Van Agt cabinet"], "relation": "replaced by"}
+{"study": "Cucumis sativus is to Cucumis", "query": "Lycoris radiata is to", "target": ["Lycoris"], "relation": "parent taxon"}
+{"study": "Elephantidae is to Proboscidea", "query": "Hirundinidae is to", "target": ["Passeriformes"], "relation": "parent taxon"}
+{"study": "Soviet ruble is to Russian ruble", "query": "De Gasperi IV Cabinet is to", "target": ["De Gasperi V Cabinet"], "relation": "replaced by"}
+{"study": "dromedary is to Camelus", "query": "Hydrochoerus hydrochaeris is to", "target": ["Hydrochoerus"], "relation": "parent taxon"}
+{"study": "Parliament of Great Britain is to Parliament of the United Kingdom", "query": "De Gasperi II Cabinet is to", "target": ["De Gasperi III Cabinet"], "relation": "replaced by"}
+{"study": "Gadus morhua is to Gadus", "query": "Allosaurus is to", "target": ["Allosauridae"], "relation": "parent taxon"}
+{"study": "Second Empire of Haiti is to Haiti", "query": "Marinid Dynasty is to", "target": ["Wattasid dynasty"], "relation": "replaced by"}
+{"study": "Cucumis sativus is to Cucumis", "query": "wood cockroaches is to", "target": ["Blattodea"], "relation": "parent taxon"}
+{"study": "StarOffice is to OpenOffice.org", "query": "First Hungarian Republic is to", "target": ["Hungarian Republic"], "relation": "replaced by"}
+{"study": "Iguana is to Iguanidae", "query": "Adansonia digitata is to", "target": ["Adansonia"], "relation": "parent taxon"}
+{"study": "European perch is to perch", "query": "Qinling panda is to", "target": ["giant panda"], "relation": "parent taxon"}
+{"study": "beaver is to Castoridae", "query": "Dendrochirotida is to", "target": ["Holothuroidea"], "relation": "parent taxon"}
+{"study": "Republic of Montenegro is to Montenegro", "query": "Schweizerische Nordostbahn is to", "target": ["Swiss Federal Railways"], "relation": "replaced by"}
+{"study": "Macedonians is to Macedonian", "query": "Kazakhs is to", "target": ["Kazakh"], "relation": "native language"}
+{"study": "Abdul Rasul Sayyaf is to Pashto", "query": "Alvar Aalto is to", "target": ["Finnish"], "relation": "native language"}
+{"study": "Agave is to Asparagaceae", "query": "Bougainvillea glabra is to", "target": ["Bougainvillea"], "relation": "parent taxon"}
+{"study": "Streptococcus pneumoniae is to Streptococcus", "query": "Demodex folliculorum is to", "target": ["Demodex"], "relation": "parent taxon"}
+{"study": "Canis is to Canidae", "query": "Matricaria chamomilla is to", "target": ["Matricaria"], "relation": "parent taxon"}
+{"study": "Michael I of Romania is to Romanian", "query": "Bulgarians is to", "target": ["Bulgarian"], "relation": "native language"}
+{"study": "Indian elephant is to Asian elephant", "query": "Ulmus glabra is to", "target": ["Ulmus"], "relation": "parent taxon"}
+{"study": "Great Tit is to Parus", "query": "Cantharellus cibarius is to", "target": ["Cantharellus"], "relation": "parent taxon"}
+{"study": "Pholcidae is to Araneae", "query": "Heteroptera is to", "target": ["Hemiptera"], "relation": "parent taxon"}
+{"study": "Vietnamese people is to Vietnamese", "query": "Slavs is to", "target": ["Slavic"], "relation": "native language"}
+{"study": "Diospyros kaki is to Diospyros", "query": "Redband trout is to", "target": ["rainbow trout"], "relation": "parent taxon"}
+{"study": "Aung San Suu Kyi is to Burmese", "query": "Abdul Rasul Sayyaf is to", "target": ["Pashto"], "relation": "native language"}
+{"study": "Malus sylvestris is to Malus", "query": "Lycoris radiata is to", "target": ["Lycoris"], "relation": "parent taxon"}
+{"study": "Carcharhinus leucas is to Carcharhinus", "query": "Yersinia pestis is to", "target": ["Yersinia"], "relation": "parent taxon"}
+{"study": "Old English is to Middle English", "query": "historical province of Finland is to", "target": ["province of Finland"], "relation": "replaced by"}
+{"study": "Trachemys scripta elegans is to Trachemys scripta", "query": "Platanus occidentalis is to", "target": ["Platanus"], "relation": "parent taxon"}
+{"study": "Leona Aglukkaq is to Inuktitut", "query": "Hazaras is to", "target": ["Hazaragi"], "relation": "native language"}
+{"study": "Eriobotrya japonica is to Eriobotrya", "query": "Pholcus is to", "target": ["Pholcidae"], "relation": "parent taxon"}
+{"study": "Hordeum vulgare var. nudum or Hordeum vulgare var. trifurcatum is to Hordeum vulgare", "query": "Bos primigenius indicus is to", "target": ["Bos primigenius"], "relation": "parent taxon"}
+{"study": "pomelo is to Citrus", "query": "Passiflora edulis is to", "target": ["Passiflora"], "relation": "parent taxon"}
+{"study": "Mimosa pudica is to Mimosa", "query": "Boa constrictor is to", "target": ["Boa"], "relation": "parent taxon"}
+{"study": "Lonicera is to Caprifoliaceae", "query": "sesame is to", "target": ["Sesamum"], "relation": "parent taxon"}
+{"study": "German Empire is to Weimar Republic", "query": "Rheinische Zeitung is to", "target": ["Neue Rheinische Zeitung"], "relation": "replaced by"}
+{"study": "Cactoideae is to Cactaceae", "query": "Jasminum is to", "target": ["Oleaceae"], "relation": "parent taxon"}
+{"study": "Mohandas Karamchand Gandhi is to Gujarati", "query": "Belarusians is to", "target": ["Belarusian"], "relation": "native language"}
+{"study": "Royal Ulster Constabulary is to Police Service of Northern Ireland", "query": "Thirtieth government of Israel is to", "target": ["Thirty-first government of Israel"], "relation": "replaced by"}
+{"study": "Middle English is to Modern English", "query": "Parliament of Great Britain is to", "target": ["Parliament of the United Kingdom"], "relation": "replaced by"}
+{"study": "Scottish Aviation is to British Aerospace", "query": "Madras State is to", "target": ["Tamil Nadu"], "relation": "replaced by"}
+{"study": "County of Aragon is to Kingdom of Aragon", "query": "Socialist Republic of Romania is to", "target": ["Romania"], "relation": "replaced by"}
+{"study": "sturgeon is to Acipenseriformes", "query": "Verophasmatodea is to", "target": ["Phasmatodea"], "relation": "parent taxon"}
+{"study": "People's Republic of Hungary is to Hungary", "query": "State of Malta is to", "target": ["Malta"], "relation": "replaced by"}
+{"study": "Heracleum mantegazzianum is to Heracleum", "query": "Betula pendula is to", "target": ["Betula"], "relation": "parent taxon"}
+{"study": "Coriandrum sativum is to Coriandrum", "query": "Curcuma longa is to", "target": ["Curcuma"], "relation": "parent taxon"}
+{"study": "Formosan clouded leopard is to clouded leopard", "query": "Scarlet Macaw is to", "target": ["Ara"], "relation": "parent taxon"}
+{"study": "Crataegus monogyna is to Crataegus", "query": "wood cockroaches is to", "target": ["Blattodea"], "relation": "parent taxon"}
+{"study": "Curcuma longa is to Curcuma", "query": "Phoneutria nigriventer is to", "target": ["Phoneutria"], "relation": "parent taxon"}
+{"study": "Curcuma longa is to Curcuma", "query": "Matricaria chamomilla is to", "target": ["Matricaria"], "relation": "parent taxon"}
+{"study": "Amanita muscaria var. guessowii is to Amanita muscaria", "query": "norovirus is to", "target": ["Caliciviridae"], "relation": "parent taxon"}
+{"study": "Escherichia coli O157:H7 is to Escherichia coli", "query": "Quercus robur is to", "target": ["Quercus"], "relation": "parent taxon"}
+{"study": "Passer is to Passeridae", "query": "peanut is to", "target": ["Arachis"], "relation": "parent taxon"}
+{"study": "Pseudomonas aeruginosa is to Pseudomonas", "query": "Chinchilla is to", "target": ["Chinchillidae"], "relation": "parent taxon"}
+{"study": "Ang Mey is to Khmer", "query": "Richard Burton is to", "target": ["Welsh"], "relation": "native language"}
+{"study": "Horst Seehofer is to Bavarian", "query": "Samoans is to", "target": ["Samoan"], "relation": "native language"}
+{"study": "Oryza sativa is to Oryza", "query": "Mustela erminea is to", "target": ["Mustela"], "relation": "parent taxon"}
+{"study": "Capparis spinosa subsp. nummularia is to Capparis spinosa", "query": "megalodon is to", "target": ["Carcharocles"], "relation": "parent taxon"}
+{"study": "Jasminum is to Oleaceae", "query": "Morchella esculenta is to", "target": ["Morchella"], "relation": "parent taxon"}
+{"study": "Haliaeetus is to Accipitridae", "query": "Danaus plexippus is to", "target": ["Danaus"], "relation": "parent taxon"}
+{"study": "Cantharellus cibarius is to Cantharellus", "query": "Scutigera coleoptrata is to", "target": ["Scutigera"], "relation": "parent taxon"}
+{"study": "Salvia officinalis is to Salvia", "query": "Gardenia jasminoides is to", "target": ["Gardenia"], "relation": "parent taxon"}
+{"study": "Malus sylvestris is to Malus", "query": "Sequoia sempervirens is to", "target": ["Sequoia"], "relation": "parent taxon"}
+{"study": "Polychaeta is to Annelida", "query": "western barn owl is to", "target": ["Tyto"], "relation": "parent taxon"}
+{"study": "Aung San Suu Kyi is to Burmese", "query": "Crimean Tatars is to", "target": ["Crimean Tatar"], "relation": "native language"}
+{"study": "Province of New York is to New York", "query": "State Security Investigations Service is to", "target": ["National Security Agency"], "relation": "replaced by"}
+{"study": "Territory of Hawaii is to Hawaii", "query": "Kazakh Soviet Socialist Republic is to", "target": ["Kazakhstan"], "relation": "replaced by"}
+{"study": "Royal Italian Army is to Italian Army", "query": "UCI Women's Road World Cup is to", "target": ["UCI Women's World Tour"], "relation": "replaced by"}
+{"study": "Mustela erminea is to Mustela", "query": "Common Cuckoo is to", "target": ["Cuculus"], "relation": "parent taxon"}
+{"study": "Qumranet is to Red Hat", "query": "State of Malta is to", "target": ["Malta"], "relation": "replaced by"}
+{"study": "Tawny Owl is to Strix", "query": "Arapaima gigas is to", "target": ["Arapaima"], "relation": "parent taxon"}
+{"study": "Province of Schleswig-Holstein is to Schleswig-Holstein", "query": "Baja California Norte Territory is to", "target": ["Baja California"], "relation": "replaced by"}
+{"study": "Rinpungpa is to Tsangpa", "query": "Zhili is to", "target": ["Hebei"], "relation": "replaced by"}
+{"study": "Bald Eagle is to Haliaeetus", "query": "Coffea arabica is to", "target": ["Coffea"], "relation": "parent taxon"}
+{"study": "South Eastern and Chatham Railway is to Southern Railway", "query": "Qing dynasty is to", "target": ["Republic of China"], "relation": "replaced by"}
+{"study": "Quercus robur is to Quercus", "query": "Amanita muscaria var. guessowii is to", "target": ["Amanita muscaria"], "relation": "parent taxon"}
+{"study": "Inverness-shire is to Highland", "query": "United States Department of War is to", "target": ["United States Department of Defense"], "relation": "replaced by"}
+{"study": "Scolopendra gigantea is to Scolopendra", "query": "Jasminum sambac is to", "target": ["Jasminum"], "relation": "parent taxon"}
+{"study": "De Gasperi IV Cabinet is to De Gasperi V Cabinet", "query": "People's Republic of Hungary is to", "target": ["Hungary"], "relation": "replaced by"}
+{"study": "Eucestoda is to Cestoda", "query": "Gadus morhua is to", "target": ["Gadus"], "relation": "parent taxon"}
+{"study": "South-West Africa is to Namibia", "query": "Soviet ruble is to", "target": ["Russian ruble"], "relation": "replaced by"}
+{"study": "Norwegian Public Employment Service is to Norwegian Labour and Welfare Administration", "query": "Madras State is to", "target": ["Tamil Nadu"], "relation": "replaced by"}
+{"study": "dingo is to wolf", "query": "Scarlet Macaw is to", "target": ["Ara"], "relation": "parent taxon"}
+{"study": "Nigella sativa is to Nigella", "query": "Urtica dioica galeopsifolia is to", "target": ["Urtica dioica"], "relation": "parent taxon"}
+{"study": "NationsBank is to Bank of America", "query": "City of Rochester-upon-Medway is to", "target": ["Medway"], "relation": "replaced by"}
+{"study": "Neisseria meningitidis is to Neisseria", "query": "Tilia cordata is to", "target": ["Tilia"], "relation": "parent taxon"}
+{"study": "Artocarpus heterophyllus is to Artocarpus", "query": "Pholcidae is to", "target": ["Araneae"], "relation": "parent taxon"}
+{"study": "True lemming is to lemming", "query": "European Pine Marten is to", "target": ["Martes"], "relation": "parent taxon"}
+{"study": "Hans Christian Andersen is to Danish", "query": "Tomas O'Crohan is to", "target": ["Irish"], "relation": "native language"}
+{"study": "Paulownia tomentosa is to Paulownia", "query": "Rhus typhina is to", "target": ["Rhus"], "relation": "parent taxon"}
+{"study": "Grand Duchy of Finland is to Finland", "query": "historical province of Finland is to", "target": ["province of Finland"], "relation": "replaced by"}
+{"study": "Trucial States is to United Arab Emirates", "query": "Internet Explorer is to", "target": ["Microsoft Edge"], "relation": "replaced by"}
+{"study": "Jasminum sambac is to Jasminum", "query": "celery is to", "target": ["Apium"], "relation": "parent taxon"}
+{"study": "Heteroptera is to Hemiptera", "query": "Amanita muscaria var. guessowii is to", "target": ["Amanita muscaria"], "relation": "parent taxon"}
+{"study": "Aloe vera is to Aloe", "query": "Chamaeleoninae is to", "target": ["Chamaeleonidae"], "relation": "parent taxon"}
+{"study": "Abdul Rasul Sayyaf is to Pashto", "query": "Horst Seehofer is to", "target": ["Bavarian"], "relation": "native language"}
+{"study": "Aesculus hippocastanum is to Aesculus", "query": "Passer is to", "target": ["Passeridae"], "relation": "parent taxon"}
+{"study": "Polychaeta is to Annelida", "query": "Indian peafowl is to", "target": ["Pavo"], "relation": "parent taxon"}
+{"study": "Grand Duchy of Finland is to Finland", "query": "National Congress of Ecuador is to", "target": ["National Assembly"], "relation": "replaced by"}
+{"study": "Agave tequilana is to Agave", "query": "Enterococcus faecalis is to", "target": ["Enterococcus"], "relation": "parent taxon"}
+{"study": "Jacaranda mimosifolia is to Jacaranda", "query": "beaver is to", "target": ["Castoridae"], "relation": "parent taxon"}
+{"study": "Lophiidae is to Lophiiformes", "query": "Cichorium intybus is to", "target": ["Cichorium"], "relation": "parent taxon"}
+{"study": "Tomas O'Crohan is to Irish", "query": "Kurds is to", "target": ["Kurdish"], "relation": "native language"}
+{"study": "Tagetes erecta is to Tagetes", "query": "Pseudomonas aeruginosa is to", "target": ["Pseudomonas"], "relation": "parent taxon"}
+{"study": "Verophasmatodea is to Phasmatodea", "query": "Tagetes erecta is to", "target": ["Tagetes"], "relation": "parent taxon"}
+{"study": "Samoans is to Samoan", "query": "Vietnamese people is to", "target": ["Vietnamese"], "relation": "native language"}
+{"study": "Citrus medica var. sarcodactylis is to Citrus medica", "query": "Australopithecus afarensis is to", "target": ["Australopithecus"], "relation": "parent taxon"}
+{"study": "Qinling panda is to giant panda", "query": "Chinchilla lanigera is to", "target": ["Chinchilla"], "relation": "parent taxon"}
+{"study": "Somalis is to Somali", "query": "Ainu people is to", "target": ["Ainu"], "relation": "native language"}
+{"study": "cephalopod is to Mollusca", "query": "Great Tit is to", "target": ["Parus"], "relation": "parent taxon"}
+{"study": "wood cockroaches is to Blattodea", "query": "Spathiphyllum wallisii is to", "target": ["Spathiphyllum"], "relation": "parent taxon"}
+{"study": "Pholcidae is to Araneae", "query": "rooibos is to", "target": ["Aspalathus"], "relation": "parent taxon"}
+{"study": "British National Space Centre is to UK Space Agency", "query": "Birmingham Central Library is to", "target": ["Library of Birmingham"], "relation": "replaced by"}
+{"study": "De Gasperi IV Cabinet is to De Gasperi V Cabinet", "query": "Old Chinese is to", "target": ["Middle Chinese"], "relation": "replaced by"}
+{"study": "Province of Canada is to Canada", "query": "Federation of Nigeria is to", "target": ["Nigeria"], "relation": "replaced by"}
+{"study": "Bos primigenius is to Bos", "query": "mallard is to", "target": ["Anas"], "relation": "parent taxon"}
+{"study": "Vigna radiata is to Vigna", "query": "Cricetinae is to", "target": ["Muridae"], "relation": "parent taxon"}
+{"study": "Eucalyptus globulus is to Eucalyptus", "query": "Naja is to", "target": ["Elapidae"], "relation": "parent taxon"}
+{"study": "Rumor IV Cabinet is to Rumor V Cabinet", "query": "Province of North Carolina is to", "target": ["North Carolina"], "relation": "replaced by"}
+{"study": "Madras State is to Tamil Nadu", "query": "Cuijk en Sint Agatha is to", "target": ["Cuijk"], "relation": "replaced by"}
+{"study": "Afro-Surinamese is to creole language", "query": "Kim Jong-il is to", "target": ["Korean"], "relation": "native language"}
+{"study": "Pterocarpus santalinus is to Pterocarpus", "query": "western barn owl is to", "target": ["Tyto"], "relation": "parent taxon"}
+{"study": "Iris pseudacorus is to Iris", "query": "Artemisia absinthium is to", "target": ["Artemisia"], "relation": "parent taxon"}
+{"study": "Margerita Camilleri Fenech is to Maltese", "query": "Kim Jong-il is to", "target": ["Korean"], "relation": "native language"}
+{"study": "Hazaras is to Hazaragi", "query": "Jesus is to", "target": ["Hebrew"], "relation": "native language"}
+{"study": "Mitragyna speciosa is to Mitragyna", "query": "monkeypox virus is to", "target": ["Orthopoxvirus"], "relation": "parent taxon"}
+{"study": "Trigonella foenum-graecum is to Trigonella", "query": "Asian tiger mosquito is to", "target": ["Aedes"], "relation": "parent taxon"}
+{"study": "Taxus baccata is to Taxus", "query": "Mangifera indica is to", "target": ["Mangifera"], "relation": "parent taxon"}
+{"study": "Prunus spinosa is to Prunus", "query": "common ostrich is to", "target": ["Struthio"], "relation": "parent taxon"}
+{"study": "Bald Eagle is to Haliaeetus", "query": "West Indian manatee is to", "target": ["Trichechus"], "relation": "parent taxon"}
+{"study": "Kumyks is to Kumyk", "query": "Elon Musk is to", "target": ["English"], "relation": "native language"}
+{"study": "MAN Diesel SE is to MAN Energy Solutions", "query": "Province of New York is to", "target": ["New York"], "relation": "replaced by"}
+{"study": "Malus sylvestris is to Malus", "query": "cephalopod is to", "target": ["Mollusca"], "relation": "parent taxon"}
+{"study": "Big Eight Conference is to Big 12 Conference", "query": "Mississippi Territory is to", "target": ["Mississippi"], "relation": "replaced by"}
+{"study": "Paramecium caudatum is to Paramecium", "query": "Rafflesia arnoldii is to", "target": ["Rafflesia"], "relation": "parent taxon"}
+{"study": "Mississippi Territory is to Mississippi", "query": "Zoological Museum Amsterdam is to", "target": ["Naturalis Biodiversity Center"], "relation": "replaced by"}
+{"study": "West Germany is to Germany", "query": "Royal Ulster Constabulary is to", "target": ["Police Service of Northern Ireland"], "relation": "replaced by"}
+{"study": "Danaus plexippus is to Danaus", "query": "Mimosa pudica is to", "target": ["Mimosa"], "relation": "parent taxon"}
+{"study": "Dominion Bureau of Statistics is to Statistics Canada", "query": "French Sudan is to", "target": ["Mali"], "relation": "replaced by"}
+{"study": "Salix babylonica is to Salix", "query": "Trachemys scripta elegans is to", "target": ["Trachemys scripta"], "relation": "parent taxon"}
+{"study": "Larix decidua is to Larix", "query": "invertebrate is to", "target": ["animal"], "relation": "parent taxon"}
+{"study": "Sorghum bicolor is to Sorghum", "query": "Cavia porcellus is to", "target": ["Cavia"], "relation": "parent taxon"}
+{"study": "Cactoideae is to Cactaceae", "query": "celeriac is to", "target": ["celery"], "relation": "parent taxon"}
+{"study": "Ainu people is to Ainu", "query": "Frithuswith is to", "target": ["Old English"], "relation": "native language"}
+{"study": "Dhana Nanda is to Chandragupta Maurya", "query": "Eisenhower dollar is to", "target": ["Susan B. Anthony dollar"], "relation": "replaced by"}
+{"study": "Soviet ruble is to Russian ruble", "query": "University of Rennes is to", "target": ["University of Rennes 1"], "relation": "replaced by"}
+{"study": "Glaucus atlanticus is to Glaucus", "query": "Luciola is to", "target": ["Lampyridae"], "relation": "parent taxon"}
+{"study": "Verophasmatodea is to Phasmatodea", "query": "Gadus morhua is to", "target": ["Gadus"], "relation": "parent taxon"}
+{"study": "D'Alema I Cabinet is to D'Alema II Cabinet", "query": "South-West Africa is to", "target": ["Namibia"], "relation": "replaced by"}
+{"study": "Hirundinidae is to Passeriformes", "query": "Macroglossum stellatarum is to", "target": ["Macroglossum"], "relation": "parent taxon"}
+{"study": "Lonicera is to Caprifoliaceae", "query": "Araneae is to", "target": ["Arachnida"], "relation": "parent taxon"}
+{"study": "Gardenia jasminoides is to Gardenia", "query": "Cichorium intybus is to", "target": ["Cichorium"], "relation": "parent taxon"}
+{"study": "Asparagus officinalis is to Asparagus", "query": "Mycobacterium tuberculosis is to", "target": ["Mycobacterium"], "relation": "parent taxon"}
+{"study": "State of Malta is to Malta", "query": "United Kingdom of Portugal, Brazil and the Algarves is to", "target": ["Empire of Brazil"], "relation": "replaced by"}
+{"study": "Internet Explorer is to Microsoft Edge", "query": "Territory of Hawaii is to", "target": ["Hawaii"], "relation": "replaced by"}
+{"study": "Southwest Territory is to Tennessee", "query": "Dominion of Fiji is to", "target": ["Fiji"], "relation": "replaced by"}
+{"study": "Plantago major is to Plantago", "query": "Iris pseudacorus is to", "target": ["Iris"], "relation": "parent taxon"}
+{"study": "liquorice is to Glycyrrhiza", "query": "Diospyros kaki is to", "target": ["Diospyros"], "relation": "parent taxon"}
+{"study": "Parliament of Great Britain is to Parliament of the United Kingdom", "query": "Mycenaean Greece is to", "target": ["Greek Dark Ages"], "relation": "replaced by"}
+{"study": "Haliaeetus is to Accipitridae", "query": "oceanic manta ray is to", "target": ["Manta"], "relation": "parent taxon"}
+{"study": "Thirtieth government of Israel is to Thirty-first government of Israel", "query": "Internet Explorer is to", "target": ["Microsoft Edge"], "relation": "replaced by"}
+{"study": "German Empire is to Weimar Republic", "query": "StarOffice is to", "target": ["OpenOffice.org"], "relation": "replaced by"}
+{"study": "County of Aragon is to Kingdom of Aragon", "query": "State Security Investigations Service is to", "target": ["National Security Agency"], "relation": "replaced by"}
+{"study": "Salix babylonica is to Salix", "query": "Prunus spinosa is to", "target": ["Prunus"], "relation": "parent taxon"}
+{"study": "Naja is to Elapidae", "query": "Saccharomyces cerevisiae is to", "target": ["Saccharomyces"], "relation": "parent taxon"}
+{"study": "Leslie Cheung is to Cantonese", "query": "Ranil Wickremesinghe is to", "target": ["Sinhala"], "relation": "native language"}
+{"study": "Anatidae is to Anseriformes", "query": "Amaranthus retroflexus is to", "target": ["Amaranthus"], "relation": "parent taxon"}
+{"study": "Legislative Assembly of the Province of Canada is to Legislative Assembly of Ontario", "query": "Berlusconi II Cabinet is to", "target": ["Berlusconi III Cabinet"], "relation": "replaced by"}
+{"study": "sea urchin is to Echinodermata", "query": "Pholcus is to", "target": ["Pholcidae"], "relation": "parent taxon"}
+{"study": "Belarusians is to Belarusian", "query": "Ranbir Kapoor is to", "target": ["Hindi"], "relation": "native language"}
+{"study": "Margerita Camilleri Fenech is to Maltese", "query": "Aung San Suu Kyi is to", "target": ["Burmese"], "relation": "native language"}
+{"study": "Melolontha melolontha is to Melolontha", "query": "Betula pendula is to", "target": ["Betula"], "relation": "parent taxon"}
+{"study": "Bougainvillea glabra is to Bougainvillea", "query": "Physalis peruviana is to", "target": ["Physalis"], "relation": "parent taxon"}
+{"study": "Province of New Hampshire is to New Hampshire", "query": "Baja California Norte Territory is to", "target": ["Baja California"], "relation": "replaced by"}
+{"study": "Province of New York is to New York", "query": "Rinpungpa is to", "target": ["Tsangpa"], "relation": "replaced by"}
+{"study": "Bacillus anthracis is to Bacillus", "query": "Neisseria meningitidis is to", "target": ["Neisseria"], "relation": "parent taxon"}
+{"study": "Mitragyna speciosa is to Mitragyna", "query": "Raphanus sativus is to", "target": ["Raphanus"], "relation": "parent taxon"}
+{"study": "Psilocybe semilanceata is to Psilocybe", "query": "Escherichia coli O157:H7 is to", "target": ["Escherichia coli"], "relation": "parent taxon"}
+{"study": "Erythroxylum coca is to Erythroxylum", "query": "Canis is to", "target": ["Canidae"], "relation": "parent taxon"}
+{"study": "Afro-Surinamese is to creole language", "query": "Kurds is to", "target": ["Kurdish"], "relation": "native language"}
+{"study": "Kingdom of Scotland is to Great Britain", "query": "Province of New York is to", "target": ["New York"], "relation": "replaced by"}
+{"study": "Gardenia jasminoides is to Gardenia", "query": "Bald Eagle is to", "target": ["Haliaeetus"], "relation": "parent taxon"}
+{"study": "Demodex folliculorum is to Demodex", "query": "Capparis spinosa subsp. nummularia is to", "target": ["Capparis spinosa"], "relation": "parent taxon"}
+{"study": "beaver is to Castoridae", "query": "Nigella sativa is to", "target": ["Nigella"], "relation": "parent taxon"}
+{"study": "Elasmobranchii is to Chondrichthyes", "query": "Secale cereale is to", "target": ["Secale"], "relation": "parent taxon"}
+{"study": "St Kilda Wren is to Eurasian Wren", "query": "Verbena officinalis is to", "target": ["Verbena"], "relation": "parent taxon"}
+{"study": "Mycoplasma pneumoniae is to Mycoplasma", "query": "Sorbus aucuparia is to", "target": ["Sorbus"], "relation": "parent taxon"}
+{"study": "Madras State is to Tamil Nadu", "query": "Continental Congress is to", "target": ["United States Congress"], "relation": "replaced by"}
+{"study": "Annona muricata is to Annona", "query": "Papaver somniferum is to", "target": ["Papaver"], "relation": "parent taxon"}
+{"study": "Polychaeta is to Annelida", "query": "Alnus glutinosa is to", "target": ["Alnus"], "relation": "parent taxon"}
+{"study": "Bombus terrestris is to Bombus", "query": "flat peach is to", "target": ["peach"], "relation": "parent taxon"}
+{"study": "Talpa europaea is to Talpa", "query": "Lunaria is to", "target": ["Brassicaceae"], "relation": "parent taxon"}
+{"study": "British Indian Army is to Indian Army", "query": "Lyceum of the Principality of Serbia is to", "target": ["University of Belgrade"], "relation": "replaced by"}
+{"study": "Hordeum vulgare is to Hordeum", "query": "Poecilia reticulata is to", "target": ["Poecilia"], "relation": "parent taxon"}
+{"study": "Norwegian Army Air Service is to Royal Norwegian Air Force", "query": "Windows Live Mesh is to", "target": ["Microsoft OneDrive"], "relation": "replaced by"}
+{"study": "Norwegian Army Air Service is to Royal Norwegian Air Force", "query": "Muhammedan Anglo-Oriental College is to", "target": ["Aligarh Muslim University"], "relation": "replaced by"}
+{"study": "Narcissus pseudonarcissus is to Narcissus", "query": "Datura stramonium is to", "target": ["Datura"], "relation": "parent taxon"}
+{"study": "United Kingdom of Portugal, Brazil and the Algarves is to Empire of Brazil", "query": "Crown Colony of Sarawak is to", "target": ["Sarawak"], "relation": "replaced by"}
+{"study": "Hydrochoerus hydrochaeris is to Hydrochoerus", "query": "Hydrangea is to", "target": ["Hydrangeaceae"], "relation": "parent taxon"}
+{"study": "Brown Bear is to Ursus", "query": "Python is to", "target": ["Pythonidae"], "relation": "parent taxon"}
+{"study": "EMD 567 is to EMD 645", "query": "First Hungarian Republic is to", "target": ["Hungarian Republic"], "relation": "replaced by"}
+{"study": "Betula pendula is to Betula", "query": "Pseudomonas aeruginosa is to", "target": ["Pseudomonas"], "relation": "parent taxon"}
+{"study": "Wisteria floribunda is to Wisteria", "query": "Artocarpus heterophyllus is to", "target": ["Artocarpus"], "relation": "parent taxon"}
+{"study": "Rinpungpa is to Tsangpa", "query": "Colony of Virginia is to", "target": ["Virginia"], "relation": "replaced by"}
+{"study": "Craxi I Cabinet is to Craxi II Cabinet", "query": "Ottoman Empire is to", "target": ["Turkey"], "relation": "replaced by"}
+{"study": "Centaurea cyanus is to Centaurea", "query": "Nicotiana tabacum is to", "target": ["Nicotiana"], "relation": "parent taxon"}
+{"study": "Berlusconi II Cabinet is to Berlusconi III Cabinet", "query": "Financial Stability Forum is to", "target": ["Financial Stability Board"], "relation": "replaced by"}
+{"study": "Dendrobatidae is to Anura", "query": "Lepus is to", "target": ["Leporidae"], "relation": "parent taxon"}
+{"study": "St Kilda Wren is to Eurasian Wren", "query": "lettuce is to", "target": ["Lactuca"], "relation": "parent taxon"}
+{"study": "Abdul Rasul Sayyaf is to Pashto", "query": "Emmanuel Macron is to", "target": ["French"], "relation": "native language"}
+{"study": "Madras State is to Tamil Nadu", "query": "Rhodesia is to", "target": ["Zimbabwe"], "relation": "replaced by"}
+{"study": "People's Republic of Hungary is to Hungary", "query": "Commonwealth realm of Uganda is to", "target": ["Uganda"], "relation": "replaced by"}
+{"study": "Commonwealth of the Philippines is to Philippines", "query": "Soviet Airborne Forces is to", "target": ["Russian Airborne Troops"], "relation": "replaced by"}
+{"study": "Birmingham Central Library is to Library of Birmingham", "query": "Norwegian Public Employment Service is to", "target": ["Norwegian Labour and Welfare Administration"], "relation": "replaced by"}
+{"study": "Galanthus is to Amaryllidaceae", "query": "Thunnus is to", "target": ["Thunnini"], "relation": "parent taxon"}
+{"study": "Boa constrictor is to Boa", "query": "Ardeidae is to", "target": ["Pelecaniformes"], "relation": "parent taxon"}
+{"study": "Robert William Wilcox is to Hawaiian", "query": "Panini is to", "target": ["Sanskrit"], "relation": "native language"}
+{"study": "Tomas O'Crohan is to Irish", "query": "Anne of Brittany is to", "target": ["Breton"], "relation": "native language"}
+{"study": "Royal Italian Army is to Italian Army", "query": "Province of Brandenburg is to", "target": ["Brandenburg"], "relation": "replaced by"}
+{"study": "Salvia officinalis is to Salvia", "query": "Eurasian Lynx is to", "target": ["Lynx"], "relation": "parent taxon"}
+{"study": "Taxus baccata is to Taxus", "query": "Coriandrum sativum is to", "target": ["Coriandrum"], "relation": "parent taxon"}
+{"study": "Adolf Hitler is to German", "query": "Leona Aglukkaq is to", "target": ["Inuktitut"], "relation": "native language"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "Cactoideae is to", "target": ["Cactaceae"], "relation": "parent taxon"}
+{"study": "Committee of European Securities Regulators is to European Securities and Markets Authority", "query": "Province of New Hampshire is to", "target": ["New Hampshire"], "relation": "replaced by"}
+{"study": "Lophophora williamsii is to Lophophora", "query": "Taxus baccata is to", "target": ["Taxus"], "relation": "parent taxon"}
+{"study": "Windows Live Mesh is to Microsoft OneDrive", "query": "NationsBank is to", "target": ["Bank of America"], "relation": "replaced by"}
+{"study": "Plumeria rubra is to Plumeria", "query": "Paramecium caudatum is to", "target": ["Paramecium"], "relation": "parent taxon"}
+{"study": "caracal is to Caracal", "query": "Mangifera indica is to", "target": ["Mangifera"], "relation": "parent taxon"}
+{"study": "Dionaea muscipula is to Dionaea", "query": "Hordeum vulgare var. nudum or Hordeum vulgare var. trifurcatum is to", "target": ["Hordeum vulgare"], "relation": "parent taxon"}
+{"study": "Pholcus is to Pholcidae", "query": "European Pine Marten is to", "target": ["Martes"], "relation": "parent taxon"}
+{"study": "Mandatory Palestine is to Israel", "query": "Reichsrat is to", "target": ["Bundesrat"], "relation": "replaced by"}
+{"study": "Soviet Airborne Forces is to Russian Airborne Troops", "query": "Renzi Cabinet is to", "target": ["Gentiloni Cabinet"], "relation": "replaced by"}
+{"study": "Galanthus is to Amaryllidaceae", "query": "Tilia cordata is to", "target": ["Tilia"], "relation": "parent taxon"}
+{"study": "Hydrangea is to Hydrangeaceae", "query": "Achillea millefolium is to", "target": ["Achillea"], "relation": "parent taxon"}
+{"study": "Narcissus pseudonarcissus is to Narcissus", "query": "dingo is to", "target": ["wolf"], "relation": "parent taxon"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "sea urchin is to", "target": ["Echinodermata"], "relation": "parent taxon"}
+{"study": "influenza A virus subtype H1N1 is to influenza A virus", "query": "Lepus californicus is to", "target": ["Lepus"], "relation": "parent taxon"}
+{"study": "Viola tricolor is to Viola", "query": "dromedary is to", "target": ["Camelus"], "relation": "parent taxon"}
+{"study": "Mohandas Karamchand Gandhi is to Gujarati", "query": "Bobby Ologun is to", "target": ["Yoruba"], "relation": "native language"}
+{"study": "Crown Colony of Sarawak is to Sarawak", "query": "Grand Duchy of Finland is to", "target": ["Finland"], "relation": "replaced by"}
+{"study": "Continental Congress is to United States Congress", "query": "Grammy Award for Best Pop Performance by a Duo or Group with Vocals is to", "target": ["Grammy Award for Best Pop Duo/Group Performance"], "relation": "replaced by"}
+{"study": "Dominion of Pakistan is to Pakistan", "query": "Eisenhower dollar is to", "target": ["Susan B. Anthony dollar"], "relation": "replaced by"}
+{"study": "Newfoundland dollar is to Canadian dollar", "query": "Guru Nanak is to", "target": ["Guru Angad Dev"], "relation": "replaced by"}
+{"study": "Province of New York is to New York", "query": "Mackinac National Park is to", "target": ["Mackinac Island State Park"], "relation": "replaced by"}
+{"study": "Yuan dynasty is to Ming dynasty", "query": "Republic of China is to", "target": ["People's Republic of China"], "relation": "replaced by"}
+{"study": "Crocus sativus is to Crocus", "query": "Adansonia digitata is to", "target": ["Adansonia"], "relation": "parent taxon"}
+{"study": "Pterocarpus santalinus is to Pterocarpus", "query": "Passiflora is to", "target": ["Passifloraceae"], "relation": "parent taxon"}
+{"study": "Hydra vulgaris is to Hydra", "query": "Centaurea cyanus is to", "target": ["Centaurea"], "relation": "parent taxon"}
+{"study": "Gold Coast is to Ghana", "query": "Craxi I Cabinet is to", "target": ["Craxi II Cabinet"], "relation": "replaced by"}
+{"study": "Passer is to Passeridae", "query": "Xylocopa violacea is to", "target": ["Xylocopa"], "relation": "parent taxon"}
+{"study": "Qinling panda is to giant panda", "query": "True lemming is to", "target": ["lemming"], "relation": "parent taxon"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "Cavia porcellus is to", "target": ["Cavia"], "relation": "parent taxon"}
+{"study": "Hafsat Abdulwaheed is to Hausa", "query": "Kumyks is to", "target": ["Kumyk"], "relation": "native language"}
+{"study": "Guru Nanak is to Guru Angad Dev", "query": "Province of Georgia is to", "target": ["Georgia"], "relation": "replaced by"}
+{"study": "Allosaurus is to Allosauridae", "query": "Crocodylus porosus is to", "target": ["Crocodylus"], "relation": "parent taxon"}
+{"study": "Belarusians is to Belarusian", "query": "Afro-Surinamese is to", "target": ["creole language"], "relation": "native language"}
+{"study": "Indian Territory is to Oklahoma", "query": "Insular Government of the Philippine Islands is to", "target": ["Commonwealth of the Philippines"], "relation": "replaced by"}
+{"study": "Nigella sativa is to Nigella", "query": "Danaus plexippus is to", "target": ["Danaus"], "relation": "parent taxon"}
+{"study": "Fofi Gennimata is to Greek", "query": "Hafsat Abdulwaheed is to", "target": ["Hausa"], "relation": "native language"}
+{"study": "DVB-T is to DVB-T2", "query": "Microsoft Active Accessibility is to", "target": ["UI Automation"], "relation": "replaced by"}
+{"study": "Mitragyna speciosa is to Mitragyna", "query": "Anemone nemorosa is to", "target": ["Anemone"], "relation": "parent taxon"}
+{"study": "Ulmus glabra is to Ulmus", "query": "Anatidae is to", "target": ["Anseriformes"], "relation": "parent taxon"}
+{"study": "Pyrus pyrifolia is to Pyrus", "query": "Hydra vulgaris is to", "target": ["Hydra"], "relation": "parent taxon"}
+{"study": "sea urchin is to Echinodermata", "query": "Aconitum napellus is to", "target": ["Aconitum"], "relation": "parent taxon"}
+{"study": "Elasmobranchii is to Chondrichthyes", "query": "Citrus medica var. sarcodactylis is to", "target": ["Citrus medica"], "relation": "parent taxon"}
+{"study": "Amanita muscaria is to Amanita", "query": "Dendrochirotida is to", "target": ["Holothuroidea"], "relation": "parent taxon"}
+{"study": "Ursus is to Ursidae", "query": "Naja is to", "target": ["Elapidae"], "relation": "parent taxon"}
+{"study": "StarOffice is to OpenOffice.org", "query": "MAN Diesel SE is to", "target": ["MAN Energy Solutions"], "relation": "replaced by"}
+{"study": "Province of New Jersey is to New Jersey", "query": "EMD 567 is to", "target": ["EMD 645"], "relation": "replaced by"}
+{"study": "Lycoris radiata is to Lycoris", "query": "Urtica dioica galeopsifolia is to", "target": ["Urtica dioica"], "relation": "parent taxon"}
+{"study": "Lionel Messi is to Spanish", "query": "Leslie Cheung is to", "target": ["Cantonese"], "relation": "native language"}
+{"study": "Jacaranda mimosifolia is to Jacaranda", "query": "Anguis fragilis is to", "target": ["Anguis"], "relation": "parent taxon"}
+{"study": "Achillea millefolium is to Achillea", "query": "Crataegus monogyna is to", "target": ["Crataegus"], "relation": "parent taxon"}
+{"study": "Coriandrum sativum is to Coriandrum", "query": "Sus scrofa is to", "target": ["Sus"], "relation": "parent taxon"}
+{"study": "Pterocarpus santalinus is to Pterocarpus", "query": "Oryza sativa is to", "target": ["Oryza"], "relation": "parent taxon"}
+{"study": "Richard Burton is to Welsh", "query": "Bashkir people is to", "target": ["Bashkir"], "relation": "native language"}
+{"study": "Old English Latin alphabet is to English alphabet", "query": "Ming dynasty is to", "target": ["Qing dynasty"], "relation": "replaced by"}
+{"study": "Verophasmatodea is to Phasmatodea", "query": "great white shark is to", "target": ["Carcharodon"], "relation": "parent taxon"}
+{"study": "Lepus californicus is to Lepus", "query": "Pterocarpus santalinus is to", "target": ["Pterocarpus"], "relation": "parent taxon"}
+{"study": "Ainu people is to Ainu", "query": "Kersti Kaljulaid is to", "target": ["Estonian"], "relation": "native language"}
+{"study": "Film Australia is to Screen Australia", "query": "Fanfani III Cabinet is to", "target": ["Fanfani IV Cabinet"], "relation": "replaced by"}
+{"study": "Kingdom of Scotland is to Great Britain", "query": "Rinpungpa is to", "target": ["Tsangpa"], "relation": "replaced by"}
+{"study": "Chairman of the Municipality of Metropolitan Toronto is to Mayor of Toronto", "query": "University of Rennes is to", "target": ["University of Rennes 1"], "relation": "replaced by"}
+{"study": "Microsoft Office XML formats is to Office Open XML", "query": "Yuan dynasty is to", "target": ["Ming dynasty"], "relation": "replaced by"}
+{"study": "Lupinus albus is to Lupinus", "query": "Mespilus germanica is to", "target": ["Mespilus"], "relation": "parent taxon"}
+{"study": "Norwegian Public Employment Service is to Norwegian Labour and Welfare Administration", "query": "Alabama Territory is to", "target": ["Alabama"], "relation": "replaced by"}
+{"study": "Asparagus officinalis is to Asparagus", "query": "Azhdarchidae is to", "target": ["pterosaur"], "relation": "parent taxon"}
+{"study": "Matricaria chamomilla is to Matricaria", "query": "Yersinia pestis is to", "target": ["Yersinia"], "relation": "parent taxon"}
+{"study": "Aesculus hippocastanum is to Aesculus", "query": "Agave tequilana is to", "target": ["Agave"], "relation": "parent taxon"}
+{"study": "Raphanus sativus is to Raphanus", "query": "Nanobacterium is to", "target": ["bacteria"], "relation": "parent taxon"}
+{"study": "Equus africanus asinus is to Equus africanus", "query": "Clostridium botulinum is to", "target": ["Clostridium"], "relation": "parent taxon"}
+{"study": "Cuijk en Sint Agatha is to Cuijk", "query": "Australian Customs and Border Protection Service is to", "target": ["Australian Border Force"], "relation": "replaced by"}
+{"study": "Gold Coast is to Ghana", "query": "Taff Vale Railway is to", "target": ["Great Western Railway"], "relation": "replaced by"}
+{"study": "Dominion of Ceylon is to Sri Lanka", "query": "Principality of Hungary is to", "target": ["Kingdom of Hungary"], "relation": "replaced by"}
+{"study": "Fofi Gennimata is to Greek", "query": "Ang Mey is to", "target": ["Khmer"], "relation": "native language"}
+{"study": "Lucanus cervus is to Lucanus", "query": "Elephantidae is to", "target": ["Proboscidea"], "relation": "parent taxon"}
+{"study": "cherry tomato is to tomato", "query": "Araneus diadematus is to", "target": ["Araneus"], "relation": "parent taxon"}
+{"study": "Financial Stability Forum is to Financial Stability Board", "query": "Kingdom of Scotland is to", "target": ["Great Britain"], "relation": "replaced by"}
+{"study": "Mespilus germanica is to Mespilus", "query": "Great Tit is to", "target": ["Parus"], "relation": "parent taxon"}
+{"study": "beaver is to Castoridae", "query": "Barbary lion is to", "target": ["lion"], "relation": "parent taxon"}
+{"study": "Xabi Alonso is to Basque", "query": "Ozbek is to", "target": ["Uzbek"], "relation": "native language"}
+{"study": "Province of Schleswig-Holstein is to Schleswig-Holstein", "query": "Czechoslovak Academy of Sciences is to", "target": ["Czech Academy of Sciences"], "relation": "replaced by"}
+{"study": "Anatidae is to Anseriformes", "query": "Pterocarpus santalinus is to", "target": ["Pterocarpus"], "relation": "parent taxon"}
+{"study": "Raphanus sativus is to Raphanus", "query": "Myosotis sylvatica is to", "target": ["Myosotis"], "relation": "parent taxon"}
+{"study": "First Van Agt cabinet is to Second Van Agt cabinet", "query": "D'Alema I Cabinet is to", "target": ["D'Alema II Cabinet"], "relation": "replaced by"}
+{"study": "Fanfani III Cabinet is to Fanfani IV Cabinet", "query": "Dominion of Fiji is to", "target": ["Fiji"], "relation": "replaced by"}
+{"study": "Platanus occidentalis is to Platanus", "query": "Trachemys scripta elegans is to", "target": ["Trachemys scripta"], "relation": "parent taxon"}
+{"study": "Bald Eagle is to Haliaeetus", "query": "Prunus spinosa is to", "target": ["Prunus"], "relation": "parent taxon"}
+{"study": "Lepisma saccharina is to Lepisma", "query": "Carcharhinus leucas is to", "target": ["Carcharhinus"], "relation": "parent taxon"}
+{"study": "Yaghan people is to Yaghan", "query": "Art Supawatt Purdy is to", "target": ["Thai"], "relation": "native language"}
+{"study": "celery is to Apium", "query": "Carcharhinus leucas is to", "target": ["Carcharhinus"], "relation": "parent taxon"}
+{"study": "Crimean Tatars is to Crimean Tatar", "query": "Croats is to", "target": ["Croatian"], "relation": "native language"}
+{"study": "Mespilus germanica is to Mespilus", "query": "Cape wild dog is to", "target": ["African wild dog"], "relation": "parent taxon"}
+{"study": "Betula pendula is to Betula", "query": "Nephelium lappaceum is to", "target": ["Nephelium"], "relation": "parent taxon"}
+{"study": "Florida Territory is to Florida", "query": "De Gasperi II Cabinet is to", "target": ["De Gasperi III Cabinet"], "relation": "replaced by"}
+{"study": "Spadolini I Cabinet is to Spadolini II Cabinet", "query": "Parliament of Great Britain is to", "target": ["Parliament of the United Kingdom"], "relation": "replaced by"}
+{"study": "Scarlet Macaw is to Ara", "query": "Cucumis melo var. cantalupensis is to", "target": ["Cucumis melo"], "relation": "parent taxon"}
+{"study": "Papaver somniferum is to Papaver", "query": "Nematocera is to", "target": ["Diptera"], "relation": "parent taxon"}
+{"study": "Salvia officinalis is to Salvia", "query": "potato is to", "target": ["Solanum"], "relation": "parent taxon"}
+{"study": "Urtica is to Urticaceae", "query": "broccoli is to", "target": ["Brassica oleracea"], "relation": "parent taxon"}
+{"study": "People's Republic of Hungary is to Hungary", "query": "DirectShow is to", "target": ["Media Foundation"], "relation": "replaced by"}
+{"study": "Common Pheasant is to Phasianus", "query": "Raphanus sativus is to", "target": ["Raphanus"], "relation": "parent taxon"}
+{"study": "Canada East is to Quebec", "query": "Grammy Award for Best Pop Performance by a Duo or Group with Vocals is to", "target": ["Grammy Award for Best Pop Duo/Group Performance"], "relation": "replaced by"}
+{"study": "Canis is to Canidae", "query": "Lepisma saccharina is to", "target": ["Lepisma"], "relation": "parent taxon"}
+{"study": "Kingdom of Israel is to Judah", "query": "Secretary of State for Commonwealth Affairs is to", "target": ["Secretary of State for Foreign and Commonwealth Affairs"], "relation": "replaced by"}
+{"study": "Frithuswith is to Old English", "query": "Margerita Camilleri Fenech is to", "target": ["Maltese"], "relation": "native language"}
+{"study": "Eucestoda is to Cestoda", "query": "Cannabis sativa is to", "target": ["Cannabis"], "relation": "parent taxon"}
+{"study": "Serious Organised Crime Agency is to National Crime Agency", "query": "Dominion of Ceylon is to", "target": ["Sri Lanka"], "relation": "replaced by"}
+{"study": "Gold Coast is to Ghana", "query": "Mandatory Palestine is to", "target": ["Israel"], "relation": "replaced by"}
+{"study": "Great White Pelican is to Pelecanus", "query": "Humulus lupulus is to", "target": ["Humulus"], "relation": "parent taxon"}
+{"study": "Salix babylonica is to Salix", "query": "Arapaima gigas is to", "target": ["Arapaima"], "relation": "parent taxon"}
+{"study": "Scottish Aviation is to British Aerospace", "query": "Serious Organised Crime Agency is to", "target": ["National Crime Agency"], "relation": "replaced by"}
+{"study": "Grand Duchy of Finland is to Finland", "query": "Leipziger Land is to", "target": ["Landkreis Leipzig"], "relation": "replaced by"}
+{"study": "Datura stramonium is to Datura", "query": "Hordeum vulgare is to", "target": ["Hordeum"], "relation": "parent taxon"}
+{"study": "Psilocybe semilanceata is to Psilocybe", "query": "Hordeum vulgare is to", "target": ["Hordeum"], "relation": "parent taxon"}
+{"study": "Dominion of Pakistan is to Pakistan", "query": "Dhana Nanda is to", "target": ["Chandragupta Maurya"], "relation": "replaced by"}
+{"study": "Principality of Hungary is to Kingdom of Hungary", "query": "Florida Territory is to", "target": ["Florida"], "relation": "replaced by"}
+{"study": "Afro-Surinamese is to creole language", "query": "Vietnamese people is to", "target": ["Vietnamese"], "relation": "native language"}
+{"study": "Oryza sativa is to Oryza", "query": "Eurasian Lynx is to", "target": ["Lynx"], "relation": "parent taxon"}
+{"study": "De Gasperi V Cabinet is to De Gasperi VI Cabinet", "query": "Muhammedan Anglo-Oriental College is to", "target": ["Aligarh Muslim University"], "relation": "replaced by"}
+{"study": "Fofi Gennimata is to Greek", "query": "Somalis is to", "target": ["Somali"], "relation": "native language"}
+{"study": "Middle English is to Modern English", "query": "Upper Canada is to", "target": ["Province of Canada"], "relation": "replaced by"}
+{"study": "Arapaima gigas is to Arapaima", "query": "Psilocybe semilanceata is to", "target": ["Psilocybe"], "relation": "parent taxon"}
+{"study": "mallard is to Anas", "query": "Asian tiger mosquito is to", "target": ["Aedes"], "relation": "parent taxon"}
+{"study": "peanut is to Arachis", "query": "Vespinae is to", "target": ["Vespidae"], "relation": "parent taxon"}
+{"study": "broccoli is to Brassica oleracea", "query": "Goniatitida is to", "target": ["Ammonoidea"], "relation": "parent taxon"}
+{"study": "Ang Mey is to Khmer", "query": "Michael I of Romania is to", "target": ["Romanian"], "relation": "native language"}
+{"study": "Province of Brandenburg is to Brandenburg", "query": "Zhili is to", "target": ["Hebei"], "relation": "replaced by"}
+{"study": "sea urchin is to Echinodermata", "query": "Glaucus atlanticus is to", "target": ["Glaucus"], "relation": "parent taxon"}
+{"study": "Fanfani III Cabinet is to Fanfani IV Cabinet", "query": "Leipziger Land is to", "target": ["Landkreis Leipzig"], "relation": "replaced by"}
+{"study": "Mackinac National Park is to Mackinac Island State Park", "query": "Spadolini I Cabinet is to", "target": ["Spadolini II Cabinet"], "relation": "replaced by"}
+{"study": "Mycoplasma pneumoniae is to Mycoplasma", "query": "Pyrus pyrifolia is to", "target": ["Pyrus"], "relation": "parent taxon"}
+{"study": "Film Australia is to Screen Australia", "query": "Qumranet is to", "target": ["Red Hat"], "relation": "replaced by"}
+{"study": "flat peach is to peach", "query": "Common Pheasant is to", "target": ["Phasianus"], "relation": "parent taxon"}
+{"study": "German Empire is to Weimar Republic", "query": "De Gasperi VI Cabinet is to", "target": ["De Gasperi VII Cabinet"], "relation": "replaced by"}
+{"study": "Talpa europaea is to Talpa", "query": "Yucca brevifolia is to", "target": ["Yucca"], "relation": "parent taxon"}
+{"study": "National Congress of Ecuador is to National Assembly", "query": "De Gasperi III Cabinet is to", "target": ["De Gasperi IV Cabinet"], "relation": "replaced by"}
+{"study": "Hirundinidae is to Passeriformes", "query": "Iguana is to", "target": ["Iguanidae"], "relation": "parent taxon"}
+{"study": "Mycobacterium tuberculosis is to Mycobacterium", "query": "Sus scrofa is to", "target": ["Sus"], "relation": "parent taxon"}
+{"study": "Kazakhs is to Kazakh", "query": "Marie Curie is to", "target": ["Polish"], "relation": "native language"}
+{"study": "City of Rochester-upon-Medway is to Medway", "query": "French Cameroons is to", "target": ["Cameroon"], "relation": "replaced by"}
+{"study": "Renzi Cabinet is to Gentiloni Cabinet", "query": "Mackinac National Park is to", "target": ["Mackinac Island State Park"], "relation": "replaced by"}
+{"study": "Anemone nemorosa is to Anemone", "query": "Otariidae is to", "target": ["Pinnipedia"], "relation": "parent taxon"}
+{"study": "European Pine Marten is to Martes", "query": "Xylocopa violacea is to", "target": ["Xylocopa"], "relation": "parent taxon"}
+{"study": "Dominion of Fiji is to Fiji", "query": "Qumranet is to", "target": ["Red Hat"], "relation": "replaced by"}
+{"study": "Boa constrictor is to Boa", "query": "Malus sylvestris is to", "target": ["Malus"], "relation": "parent taxon"}
+{"study": "European hedgehog is to Erinaceus", "query": "Trigonella foenum-graecum is to", "target": ["Trigonella"], "relation": "parent taxon"}
+{"study": "Mackinac National Park is to Mackinac Island State Park", "query": "United States Department of War is to", "target": ["United States Department of Defense"], "relation": "replaced by"}
+{"study": "Goniatitida is to Ammonoidea", "query": "Passiflora is to", "target": ["Passifloraceae"], "relation": "parent taxon"}
+{"study": "Vespa is to Vespinae", "query": "Salix is to", "target": ["Salicaceae"], "relation": "parent taxon"}
+{"study": "flat peach is to peach", "query": "Pholcidae is to", "target": ["Araneae"], "relation": "parent taxon"}
+{"study": "Azhdarchidae is to pterosaur", "query": "Poecilia reticulata is to", "target": ["Poecilia"], "relation": "parent taxon"}
+{"study": "Sequoia sempervirens is to Sequoia", "query": "Redband trout is to", "target": ["rainbow trout"], "relation": "parent taxon"}
+{"study": "Fagopyrum esculentum is to Fagopyrum", "query": "Allosaurus is to", "target": ["Allosauridae"], "relation": "parent taxon"}
+{"study": "Kersti Kaljulaid is to Estonian", "query": "Leslie Cheung is to", "target": ["Cantonese"], "relation": "native language"}
+{"study": "Passiflora is to Passifloraceae", "query": "Canis is to", "target": ["Canidae"], "relation": "parent taxon"}
+{"study": "flat peach is to peach", "query": "Rubus idaeus is to", "target": ["Rubus"], "relation": "parent taxon"}
+{"study": "D'Alema I Cabinet is to D'Alema II Cabinet", "query": "Inverness-shire is to", "target": ["Highland"], "relation": "replaced by"}
+{"study": "monkeypox virus is to Orthopoxvirus", "query": "Camelus is to", "target": ["Camelidae"], "relation": "parent taxon"}
+{"study": "Lupinus albus is to Lupinus", "query": "wolf is to", "target": ["Canis"], "relation": "parent taxon"}
+{"study": "Trifolium repens is to Trifolium", "query": "Magicicada is to", "target": ["Cicadidae"], "relation": "parent taxon"}
+{"study": "Hydrangea is to Hydrangeaceae", "query": "sturgeon is to", "target": ["Acipenseriformes"], "relation": "parent taxon"}
+{"study": "Ming dynasty is to Qing dynasty", "query": "People's Republic of Hungary is to", "target": ["Hungary"], "relation": "replaced by"}
+{"study": "Juniperus is to Cupressaceae", "query": "Pinus pinea is to", "target": ["Pinus"], "relation": "parent taxon"}
+{"study": "Yaghan people is to Yaghan", "query": "Hittites is to", "target": ["Hittite"], "relation": "native language"}
+{"study": "Elephantidae is to Proboscidea", "query": "Indian elephant is to", "target": ["Asian elephant"], "relation": "parent taxon"}
+{"study": "Hirundinidae is to Passeriformes", "query": "house mouse is to", "target": ["Mus"], "relation": "parent taxon"}
+{"study": "Platanus occidentalis is to Platanus", "query": "Lycosa is to", "target": ["Lycosidae"], "relation": "parent taxon"}
+{"study": "Paulownia tomentosa is to Paulownia", "query": "Jacaranda mimosifolia is to", "target": ["Jacaranda"], "relation": "parent taxon"}
+{"study": "Cactoideae is to Cactaceae", "query": "Gorilla is to", "target": ["Hominidae"], "relation": "parent taxon"}
+{"study": "Belarusians is to Belarusian", "query": "Panini is to", "target": ["Sanskrit"], "relation": "native language"}
+{"study": "Northern Raven is to Corvus", "query": "Morchella esculenta is to", "target": ["Morchella"], "relation": "parent taxon"}
+{"study": "D'Alema I Cabinet is to D'Alema II Cabinet", "query": "Norwegian Army Air Service is to", "target": ["Royal Norwegian Air Force"], "relation": "replaced by"}
+{"study": "Python License is to Python Software Foundation License", "query": "Royal Italian Army is to", "target": ["Italian Army"], "relation": "replaced by"}
+{"study": "Opuntia ficus-indica is to Opuntia", "query": "Larix decidua is to", "target": ["Larix"], "relation": "parent taxon"}
+{"study": "Bougainvillea glabra is to Bougainvillea", "query": "Annona muricata is to", "target": ["Annona"], "relation": "parent taxon"}
+{"study": "Muhammedan Anglo-Oriental College is to Aligarh Muslim University", "query": "City of Rochester-upon-Medway is to", "target": ["Medway"], "relation": "replaced by"}
+{"study": "Magicicada is to Cicadidae", "query": "Elasmobranchii is to", "target": ["Chondrichthyes"], "relation": "parent taxon"}
+{"study": "Picinae is to Picidae", "query": "rooibos is to", "target": ["Aspalathus"], "relation": "parent taxon"}
+{"study": "Macedonians is to Macedonian", "query": "Ranil Wickremesinghe is to", "target": ["Sinhala"], "relation": "native language"}
+{"study": "True lemming is to lemming", "query": "Ficus carica is to", "target": ["Ficus"], "relation": "parent taxon"}
+{"study": "DVB-T is to DVB-T2", "query": "Microsoft Office XML formats is to", "target": ["Office Open XML"], "relation": "replaced by"}
+{"study": "Eisenhower dollar is to Susan B. Anthony dollar", "query": "Ulucanlar Prison Museum is to", "target": ["museum"], "relation": "replaced by"}
+{"study": "Leslie Cheung is to Cantonese", "query": "Bashar al-Assad is to", "target": ["Arabic"], "relation": "native language"}
+{"study": "dromedary is to Camelus", "query": "Northern Raven is to", "target": ["Corvus"], "relation": "parent taxon"}
+{"study": "First Hungarian Republic is to Hungarian Republic", "query": "University College, Bristol is to", "target": ["University of Bristol"], "relation": "replaced by"}
+{"study": "Cactoideae is to Cactaceae", "query": "Rhus typhina is to", "target": ["Rhus"], "relation": "parent taxon"}
+{"study": "Commonwealth of the Philippines is to Philippines", "query": "Socialist Republic of Romania is to", "target": ["Romania"], "relation": "replaced by"}
+{"study": "Great White Pelican is to Pelecanus", "query": "Qinling panda is to", "target": ["giant panda"], "relation": "parent taxon"}
+{"study": "Vespinae is to Vespidae", "query": "common ostrich is to", "target": ["Struthio"], "relation": "parent taxon"}
+{"study": "Capparis spinosa subsp. nummularia is to Capparis spinosa", "query": "Dionaea muscipula is to", "target": ["Dionaea"], "relation": "parent taxon"}
+{"study": "Lithuanians is to Lithuanian", "query": "Bobby Ologun is to", "target": ["Yoruba"], "relation": "native language"}
+{"study": "Czechoslovakia is to Czech Republic", "query": "Old English is to", "target": ["Middle English"], "relation": "replaced by"}
+{"study": "Schweizerische Nordostbahn is to Swiss Federal Railways", "query": "Berlusconi II Cabinet is to", "target": ["Berlusconi III Cabinet"], "relation": "replaced by"}
+{"study": "Aesculus hippocastanum is to Aesculus", "query": "Luciola is to", "target": ["Lampyridae"], "relation": "parent taxon"}
+{"study": "Qing dynasty is to Republic of China", "query": "Birmingham Central Library is to", "target": ["Library of Birmingham"], "relation": "replaced by"}
+{"study": "Hydrochoerus hydrochaeris is to Hydrochoerus", "query": "Juglans regia is to", "target": ["Juglans"], "relation": "parent taxon"}
+{"study": "Rabindranath Tagore is to Bengali", "query": "Ranbir Kapoor is to", "target": ["Hindi"], "relation": "native language"}
+{"study": "Myosotis sylvatica is to Myosotis", "query": "Agave is to", "target": ["Asparagaceae"], "relation": "parent taxon"}
+{"study": "Pinus pinea is to Pinus", "query": "mallard is to", "target": ["Anas"], "relation": "parent taxon"}
+{"study": "Mastadenovirus is to Adenoviridae", "query": "Aesculus hippocastanum is to", "target": ["Aesculus"], "relation": "parent taxon"}
+{"study": "Varanus komodoensis is to Varanus", "query": "Asparagus officinalis is to", "target": ["Asparagus"], "relation": "parent taxon"}
+{"study": "Republic of Bosnia and Herzegovina is to Bosnia and Herzegovina", "query": "De Gasperi IV Cabinet is to", "target": ["De Gasperi V Cabinet"], "relation": "replaced by"}
+{"study": "Royal Ulster Constabulary is to Police Service of Northern Ireland", "query": "Principality of Hungary is to", "target": ["Kingdom of Hungary"], "relation": "replaced by"}
+{"study": "Qumranet is to Red Hat", "query": "Commonwealth of the Philippines is to", "target": ["Philippines"], "relation": "replaced by"}
+{"study": "Ardeidae is to Pelecaniformes", "query": "Dendrobatidae is to", "target": ["Anura"], "relation": "parent taxon"}
+{"study": "Populus tremula is to Populus", "query": "bhut jolokia is to", "target": ["Capsicum chinense"], "relation": "parent taxon"}
+{"study": "Phaseolus vulgaris is to Phaseolus", "query": "Viola tricolor is to", "target": ["Viola"], "relation": "parent taxon"}
+{"study": "Bos primigenius is to Bos", "query": "Achillea millefolium is to", "target": ["Achillea"], "relation": "parent taxon"}
+{"study": "Indian peafowl is to Pavo", "query": "Viola tricolor is to", "target": ["Viola"], "relation": "parent taxon"}
+{"study": "Big Eight Conference is to Big 12 Conference", "query": "Province of Schleswig-Holstein is to", "target": ["Schleswig-Holstein"], "relation": "replaced by"}
+{"study": "Cannabis sativa is to Cannabis", "query": "Palawan binturong is to", "target": ["binturong"], "relation": "parent taxon"}
+{"study": "Blattella germanica is to Blattella", "query": "Nematocera is to", "target": ["Diptera"], "relation": "parent taxon"}
+{"study": "Cactoideae is to Cactaceae", "query": "Lepus is to", "target": ["Leporidae"], "relation": "parent taxon"}
+{"study": "Dominion Bureau of Statistics is to Statistics Canada", "query": "DirectShow is to", "target": ["Media Foundation"], "relation": "replaced by"}
+{"study": "Bornean orangutan is to Orangutan", "query": "Lophophora williamsii is to", "target": ["Lophophora"], "relation": "parent taxon"}
+{"study": "celery is to Apium", "query": "Artemisia absinthium is to", "target": ["Artemisia"], "relation": "parent taxon"}
+{"study": "Araneus diadematus is to Araneus", "query": "Dendrobatidae is to", "target": ["Anura"], "relation": "parent taxon"}
+{"study": "Richard Burton is to Welsh", "query": "Aung San Suu Kyi is to", "target": ["Burmese"], "relation": "native language"}
+{"study": "Marie Curie is to Polish", "query": "N. T. Rama Rao is to", "target": ["Telugu"], "relation": "native language"}
+{"study": "oceanic manta ray is to Manta", "query": "Corylus avellana is to", "target": ["Corylus"], "relation": "parent taxon"}
+{"study": "International Security Assistance Force is to Resolute Support Mission", "query": "Socialist Republic of Montenegro is to", "target": ["Republic of Montenegro"], "relation": "replaced by"}
+{"study": "Craxi I Cabinet is to Craxi II Cabinet", "query": "Secretary of State for Commonwealth Affairs is to", "target": ["Secretary of State for Foreign and Commonwealth Affairs"], "relation": "replaced by"}
+{"study": "Samoans is to Samoan", "query": "Zhuang people is to", "target": ["Zhuang"], "relation": "native language"}
+{"study": "Ozbek is to Uzbek", "query": "Horst Seehofer is to", "target": ["Bavarian"], "relation": "native language"}
+{"study": "Agaricus bisporus is to Agaricus", "query": "Verbena officinalis is to", "target": ["Verbena"], "relation": "parent taxon"}
+{"study": "Dendrobatidae is to Anura", "query": "Verophasmatodea is to", "target": ["Phasmatodea"], "relation": "parent taxon"}
+{"study": "Bobby Ologun is to Yoruba", "query": "Corsicans is to", "target": ["Corsican"], "relation": "native language"}
+{"study": "State Security Investigations Service is to National Security Agency", "query": "Dominion Bureau of Statistics is to", "target": ["Statistics Canada"], "relation": "replaced by"}
+{"study": "Tilia cordata is to Tilia", "query": "Indian peafowl is to", "target": ["Pavo"], "relation": "parent taxon"}
+{"study": "Agave is to Asparagaceae", "query": "Thymus vulgaris is to", "target": ["Thymus"], "relation": "parent taxon"}
+{"study": "Jacaranda mimosifolia is to Jacaranda", "query": "Polychaeta is to", "target": ["Annelida"], "relation": "parent taxon"}
+{"study": "MAN Diesel SE is to MAN Energy Solutions", "query": "Indian Territory is to", "target": ["Oklahoma"], "relation": "replaced by"}
+{"study": "Cristiano Ronaldo is to Portuguese", "query": "Margerita Camilleri Fenech is to", "target": ["Maltese"], "relation": "native language"}
+{"study": "Eucalyptus globulus is to Eucalyptus", "query": "Datura is to", "target": ["Solanaceae"], "relation": "parent taxon"}
+{"study": "Elon Musk is to English", "query": "Adolf Hitler is to", "target": ["German"], "relation": "native language"}
+{"study": "Pholcus is to Pholcidae", "query": "Aloe vera is to", "target": ["Aloe"], "relation": "parent taxon"}
+{"study": "Larix decidua is to Larix", "query": "Humulus lupulus is to", "target": ["Humulus"], "relation": "parent taxon"}
+{"study": "Colony of Virginia is to Virginia", "query": "Soviet Airborne Forces is to", "target": ["Russian Airborne Troops"], "relation": "replaced by"}
+{"study": "Lithuanians is to Lithuanian", "query": "Mountain Jews is to", "target": ["Judeo-Tat"], "relation": "native language"}
+{"study": "South Eastern and Chatham Railway is to Southern Railway", "query": "BBC Choice is to", "target": ["BBC Three"], "relation": "replaced by"}
+{"study": "Barbary stag is to Red Deer", "query": "green iguana is to", "target": ["Iguana"], "relation": "parent taxon"}
+{"study": "Ang Mey is to Khmer", "query": "Anne of Brittany is to", "target": ["Breton"], "relation": "native language"}
+{"study": "Scutigera coleoptrata is to Scutigera", "query": "Aronia melanocarpa is to", "target": ["Aronia"], "relation": "parent taxon"}
+{"study": "Dionaea muscipula is to Dionaea", "query": "Lophiidae is to", "target": ["Lophiiformes"], "relation": "parent taxon"}
+{"study": "United Kingdom of Portugal, Brazil and the Algarves is to Empire of Brazil", "query": "German Empire is to", "target": ["Weimar Republic"], "relation": "replaced by"}
+{"study": "Luciola is to Lampyridae", "query": "Aconitum napellus is to", "target": ["Aconitum"], "relation": "parent taxon"}
+{"study": "Rinpungpa is to Tsangpa", "query": "South Yemen is to", "target": ["Yemen"], "relation": "replaced by"}
+{"study": "British National Space Centre is to UK Space Agency", "query": "Ottoman Empire is to", "target": ["Turkey"], "relation": "replaced by"}
+{"study": "Polychaeta is to Annelida", "query": "Blattella germanica is to", "target": ["Blattella"], "relation": "parent taxon"}
+{"study": "mallard is to Anas", "query": "Sorbus aucuparia is to", "target": ["Sorbus"], "relation": "parent taxon"}
+{"study": "Leslie Cheung is to Cantonese", "query": "Fofi Gennimata is to", "target": ["Greek"], "relation": "native language"}
+{"study": "Qing dynasty is to Republic of China", "query": "Czechoslovak Academy of Sciences is to", "target": ["Czech Academy of Sciences"], "relation": "replaced by"}
+{"study": "Bos primigenius is to Bos", "query": "Lens culinaris is to", "target": ["Lens"], "relation": "parent taxon"}
+{"study": "Magicicada is to Cicadidae", "query": "Hordeum vulgare var. nudum or Hordeum vulgare var. trifurcatum is to", "target": ["Hordeum vulgare"], "relation": "parent taxon"}
+{"study": "pomelo is to Citrus", "query": "Asparagus officinalis is to", "target": ["Asparagus"], "relation": "parent taxon"}
+{"study": "Magicicada is to Cicadidae", "query": "Tagetes erecta is to", "target": ["Tagetes"], "relation": "parent taxon"}
+{"study": "Secale cereale is to Secale", "query": "Macroglossum stellatarum is to", "target": ["Macroglossum"], "relation": "parent taxon"}
+{"study": "Lonicera japonica is to Lonicera", "query": "Phoneutria nigriventer is to", "target": ["Phoneutria"], "relation": "parent taxon"}
+{"study": "XX Constitutional Government of Portugal is to XXI Constitutional Government of Portugal", "query": "Middle English is to", "target": ["Modern English"], "relation": "replaced by"}
+{"study": "Phaseolus vulgaris is to Phaseolus", "query": "Heracleum mantegazzianum is to", "target": ["Heracleum"], "relation": "parent taxon"}
+{"study": "Rhus typhina is to Rhus", "query": "Aloe vera is to", "target": ["Aloe"], "relation": "parent taxon"}
+{"study": "Mandatory Palestine is to Israel", "query": "Colony of Virginia is to", "target": ["Virginia"], "relation": "replaced by"}
+{"study": "Republic of Bosnia and Herzegovina is to Bosnia and Herzegovina", "query": "XX Constitutional Government of Portugal is to", "target": ["XXI Constitutional Government of Portugal"], "relation": "replaced by"}
+{"study": "Curcuma longa is to Curcuma", "query": "Juniperus is to", "target": ["Cupressaceae"], "relation": "parent taxon"}
+{"study": "Ainu people is to Ainu", "query": "Hittites is to", "target": ["Hittite"], "relation": "native language"}
+{"study": "Chamaeleoninae is to Chamaeleonidae", "query": "Anemone is to", "target": ["Ranunculaceae"], "relation": "parent taxon"}
+{"study": "Scarlet Macaw is to Ara", "query": "Talpa europaea is to", "target": ["Talpa"], "relation": "parent taxon"}
+{"study": "Grand Duchy of Finland is to Finland", "query": "Indian Territory is to", "target": ["Oklahoma"], "relation": "replaced by"}
+{"study": "Alabama Territory is to Alabama", "query": "Rhodesia is to", "target": ["Zimbabwe"], "relation": "replaced by"}
+{"study": "Polychaeta is to Annelida", "query": "Hirundinidae is to", "target": ["Passeriformes"], "relation": "parent taxon"}
+{"study": "Bulgarians is to Bulgarian", "query": "Xabi Alonso is to", "target": ["Basque"], "relation": "native language"}
+{"study": "Colony of Virginia is to Virginia", "query": "Thirtieth government of Israel is to", "target": ["Thirty-first government of Israel"], "relation": "replaced by"}
+{"study": "European hedgehog is to Erinaceus", "query": "Colocasia esculenta is to", "target": ["Colocasia"], "relation": "parent taxon"}
+{"study": "Trucial States is to United Arab Emirates", "query": "Newfoundland dollar is to", "target": ["Canadian dollar"], "relation": "replaced by"}
+{"study": "Art Supawatt Purdy is to Thai", "query": "Khaltmaagiin Battulga is to", "target": ["Mongolian"], "relation": "native language"}
+{"study": "Larix decidua is to Larix", "query": "wolf is to", "target": ["Canis"], "relation": "parent taxon"}
+{"study": "Old English is to Middle English", "query": "South Yemen is to", "target": ["Yemen"], "relation": "replaced by"}
+{"study": "Indian peafowl is to Pavo", "query": "sesame is to", "target": ["Sesamum"], "relation": "parent taxon"}
+{"study": "Betula pendula is to Betula", "query": "Platanus occidentalis is to", "target": ["Platanus"], "relation": "parent taxon"}
+{"study": "Tipula is to Tipulidae", "query": "Plumeria rubra is to", "target": ["Plumeria"], "relation": "parent taxon"}
+{"study": "Marinid Dynasty is to Wattasid dynasty", "query": "DVB-T is to", "target": ["DVB-T2"], "relation": "replaced by"}
+{"study": "Ming dynasty is to Qing dynasty", "query": "Guru Nanak is to", "target": ["Guru Angad Dev"], "relation": "replaced by"}
+{"study": "Anemone is to Ranunculaceae", "query": "Cucurbita pepo is to", "target": ["Cucurbita"], "relation": "parent taxon"}
+{"study": "Glaucus atlanticus is to Glaucus", "query": "Aesculus hippocastanum is to", "target": ["Aesculus"], "relation": "parent taxon"}
+{"study": "Heracleum mantegazzianum is to Heracleum", "query": "Equus ferus przewalskii is to", "target": ["Equus ferus"], "relation": "parent taxon"}
+{"study": "Erythroxylum coca is to Erythroxylum", "query": "Enterococcus faecalis is to", "target": ["Enterococcus"], "relation": "parent taxon"}
+{"study": "First Hungarian Republic is to Hungarian Republic", "query": "Rumor IV Cabinet is to", "target": ["Rumor V Cabinet"], "relation": "replaced by"}
+{"study": "Curcuma longa is to Curcuma", "query": "Lophius piscatorius is to", "target": ["Lophius"], "relation": "parent taxon"}
+{"study": "Crataegus monogyna is to Crataegus", "query": "European perch is to", "target": ["perch"], "relation": "parent taxon"}
+{"study": "Xabi Alonso is to Basque", "query": "Mountain Jews is to", "target": ["Judeo-Tat"], "relation": "native language"}
+{"study": "Adansonia digitata is to Adansonia", "query": "bhut jolokia is to", "target": ["Capsicum chinense"], "relation": "parent taxon"}
+{"study": "Brassica rapa subsp. chinensis is to Brassica rapa", "query": "Pterois volitans is to", "target": ["Pterois"], "relation": "parent taxon"}
+{"study": "Larix decidua is to Larix", "query": "Cucumis melo var. cantalupensis is to", "target": ["Cucumis melo"], "relation": "parent taxon"}
+{"study": "Taxus baccata is to Taxus", "query": "influenza A virus subtype H1N1 is to", "target": ["influenza A virus"], "relation": "parent taxon"}
+{"study": "Renzi Cabinet is to Gentiloni Cabinet", "query": "Gold Coast is to", "target": ["Ghana"], "relation": "replaced by"}
+{"study": "Hordeum vulgare var. nudum or Hordeum vulgare var. trifurcatum is to Hordeum vulgare", "query": "northern goshawk is to", "target": ["Accipiter"], "relation": "parent taxon"}
+{"study": "beaver is to Castoridae", "query": "Northern Raven is to", "target": ["Corvus"], "relation": "parent taxon"}
+{"study": "Pistacia vera is to Pistacia", "query": "Coffea is to", "target": ["Rubiaceae"], "relation": "parent taxon"}
+{"study": "Ranil Wickremesinghe is to Sinhala", "query": "Nelson Mandela is to", "target": ["Xhosa"], "relation": "native language"}
+{"study": "Physeter macrocephalus is to Physeter", "query": "Pyrus pyrifolia is to", "target": ["Pyrus"], "relation": "parent taxon"}
+{"study": "Papaver somniferum is to Papaver", "query": "Salix is to", "target": ["Salicaceae"], "relation": "parent taxon"}
+{"study": "XX Constitutional Government of Portugal is to XXI Constitutional Government of Portugal", "query": "EMD 567 is to", "target": ["EMD 645"], "relation": "replaced by"}
+{"study": "Lyceum of the Principality of Serbia is to University of Belgrade", "query": "Alabama Territory is to", "target": ["Alabama"], "relation": "replaced by"}
+{"study": "Kumyks is to Kumyk", "query": "N. T. Rama Rao is to", "target": ["Telugu"], "relation": "native language"}
+{"study": "Redband trout is to rainbow trout", "query": "Aronia melanocarpa is to", "target": ["Aronia"], "relation": "parent taxon"}
+{"study": "Rhus typhina is to Rhus", "query": "Cricetinae is to", "target": ["Muridae"], "relation": "parent taxon"}
+{"study": "Wisteria floribunda is to Wisteria", "query": "Epipremnum aureum is to", "target": ["Epipremnum"], "relation": "parent taxon"}
+{"study": "Windows Live Mesh is to Microsoft OneDrive", "query": "D'Alema I Cabinet is to", "target": ["D'Alema II Cabinet"], "relation": "replaced by"}
+{"study": "flat peach is to peach", "query": "Fagus sylvatica is to", "target": ["Fagus"], "relation": "parent taxon"}
+{"study": "Saccharomyces cerevisiae is to Saccharomyces", "query": "Chenopodium quinoa is to", "target": ["Chenopodium"], "relation": "parent taxon"}
+{"study": "beaver is to Castoridae", "query": "Otariidae is to", "target": ["Pinnipedia"], "relation": "parent taxon"}
+{"study": "Bulgarians is to Bulgarian", "query": "Zhuang people is to", "target": ["Zhuang"], "relation": "native language"}
+{"study": "Cape wild dog is to African wild dog", "query": "Anemone nemorosa is to", "target": ["Anemone"], "relation": "parent taxon"}
+{"study": "Pistacia vera is to Pistacia", "query": "Epipremnum aureum is to", "target": ["Epipremnum"], "relation": "parent taxon"}
+{"study": "Art Supawatt Purdy is to Thai", "query": "Bosniaks is to", "target": ["Bosnian"], "relation": "native language"}
+{"study": "Social Democratic Workers' Party of Germany is to Social Democratic Party of Germany", "query": "County of Aragon is to", "target": ["Kingdom of Aragon"], "relation": "replaced by"}
+{"study": "EMD 567 is to EMD 645", "query": "Microsoft Office XML formats is to", "target": ["Office Open XML"], "relation": "replaced by"}
+{"study": "French Sudan is to Mali", "query": "Taff Vale Railway is to", "target": ["Great Western Railway"], "relation": "replaced by"}
+{"study": "Windows Live Mesh is to Microsoft OneDrive", "query": "De Gasperi V Cabinet is to", "target": ["De Gasperi VI Cabinet"], "relation": "replaced by"}
+{"study": "Sorbus aucuparia is to Sorbus", "query": "Lonicera japonica is to", "target": ["Lonicera"], "relation": "parent taxon"}
+{"study": "State Security Investigations Service is to National Security Agency", "query": "Azerbaijan Democratic Republic is to", "target": ["Azerbaijan Soviet Socialist Republic"], "relation": "replaced by"}
+{"study": "Internet Explorer is to Microsoft Edge", "query": "International Security Assistance Force is to", "target": ["Resolute Support Mission"], "relation": "replaced by"}
+{"study": "Morchella esculenta is to Morchella", "query": "Euphorbia pulcherrima is to", "target": ["Euphorbia"], "relation": "parent taxon"}
+{"study": "International Security Assistance Force is to Resolute Support Mission", "query": "Territory of Hawaii is to", "target": ["Hawaii"], "relation": "replaced by"}
+{"study": "Cristiano Ronaldo is to Portuguese", "query": "Hans Christian Andersen is to", "target": ["Danish"], "relation": "native language"}
+{"study": "Anatidae is to Anseriformes", "query": "Nicotiana tabacum is to", "target": ["Nicotiana"], "relation": "parent taxon"}
+{"study": "Fagopyrum esculentum is to Fagopyrum", "query": "Wisteria floribunda is to", "target": ["Wisteria"], "relation": "parent taxon"}
+{"study": "Artemisia absinthium is to Artemisia", "query": "Cactoideae is to", "target": ["Cactaceae"], "relation": "parent taxon"}
+{"study": "Hafsat Abdulwaheed is to Hausa", "query": "Corsicans is to", "target": ["Corsican"], "relation": "native language"}
+{"study": "Passer is to Passeridae", "query": "Lonicera japonica is to", "target": ["Lonicera"], "relation": "parent taxon"}
+{"study": "dromedary is to Camelus", "query": "Citrus medica var. sarcodactylis is to", "target": ["Citrus medica"], "relation": "parent taxon"}
+{"study": "German Empire is to Weimar Republic", "query": "West Germany is to", "target": ["Germany"], "relation": "replaced by"}
+{"study": "Kazakh Soviet Socialist Republic is to Kazakhstan", "query": "Film Australia is to", "target": ["Screen Australia"], "relation": "replaced by"}
+{"study": "Crocodylus porosus is to Crocodylus", "query": "Polychaeta is to", "target": ["Annelida"], "relation": "parent taxon"}
+{"study": "Republic of Montenegro is to Montenegro", "query": "Legislative Assembly of the Province of Canada is to", "target": ["Legislative Assembly of Ontario"], "relation": "replaced by"}
+{"study": "Dendrobatidae is to Anura", "query": "sea urchin is to", "target": ["Echinodermata"], "relation": "parent taxon"}
+{"study": "Thirteen Colonies is to United States of America", "query": "Dominion of Ceylon is to", "target": ["Sri Lanka"], "relation": "replaced by"}
+{"study": "Marinid Dynasty is to Wattasid dynasty", "query": "South-West Africa is to", "target": ["Namibia"], "relation": "replaced by"}
+{"study": "Crimean Tatars is to Crimean Tatar", "query": "Alicia Vikander is to", "target": ["Swedish"], "relation": "native language"}
+{"study": "Escherichia coli is to Escherichia", "query": "Tipula is to", "target": ["Tipulidae"], "relation": "parent taxon"}
+{"study": "Qing dynasty is to Republic of China", "query": "United Kingdom of Portugal, Brazil and the Algarves is to", "target": ["Empire of Brazil"], "relation": "replaced by"}
+{"study": "Felinae is to Felidae", "query": "Magicicada is to", "target": ["Cicadidae"], "relation": "parent taxon"}
+{"study": "Cucurbita pepo is to Cucurbita", "query": "Salix babylonica is to", "target": ["Salix"], "relation": "parent taxon"}
+{"study": "Northern Raven is to Corvus", "query": "Pistacia vera is to", "target": ["Pistacia"], "relation": "parent taxon"}
+{"study": "Berlusconi II Cabinet is to Berlusconi III Cabinet", "query": "Continental Congress is to", "target": ["United States Congress"], "relation": "replaced by"}
+{"study": "Norwegian Army Air Service is to Royal Norwegian Air Force", "query": "Fanfani III Cabinet is to", "target": ["Fanfani IV Cabinet"], "relation": "replaced by"}
+{"study": "Heracleum mantegazzianum is to Heracleum", "query": "Salix babylonica is to", "target": ["Salix"], "relation": "parent taxon"}
+{"study": "Paramecium caudatum is to Paramecium", "query": "Streptococcus pneumoniae is to", "target": ["Streptococcus"], "relation": "parent taxon"}
+{"study": "Anne of Brittany is to Breton", "query": "Crimean Tatars is to", "target": ["Crimean Tatar"], "relation": "native language"}
+{"study": "Zhili is to Hebei", "query": "West Germany is to", "target": ["Germany"], "relation": "replaced by"}
+{"study": "Dionaea muscipula is to Dionaea", "query": "West Indian manatee is to", "target": ["Trichechus"], "relation": "parent taxon"}
+{"study": "megalodon is to Carcharocles", "query": "Formosan clouded leopard is to", "target": ["clouded leopard"], "relation": "parent taxon"}
+{"study": "Yersinia pestis is to Yersinia", "query": "Bombus terrestris is to", "target": ["Bombus"], "relation": "parent taxon"}
+{"study": "Gorilla is to Hominidae", "query": "Haliaeetus is to", "target": ["Accipitridae"], "relation": "parent taxon"}
+{"study": "Tilia cordata is to Tilia", "query": "Kalanchoe blossfeldiana is to", "target": ["Kalanchoe"], "relation": "parent taxon"}
+{"study": "Escherichia coli is to Escherichia", "query": "Agaricus bisporus is to", "target": ["Agaricus"], "relation": "parent taxon"}
+{"study": "Thunnus is to Thunnini", "query": "liquorice is to", "target": ["Glycyrrhiza"], "relation": "parent taxon"}
+{"study": "Canis is to Canidae", "query": "Lophiidae is to", "target": ["Lophiiformes"], "relation": "parent taxon"}
+{"study": "Michael Essien is to Akan", "query": "Macedonians is to", "target": ["Macedonian"], "relation": "native language"}
+{"study": "Alnus glutinosa is to Alnus", "query": "Pterois volitans is to", "target": ["Pterois"], "relation": "parent taxon"}
+{"study": "Northern Raven is to Corvus", "query": "Nepeta cataria is to", "target": ["Nepeta"], "relation": "parent taxon"}
+{"study": "Iguana is to Iguanidae", "query": "Jacaranda mimosifolia is to", "target": ["Jacaranda"], "relation": "parent taxon"}
+{"study": "EMD 567 is to EMD 645", "query": "Old English Latin alphabet is to", "target": ["English alphabet"], "relation": "replaced by"}
+{"study": "Mycenaean Greece is to Greek Dark Ages", "query": "Second Empire of Haiti is to", "target": ["Haiti"], "relation": "replaced by"}
+{"study": "Thirteen Colonies is to United States of America", "query": "Trucial States is to", "target": ["United Arab Emirates"], "relation": "replaced by"}
+{"study": "Amanita muscaria is to Amanita", "query": "Malus sylvestris is to", "target": ["Malus"], "relation": "parent taxon"}
+{"study": "Qinling panda is to giant panda", "query": "Bacillus anthracis is to", "target": ["Bacillus"], "relation": "parent taxon"}
+{"study": "Amanita muscaria is to Amanita", "query": "Hydra vulgaris is to", "target": ["Hydra"], "relation": "parent taxon"}
+{"study": "Rheinische Zeitung is to Neue Rheinische Zeitung", "query": "Southwest Territory is to", "target": ["Tennessee"], "relation": "replaced by"}
+{"study": "Crocus sativus is to Crocus", "query": "Bacillus anthracis is to", "target": ["Bacillus"], "relation": "parent taxon"}
+{"study": "Drosophila melanogaster is to Drosophila", "query": "influenza A virus subtype H1N1 is to", "target": ["influenza A virus"], "relation": "parent taxon"}
+{"study": "Araneus diadematus is to Araneus", "query": "Erythroxylum coca is to", "target": ["Erythroxylum"], "relation": "parent taxon"}
+{"study": "Naja is to Elapidae", "query": "Erythroxylum coca is to", "target": ["Erythroxylum"], "relation": "parent taxon"}
+{"study": "Indian elephant is to Asian elephant", "query": "Palawan binturong is to", "target": ["binturong"], "relation": "parent taxon"}
+{"study": "Entamoeba histolytica is to Entamoeba", "query": "Haliaeetus is to", "target": ["Accipitridae"], "relation": "parent taxon"}
+{"study": "Gold Coast is to Ghana", "query": "Old English is to", "target": ["Middle English"], "relation": "replaced by"}
+{"study": "Scutigera coleoptrata is to Scutigera", "query": "Crataegus monogyna is to", "target": ["Crataegus"], "relation": "parent taxon"}
+{"study": "Gold Coast is to Ghana", "query": "StarOffice is to", "target": ["OpenOffice.org"], "relation": "replaced by"}
+{"study": "Kalanchoe blossfeldiana is to Kalanchoe", "query": "dingo is to", "target": ["wolf"], "relation": "parent taxon"}
+{"study": "Mespilus germanica is to Mespilus", "query": "invertebrate is to", "target": ["animal"], "relation": "parent taxon"}
+{"study": "Bornean orangutan is to Orangutan", "query": "Camelus is to", "target": ["Camelidae"], "relation": "parent taxon"}
+{"study": "Old Chinese is to Middle Chinese", "query": "Big Eight Conference is to", "target": ["Big 12 Conference"], "relation": "replaced by"}
+{"study": "Ranbir Kapoor is to Hindi", "query": "Armenians is to", "target": ["Armenian"], "relation": "native language"}
+{"study": "northern goshawk is to Accipiter", "query": "Lavandula angustifolia is to", "target": ["Lavandula"], "relation": "parent taxon"}
+{"study": "Gorilla is to Hominidae", "query": "Vespa is to", "target": ["Vespinae"], "relation": "parent taxon"}
+{"study": "Southwest Territory is to Tennessee", "query": "Lyceum of the Principality of Serbia is to", "target": ["University of Belgrade"], "relation": "replaced by"}
+{"study": "sesame is to Sesamum", "query": "Myosotis sylvatica is to", "target": ["Myosotis"], "relation": "parent taxon"}
+{"study": "Marie Curie is to Polish", "query": "Bulgarians is to", "target": ["Bulgarian"], "relation": "native language"}
+{"study": "Mitragyna speciosa is to Mitragyna", "query": "Mastadenovirus is to", "target": ["Adenoviridae"], "relation": "parent taxon"}
+{"study": "Pholcus is to Pholcidae", "query": "European hedgehog is to", "target": ["Erinaceus"], "relation": "parent taxon"}
+{"study": "Udmurt Autonomous Soviet Socialist Republic is to Udmurt Republic", "query": "Colony of Vancouver Island is to", "target": ["Colony of British Columbia"], "relation": "replaced by"}
+{"study": "western barn owl is to Tyto", "query": "Scolopendra gigantea is to", "target": ["Scolopendra"], "relation": "parent taxon"}
+{"study": "Mississippi Territory is to Mississippi", "query": "Big Eight Conference is to", "target": ["Big 12 Conference"], "relation": "replaced by"}
+{"study": "Hydrangea is to Hydrangeaceae", "query": "green iguana is to", "target": ["Iguana"], "relation": "parent taxon"}
+{"study": "Testudo is to Testudinidae", "query": "Brown Bear is to", "target": ["Ursus"], "relation": "parent taxon"}
+{"study": "Ozbek is to Uzbek", "query": "Lhotshampa is to", "target": ["Nepali"], "relation": "native language"}
+{"study": "Bos primigenius indicus is to Bos primigenius", "query": "Wisteria floribunda is to", "target": ["Wisteria"], "relation": "parent taxon"}
+{"study": "Insular Government of the Philippine Islands is to Commonwealth of the Philippines", "query": "Mississippi Territory is to", "target": ["Mississippi"], "relation": "replaced by"}
+{"study": "Mandatory Palestine is to Israel", "query": "Papal States is to", "target": ["Vatican City"], "relation": "replaced by"}
+{"study": "Slavs is to Slavic", "query": "Ozbek is to", "target": ["Uzbek"], "relation": "native language"}
+{"study": "Chenopodium quinoa is to Chenopodium", "query": "Saccharomyces cerevisiae is to", "target": ["Saccharomyces"], "relation": "parent taxon"}
+{"study": "Commonwealth realm of Uganda is to Uganda", "query": "Ming dynasty is to", "target": ["Qing dynasty"], "relation": "replaced by"}
+{"study": "Rumor IV Cabinet is to Rumor V Cabinet", "query": "Kingdom of Israel is to", "target": ["Judah"], "relation": "replaced by"}
+{"study": "Hordeum vulgare is to Hordeum", "query": "Cantharellus cibarius is to", "target": ["Cantharellus"], "relation": "parent taxon"}
+{"study": "Aconitum napellus is to Aconitum", "query": "Magnolia grandiflora is to", "target": ["Magnolia"], "relation": "parent taxon"}
+{"study": "Muhammedan Anglo-Oriental College is to Aligarh Muslim University", "query": "Province of Canada is to", "target": ["Canada"], "relation": "replaced by"}
+{"study": "Plantago major is to Plantago", "query": "Scolopendra gigantea is to", "target": ["Scolopendra"], "relation": "parent taxon"}
+{"study": "Coffea is to Rubiaceae", "query": "Mustela erminea is to", "target": ["Mustela"], "relation": "parent taxon"}
+{"study": "Wisteria floribunda is to Wisteria", "query": "Nanobacterium is to", "target": ["bacteria"], "relation": "parent taxon"}
+{"study": "De Gasperi II Cabinet is to De Gasperi III Cabinet", "query": "UCI Women's Road World Cup is to", "target": ["UCI Women's World Tour"], "relation": "replaced by"}
+{"study": "International Security Assistance Force is to Resolute Support Mission", "query": "South Eastern and Chatham Railway is to", "target": ["Southern Railway"], "relation": "replaced by"}
+{"study": "Province of Canada is to Canada", "query": "Gold Coast is to", "target": ["Ghana"], "relation": "replaced by"}
+{"study": "Bashar al-Assad is to Arabic", "query": "Lionel Messi is to", "target": ["Spanish"], "relation": "native language"}
+{"study": "Larix decidua is to Larix", "query": "dromedary is to", "target": ["Camelus"], "relation": "parent taxon"}
+{"study": "Schweizerische Nordostbahn is to Swiss Federal Railways", "query": "Newfoundland dollar is to", "target": ["Canadian dollar"], "relation": "replaced by"}
+{"study": "mandrill is to Mandrillus", "query": "Lens culinaris is to", "target": ["Lens"], "relation": "parent taxon"}
+{"study": "Muhammedan Anglo-Oriental College is to Aligarh Muslim University", "query": "Scottish Aviation is to", "target": ["British Aerospace"], "relation": "replaced by"}
+{"study": "Cantharellus cibarius is to Cantharellus", "query": "caracal is to", "target": ["Caracal"], "relation": "parent taxon"}
+{"study": "Adolf Hitler is to German", "query": "Bosniaks is to", "target": ["Bosnian"], "relation": "native language"}
+{"study": "invertebrate is to animal", "query": "Mimosa pudica is to", "target": ["Mimosa"], "relation": "parent taxon"}
+{"study": "Tectona grandis is to Tectona", "query": "Elephantidae is to", "target": ["Proboscidea"], "relation": "parent taxon"}
+{"study": "Florida Territory is to Florida", "query": "People's Socialist Republic of Albania is to", "target": ["Albania"], "relation": "replaced by"}
+{"study": "cherry tomato is to tomato", "query": "Nepeta cataria is to", "target": ["Nepeta"], "relation": "parent taxon"}
+{"study": "Crocodylus porosus is to Crocodylus", "query": "Lucanus cervus is to", "target": ["Lucanus"], "relation": "parent taxon"}
+{"study": "Ang Mey is to Khmer", "query": "Rabindranath Tagore is to", "target": ["Bengali"], "relation": "native language"}
+{"study": "Aconitum napellus is to Aconitum", "query": "Candida albicans is to", "target": ["Candida"], "relation": "parent taxon"}
+{"study": "Secale cereale is to Secale", "query": "Ardeidae is to", "target": ["Pelecaniformes"], "relation": "parent taxon"}
+{"study": "Kim Jong-il is to Korean", "query": "Frithuswith is to", "target": ["Old English"], "relation": "native language"}
+{"study": "Margerita Camilleri Fenech is to Maltese", "query": "Armenians is to", "target": ["Armenian"], "relation": "native language"}
+{"study": "Ming dynasty is to Qing dynasty", "query": "Colony of Vancouver Island is to", "target": ["Colony of British Columbia"], "relation": "replaced by"}
+{"study": "DirectShow is to Media Foundation", "query": "Czechoslovakia is to", "target": ["Czech Republic"], "relation": "replaced by"}
+{"study": "Michael I of Romania is to Romanian", "query": "Abdul Rasul Sayyaf is to", "target": ["Pashto"], "relation": "native language"}
+{"study": "Oryza sativa is to Oryza", "query": "Nephelium lappaceum is to", "target": ["Nephelium"], "relation": "parent taxon"}
+{"study": "Varanus komodoensis is to Varanus", "query": "Blattella germanica is to", "target": ["Blattella"], "relation": "parent taxon"}
+{"study": "Bobby Ologun is to Yoruba", "query": "Somalis is to", "target": ["Somali"], "relation": "native language"}
+{"study": "Ranil Wickremesinghe is to Sinhala", "query": "Kersti Kaljulaid is to", "target": ["Estonian"], "relation": "native language"}
+{"study": "Python is to Pythonidae", "query": "Equus africanus asinus is to", "target": ["Equus africanus"], "relation": "parent taxon"}
+{"study": "South Yemen is to Yemen", "query": "MAN Diesel SE is to", "target": ["MAN Energy Solutions"], "relation": "replaced by"}
+{"study": "Michael I of Romania is to Romanian", "query": "Mohandas Karamchand Gandhi is to", "target": ["Gujarati"], "relation": "native language"}
+{"study": "Aesculus hippocastanum is to Aesculus", "query": "Elaeis is to", "target": ["Arecaceae"], "relation": "parent taxon"}
+{"study": "Crataegus monogyna is to Crataegus", "query": "Phaseolus vulgaris is to", "target": ["Phaseolus"], "relation": "parent taxon"}
+{"study": "monkeypox virus is to Orthopoxvirus", "query": "Anatidae is to", "target": ["Anseriformes"], "relation": "parent taxon"}
+{"study": "Lyceum of the Principality of Serbia is to University of Belgrade", "query": "Republic of Bosnia and Herzegovina is to", "target": ["Bosnia and Herzegovina"], "relation": "replaced by"}
+{"study": "Salix babylonica is to Salix", "query": "Entamoeba histolytica is to", "target": ["Entamoeba"], "relation": "parent taxon"}
+{"study": "Danaus plexippus is to Danaus", "query": "Eutardigrade is to", "target": ["Tardigrada"], "relation": "parent taxon"}
+{"study": "Committee of European Securities Regulators is to European Securities and Markets Authority", "query": "Reichsrat is to", "target": ["Bundesrat"], "relation": "replaced by"}
+{"study": "Chamaeleoninae is to Chamaeleonidae", "query": "Lavandula angustifolia is to", "target": ["Lavandula"], "relation": "parent taxon"}
+{"study": "Barbary stag is to Red Deer", "query": "Staphylococcus aureus is to", "target": ["Staphylococcus"], "relation": "parent taxon"}
+{"study": "Brachiosaurus is to Brachiosauridae", "query": "Juglans regia is to", "target": ["Juglans"], "relation": "parent taxon"}
+{"study": "Capparis spinosa subsp. nummularia is to Capparis spinosa", "query": "cherry tomato is to", "target": ["tomato"], "relation": "parent taxon"}
+{"study": "Zhili is to Hebei", "query": "Windows Live Mesh is to", "target": ["Microsoft OneDrive"], "relation": "replaced by"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "Elasmobranchii is to", "target": ["Chondrichthyes"], "relation": "parent taxon"}
+{"study": "Trucial States is to United Arab Emirates", "query": "Crown Colony of Sarawak is to", "target": ["Sarawak"], "relation": "replaced by"}
+{"study": "Province of New York is to New York", "query": "Azerbaijan Democratic Republic is to", "target": ["Azerbaijan Soviet Socialist Republic"], "relation": "replaced by"}
+{"study": "Qing dynasty is to Republic of China", "query": "Dominion of New Zealand is to", "target": ["New Zealand"], "relation": "replaced by"}
+{"study": "Morchella esculenta is to Morchella", "query": "Plasmodium falciparum is to", "target": ["Plasmodium"], "relation": "parent taxon"}
+{"study": "Bornean orangutan is to Orangutan", "query": "Bos primigenius indicus is to", "target": ["Bos primigenius"], "relation": "parent taxon"}
+{"study": "Passiflora edulis is to Passiflora", "query": "Mitragyna speciosa is to", "target": ["Mitragyna"], "relation": "parent taxon"}
+{"study": "Bombus terrestris is to Bombus", "query": "Boa constrictor is to", "target": ["Boa"], "relation": "parent taxon"}
+{"study": "Tawny Owl is to Strix", "query": "Fagus sylvatica is to", "target": ["Fagus"], "relation": "parent taxon"}
+{"study": "Wisteria floribunda is to Wisteria", "query": "Felinae is to", "target": ["Felidae"], "relation": "parent taxon"}
+{"study": "wolf is to Canis", "query": "St Kilda Wren is to", "target": ["Eurasian Wren"], "relation": "parent taxon"}
+{"study": "Gadus morhua is to Gadus", "query": "Brachiosaurus is to", "target": ["Brachiosauridae"], "relation": "parent taxon"}
+{"study": "Crocodylus porosus is to Crocodylus", "query": "Narcissus pseudonarcissus is to", "target": ["Narcissus"], "relation": "parent taxon"}
+{"study": "Spathiphyllum wallisii is to Spathiphyllum", "query": "Larix decidua is to", "target": ["Larix"], "relation": "parent taxon"}
+{"study": "South Eastern and Chatham Railway is to Southern Railway", "query": "De Gasperi III Cabinet is to", "target": ["De Gasperi IV Cabinet"], "relation": "replaced by"}
+{"study": "Gorilla is to Hominidae", "query": "mandrill is to", "target": ["Mandrillus"], "relation": "parent taxon"}
+{"study": "Bald Eagle is to Haliaeetus", "query": "Trifolium repens is to", "target": ["Trifolium"], "relation": "parent taxon"}
+{"study": "Thunnus is to Thunnini", "query": "Hydrochoerus hydrochaeris is to", "target": ["Hydrochoerus"], "relation": "parent taxon"}
+{"study": "Asian tiger mosquito is to Aedes", "query": "Brassica rapa subsp. chinensis is to", "target": ["Brassica rapa"], "relation": "parent taxon"}
+{"study": "Parliament of Great Britain is to Parliament of the United Kingdom", "query": "Southwest Territory is to", "target": ["Tennessee"], "relation": "replaced by"}
+{"study": "common ostrich is to Struthio", "query": "Chamaeleoninae is to", "target": ["Chamaeleonidae"], "relation": "parent taxon"}
+{"study": "northern goshawk is to Accipiter", "query": "Cape wild dog is to", "target": ["African wild dog"], "relation": "parent taxon"}
+{"study": "Ardeidae is to Pelecaniformes", "query": "Theobroma cacao is to", "target": ["Theobroma"], "relation": "parent taxon"}
+{"study": "Serbia and Montenegro is to Serbia", "query": "Canada East is to", "target": ["Quebec"], "relation": "replaced by"}
+{"study": "Vespa is to Vespinae", "query": "Paramecium caudatum is to", "target": ["Paramecium"], "relation": "parent taxon"}
+{"study": "Tilia cordata is to Tilia", "query": "Populus tremula is to", "target": ["Populus"], "relation": "parent taxon"}
+{"study": "Hordeum vulgare var. nudum or Hordeum vulgare var. trifurcatum is to Hordeum vulgare", "query": "Theobroma cacao is to", "target": ["Theobroma"], "relation": "parent taxon"}
+{"study": "Alvar Aalto is to Finnish", "query": "Lithuanians is to", "target": ["Lithuanian"], "relation": "native language"}
+{"study": "Grand Duchy of Finland is to Finland", "query": "French Sudan is to", "target": ["Mali"], "relation": "replaced by"}
+{"study": "Old Chinese is to Middle Chinese", "query": "Province of New Jersey is to", "target": ["New Jersey"], "relation": "replaced by"}
+{"study": "Vespinae is to Vespidae", "query": "monkeypox virus is to", "target": ["Orthopoxvirus"], "relation": "parent taxon"}
+{"study": "Danaus plexippus is to Danaus", "query": "peanut is to", "target": ["Arachis"], "relation": "parent taxon"}
+{"study": "beaver is to Castoridae", "query": "Bos primigenius is to", "target": ["Bos"], "relation": "parent taxon"}
+{"study": "Yersinia pestis is to Yersinia", "query": "potato is to", "target": ["Solanum"], "relation": "parent taxon"}
+{"study": "Margerita Camilleri Fenech is to Maltese", "query": "Hazaras is to", "target": ["Hazaragi"], "relation": "native language"}
+{"study": "Enterococcus faecalis is to Enterococcus", "query": "Lepisma saccharina is to", "target": ["Lepisma"], "relation": "parent taxon"}
+{"study": "Anguis fragilis is to Anguis", "query": "flat peach is to", "target": ["peach"], "relation": "parent taxon"}
+{"study": "rooibos is to Aspalathus", "query": "Chinchilla is to", "target": ["Chinchillidae"], "relation": "parent taxon"}
+{"study": "International Security Assistance Force is to Resolute Support Mission", "query": "Socialist Republic of Montenegro is to", "target": ["Republic of Montenegro"], "relation": "replaced by"}
+{"study": "Somalis is to Somali", "query": "Samoans is to", "target": ["Samoan"], "relation": "native language"}
+{"study": "Betula pendula is to Betula", "query": "Tectona grandis is to", "target": ["Tectona"], "relation": "parent taxon"}
+{"study": "Picinae is to Picidae", "query": "Corylus avellana is to", "target": ["Corylus"], "relation": "parent taxon"}
+{"study": "Spadolini I Cabinet is to Spadolini II Cabinet", "query": "Czechoslovakia is to", "target": ["Czech Republic"], "relation": "replaced by"}
+{"study": "Xylocopa violacea is to Xylocopa", "query": "Escherichia coli is to", "target": ["Escherichia"], "relation": "parent taxon"}
+{"study": "Ming dynasty is to Qing dynasty", "query": "Film Australia is to", "target": ["Screen Australia"], "relation": "replaced by"}
+{"study": "Bosniaks is to Bosnian", "query": "Lhotshampa is to", "target": ["Nepali"], "relation": "native language"}
+{"study": "northern goshawk is to Accipiter", "query": "Populus tremula is to", "target": ["Populus"], "relation": "parent taxon"}
+{"study": "Upper Canada is to Province of Canada", "query": "Microsoft Active Accessibility is to", "target": ["UI Automation"], "relation": "replaced by"}
+{"study": "European perch is to perch", "query": "Mitragyna speciosa is to", "target": ["Mitragyna"], "relation": "parent taxon"}
+{"study": "Bashar al-Assad is to Arabic", "query": "Michael Essien is to", "target": ["Akan"], "relation": "native language"}
+{"study": "North Ossetian Autonomous Soviet Socialist Republic is to Republic of North Ossetia-Alania", "query": "Florida Territory is to", "target": ["Florida"], "relation": "replaced by"}
+{"study": "Paramecium caudatum is to Paramecium", "query": "Lupinus albus is to", "target": ["Lupinus"], "relation": "parent taxon"}
+{"study": "Republic of China is to People's Republic of China", "query": "Udmurt Autonomous Soviet Socialist Republic is to", "target": ["Udmurt Republic"], "relation": "replaced by"}
+{"study": "Brassica rapa subsp. chinensis is to Brassica rapa", "query": "Galanthus is to", "target": ["Amaryllidaceae"], "relation": "parent taxon"}
+{"study": "Alvar Aalto is to Finnish", "query": "Xabi Alonso is to", "target": ["Basque"], "relation": "native language"}
+{"study": "Nematocera is to Diptera", "query": "Bald Eagle is to", "target": ["Haliaeetus"], "relation": "parent taxon"}
+{"study": "De Gasperi II Cabinet is to De Gasperi III Cabinet", "query": "Papal States is to", "target": ["Vatican City"], "relation": "replaced by"}
+{"study": "pomelo is to Citrus", "query": "Mycoplasma pneumoniae is to", "target": ["Mycoplasma"], "relation": "parent taxon"}
+{"study": "Lycosa is to Lycosidae", "query": "cherry tomato is to", "target": ["tomato"], "relation": "parent taxon"}
+{"study": "Trigonella foenum-graecum is to Trigonella", "query": "Staphylococcus aureus is to", "target": ["Staphylococcus"], "relation": "parent taxon"}
+{"study": "Mackinac National Park is to Mackinac Island State Park", "query": "Ulucanlar Prison Museum is to", "target": ["museum"], "relation": "replaced by"}
+{"study": "Angelica is to Apiaceae", "query": "Datura stramonium is to", "target": ["Datura"], "relation": "parent taxon"}
+{"study": "Ursus is to Ursidae", "query": "oceanic manta ray is to", "target": ["Manta"], "relation": "parent taxon"}
+{"study": "Ming dynasty is to Qing dynasty", "query": "Serious Organised Crime Agency is to", "target": ["National Crime Agency"], "relation": "replaced by"}
+{"study": "Trifolium repens is to Trifolium", "query": "Scutigera coleoptrata is to", "target": ["Scutigera"], "relation": "parent taxon"}
+{"study": "People's Republic of Hungary is to Hungary", "query": "Province of New Jersey is to", "target": ["New Jersey"], "relation": "replaced by"}
+{"study": "Gold Coast is to Ghana", "query": "British Indian Army is to", "target": ["Indian Army"], "relation": "replaced by"}
+{"study": "Populus tremula is to Populus", "query": "cephalopod is to", "target": ["Mollusca"], "relation": "parent taxon"}
+{"study": "Morchella esculenta is to Morchella", "query": "Yucca brevifolia is to", "target": ["Yucca"], "relation": "parent taxon"}
+{"study": "Chinchilla is to Chinchillidae", "query": "Heracleum mantegazzianum is to", "target": ["Heracleum"], "relation": "parent taxon"}
+{"study": "Brachiosaurus is to Brachiosauridae", "query": "Physeter macrocephalus is to", "target": ["Physeter"], "relation": "parent taxon"}
+{"study": "Gold Coast is to Ghana", "query": "Northern Rhodesia is to", "target": ["Zambia"], "relation": "replaced by"}
+{"study": "Anemone is to Ranunculaceae", "query": "Euphorbia pulcherrima is to", "target": ["Euphorbia"], "relation": "parent taxon"}
+{"study": "D'Alema I Cabinet is to D'Alema II Cabinet", "query": "Legislative Assembly of the Province of Canada is to", "target": ["Legislative Assembly of Ontario"], "relation": "replaced by"}
+{"study": "County of Aragon is to Kingdom of Aragon", "query": "Republic of Montenegro is to", "target": ["Montenegro"], "relation": "replaced by"}
+{"study": "Kersti Kaljulaid is to Estonian", "query": "Fofi Gennimata is to", "target": ["Greek"], "relation": "native language"}
+{"study": "Serious Organised Crime Agency is to National Crime Agency", "query": "South Eastern and Chatham Railway is to", "target": ["Southern Railway"], "relation": "replaced by"}
+{"study": "great white shark is to Carcharodon", "query": "Coriandrum sativum is to", "target": ["Coriandrum"], "relation": "parent taxon"}
+{"study": "Oryza sativa is to Oryza", "query": "Physalis peruviana is to", "target": ["Physalis"], "relation": "parent taxon"}
+{"study": "Neisseria meningitidis is to Neisseria", "query": "Cucumis sativus is to", "target": ["Cucumis"], "relation": "parent taxon"}
+{"study": "Apis mellifera is to Apis", "query": "Mycobacterium tuberculosis is to", "target": ["Mycobacterium"], "relation": "parent taxon"}
+{"study": "Colony of Vancouver Island is to Colony of British Columbia", "query": "Northern Rhodesia is to", "target": ["Zambia"], "relation": "replaced by"}
+{"study": "Thirteen Colonies is to United States of America", "query": "Chairman of the Municipality of Metropolitan Toronto is to", "target": ["Mayor of Toronto"], "relation": "replaced by"}
+{"study": "Frithuswith is to Old English", "query": "Nelson Mandela is to", "target": ["Xhosa"], "relation": "native language"}
+{"study": "Ming dynasty is to Qing dynasty", "query": "British National Space Centre is to", "target": ["UK Space Agency"], "relation": "replaced by"}
+{"study": "Bacillus anthracis is to Bacillus", "query": "Lucanus cervus is to", "target": ["Lucanus"], "relation": "parent taxon"}
+{"study": "Guru Nanak is to Guru Angad Dev", "query": "University College, Bristol is to", "target": ["University of Bristol"], "relation": "replaced by"}
+{"study": "Eucestoda is to Cestoda", "query": "Plantago major is to", "target": ["Plantago"], "relation": "parent taxon"}
+{"study": "Lepus californicus is to Lepus", "query": "Barbary stag is to", "target": ["Red Deer"], "relation": "parent taxon"}
+{"study": "Cricetinae is to Muridae", "query": "Australopithecus afarensis is to", "target": ["Australopithecus"], "relation": "parent taxon"}
+{"study": "Urtica is to Urticaceae", "query": "Azhdarchidae is to", "target": ["pterosaur"], "relation": "parent taxon"}
+{"study": "flat peach is to peach", "query": "Vespinae is to", "target": ["Vespidae"], "relation": "parent taxon"}
+{"study": "Hordeum vulgare is to Hordeum", "query": "Phaseolus vulgaris is to", "target": ["Phaseolus"], "relation": "parent taxon"}
+{"study": "Nematocera is to Diptera", "query": "pomelo is to", "target": ["Citrus"], "relation": "parent taxon"}
+{"study": "Hittites is to Hittite", "query": "Alicia Vikander is to", "target": ["Swedish"], "relation": "native language"}
+{"study": "Salix is to Salicaceae", "query": "Nigella sativa is to", "target": ["Nigella"], "relation": "parent taxon"}
+{"study": "Crown Colony of Sarawak is to Sarawak", "query": "Serbia and Montenegro is to", "target": ["Serbia"], "relation": "replaced by"}
+{"study": "Mustela erminea is to Mustela", "query": "Amanita muscaria is to", "target": ["Amanita"], "relation": "parent taxon"}
+{"study": "Plasmodium falciparum is to Plasmodium", "query": "Pinus pinea is to", "target": ["Pinus"], "relation": "parent taxon"}
+{"study": "Blattella germanica is to Blattella", "query": "Amaranthus retroflexus is to", "target": ["Amaranthus"], "relation": "parent taxon"}
+{"study": "Province of New York is to New York", "query": "Scottish Aviation is to", "target": ["British Aerospace"], "relation": "replaced by"}
+{"study": "Kingdom of Zimbabwe is to Kingdom of Mutapa", "query": "Republic of China is to", "target": ["People's Republic of China"], "relation": "replaced by"}
+{"study": "Hans Christian Andersen is to Danish", "query": "Belarusians is to", "target": ["Belarusian"], "relation": "native language"}
+{"study": "Eisenhower dollar is to Susan B. Anthony dollar", "query": "NationsBank is to", "target": ["Bank of America"], "relation": "replaced by"}
+{"study": "Czechoslovak Academy of Sciences is to Czech Academy of Sciences", "query": "Parallel ATA is to", "target": ["Serial ATA"], "relation": "replaced by"}
+{"study": "Eisenhower dollar is to Susan B. Anthony dollar", "query": "Social Democratic Workers' Party of Germany is to", "target": ["Social Democratic Party of Germany"], "relation": "replaced by"}
+{"study": "Araneus diadematus is to Araneus", "query": "Agaricus bisporus is to", "target": ["Agaricus"], "relation": "parent taxon"}
+{"study": "Galanthus is to Amaryllidaceae", "query": "pomelo is to", "target": ["Citrus"], "relation": "parent taxon"}
+{"study": "sturgeon is to Acipenseriformes", "query": "Crocus sativus is to", "target": ["Crocus"], "relation": "parent taxon"}
+{"study": "Province of New York is to New York", "query": "People's Republic of Bulgaria is to", "target": ["Bulgaria"], "relation": "replaced by"}
+{"study": "Trigonella foenum-graecum is to Trigonella", "query": "Cucurbita pepo is to", "target": ["Cucurbita"], "relation": "parent taxon"}
+{"study": "Erythroxylum coca is to Erythroxylum", "query": "Salvia officinalis is to", "target": ["Salvia"], "relation": "parent taxon"}
+{"study": "State Security Investigations Service is to National Security Agency", "query": "Second Empire of Haiti is to", "target": ["Haiti"], "relation": "replaced by"}
+{"study": "Eucalyptus globulus is to Eucalyptus", "query": "Lycosa is to", "target": ["Lycosidae"], "relation": "parent taxon"}
+{"study": "Republic of Bosnia and Herzegovina is to Bosnia and Herzegovina", "query": "Insular Government of the Philippine Islands is to", "target": ["Commonwealth of the Philippines"], "relation": "replaced by"}
+{"study": "Brassica rapa subsp. chinensis is to Brassica rapa", "query": "Syzygium aromaticum is to", "target": ["Syzygium"], "relation": "parent taxon"}
+{"study": "Amaranthus retroflexus is to Amaranthus", "query": "Araneae is to", "target": ["Arachnida"], "relation": "parent taxon"}
+{"study": "Jesus is to Hebrew", "query": "Slavs is to", "target": ["Slavic"], "relation": "native language"}
+{"study": "mandrill is to Mandrillus", "query": "Mespilus germanica is to", "target": ["Mespilus"], "relation": "parent taxon"}
+{"study": "European Pine Marten is to Martes", "query": "great white shark is to", "target": ["Carcharodon"], "relation": "parent taxon"}
+{"study": "XX Constitutional Government of Portugal is to XXI Constitutional Government of Portugal", "query": "People's Republic of Bulgaria is to", "target": ["Bulgaria"], "relation": "replaced by"}
+{"study": "Abdul Rasul Sayyaf is to Pashto", "query": "Michael I of Romania is to", "target": ["Romanian"], "relation": "native language"}
+{"study": "Betula pendula is to Betula", "query": "beaver is to", "target": ["Castoridae"], "relation": "parent taxon"}
+{"study": "Anne of Brittany is to Breton", "query": "Kumyks is to", "target": ["Kumyk"], "relation": "native language"}
+{"study": "Parliament of Great Britain is to Parliament of the United Kingdom", "query": "Mycenaean Greece is to", "target": ["Greek Dark Ages"], "relation": "replaced by"}
+{"study": "wolf is to Canis", "query": "European perch is to", "target": ["perch"], "relation": "parent taxon"}
+{"study": "Staphylococcus aureus is to Staphylococcus", "query": "Fagopyrum esculentum is to", "target": ["Fagopyrum"], "relation": "parent taxon"}
+{"study": "Royal Italian Army is to Italian Army", "query": "French Cameroons is to", "target": ["Cameroon"], "relation": "replaced by"}
+{"study": "Lithuanians is to Lithuanian", "query": "Afro-Surinamese is to", "target": ["creole language"], "relation": "native language"}
+{"study": "Coffea arabica is to Coffea", "query": "Anemone is to", "target": ["Ranunculaceae"], "relation": "parent taxon"}
+{"study": "Scarlet Macaw is to Ara", "query": "norovirus is to", "target": ["Caliciviridae"], "relation": "parent taxon"}
+{"study": "Brachiosaurus is to Brachiosauridae", "query": "Centaurea cyanus is to", "target": ["Centaurea"], "relation": "parent taxon"}
+{"study": "Tectona grandis is to Tectona", "query": "Thunnus is to", "target": ["Thunnini"], "relation": "parent taxon"}
+{"study": "Mimosa pudica is to Mimosa", "query": "Coffea is to", "target": ["Rubiaceae"], "relation": "parent taxon"}
+{"study": "Mohandas Karamchand Gandhi is to Gujarati", "query": "Robert William Wilcox is to", "target": ["Hawaiian"], "relation": "native language"}
+{"study": "Bos primigenius is to Bos", "query": "Paulownia tomentosa is to", "target": ["Paulownia"], "relation": "parent taxon"}
+{"study": "bighorn sheep is to Ovis", "query": "Lonicera is to", "target": ["Caprifoliaceae"], "relation": "parent taxon"}
+{"study": "Lycosa is to Lycosidae", "query": "Drosophila melanogaster is to", "target": ["Drosophila"], "relation": "parent taxon"}
+{"study": "Boa constrictor is to Boa", "query": "Melolontha melolontha is to", "target": ["Melolontha"], "relation": "parent taxon"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "Rafflesia arnoldii is to", "target": ["Rafflesia"], "relation": "parent taxon"}
+{"study": "mallard is to Anas", "query": "Papaver somniferum is to", "target": ["Papaver"], "relation": "parent taxon"}
+{"study": "Balkan lynx is to Eurasian Lynx", "query": "Brachiosaurus is to", "target": ["Brachiosauridae"], "relation": "parent taxon"}
+{"study": "Socialist Republic of Montenegro is to Republic of Montenegro", "query": "Province of Georgia is to", "target": ["Georgia"], "relation": "replaced by"}
+{"study": "French Sudan is to Mali", "query": "Province of Brandenburg is to", "target": ["Brandenburg"], "relation": "replaced by"}
+{"study": "Python is to Pythonidae", "query": "Hexactinellid is to", "target": ["Porifera"], "relation": "parent taxon"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "Cimex lectularius is to", "target": ["Cimex"], "relation": "parent taxon"}
+{"study": "Bornean orangutan is to Orangutan", "query": "Urtica is to", "target": ["Urticaceae"], "relation": "parent taxon"}
+{"study": "Blattella germanica is to Blattella", "query": "Annona muricata is to", "target": ["Annona"], "relation": "parent taxon"}
+{"study": "influenza A virus subtype H1N1 is to influenza A virus", "query": "Tawny Owl is to", "target": ["Strix"], "relation": "parent taxon"}
+{"study": "Physalis peruviana is to Physalis", "query": "bighorn sheep is to", "target": ["Ovis"], "relation": "parent taxon"}
+{"study": "Common Cuckoo is to Cuculus", "query": "Lupinus albus is to", "target": ["Lupinus"], "relation": "parent taxon"}
+{"study": "Physeter macrocephalus is to Physeter", "query": "Capparis spinosa subsp. nummularia is to", "target": ["Capparis spinosa"], "relation": "parent taxon"}
+{"study": "invertebrate is to animal", "query": "Eriobotrya japonica is to", "target": ["Eriobotrya"], "relation": "parent taxon"}
+{"study": "Hittites is to Hittite", "query": "Cristiano Ronaldo is to", "target": ["Portuguese"], "relation": "native language"}
+{"study": "Dionaea muscipula is to Dionaea", "query": "Bornean orangutan is to", "target": ["Orangutan"], "relation": "parent taxon"}
+{"study": "Cucumis melo var. cantalupensis is to Cucumis melo", "query": "Indian elephant is to", "target": ["Asian elephant"], "relation": "parent taxon"}
+{"study": "Rheinische Zeitung is to Neue Rheinische Zeitung", "query": "First Van Agt cabinet is to", "target": ["Second Van Agt cabinet"], "relation": "replaced by"}
+{"study": "rooibos is to Aspalathus", "query": "liquorice is to", "target": ["Glycyrrhiza"], "relation": "parent taxon"}
+{"study": "Yaghan people is to Yaghan", "query": "Monica Bellucci is to", "target": ["Italian"], "relation": "native language"}
+{"study": "Art Supawatt Purdy is to Thai", "query": "Leona Aglukkaq is to", "target": ["Inuktitut"], "relation": "native language"}
+{"study": "Clostridium botulinum is to Clostridium", "query": "Oryza sativa is to", "target": ["Oryza"], "relation": "parent taxon"}
+{"study": "Bos primigenius is to Bos", "query": "Crocodylus porosus is to", "target": ["Crocodylus"], "relation": "parent taxon"}
+{"study": "Hittites is to Hittite", "query": "Adolf Hitler is to", "target": ["German"], "relation": "native language"}
+{"study": "Yuan dynasty is to Ming dynasty", "query": "Province of Canada is to", "target": ["Canada"], "relation": "replaced by"}
+{"study": "Province of New Jersey is to New Jersey", "query": "Province of North Carolina is to", "target": ["North Carolina"], "relation": "replaced by"}
+{"study": "Brachiosaurus is to Brachiosauridae", "query": "Cucumis sativus is to", "target": ["Cucumis"], "relation": "parent taxon"}
+{"study": "Sorghum bicolor is to Sorghum", "query": "Urtica is to", "target": ["Urticaceae"], "relation": "parent taxon"}
+{"study": "Lucanus cervus is to Lucanus", "query": "Salvia officinalis is to", "target": ["Salvia"], "relation": "parent taxon"}
+{"study": "Coffea arabica is to Coffea", "query": "Plasmodium falciparum is to", "target": ["Plasmodium"], "relation": "parent taxon"}
+{"study": "broccoli is to Brassica oleracea", "query": "lettuce is to", "target": ["Lactuca"], "relation": "parent taxon"}
+{"study": "Spathiphyllum wallisii is to Spathiphyllum", "query": "Bombus terrestris is to", "target": ["Bombus"], "relation": "parent taxon"}
+{"study": "Python License is to Python Software Foundation License", "query": "Dominion of Pakistan is to", "target": ["Pakistan"], "relation": "replaced by"}
+{"study": "Reichsrat is to Bundesrat", "query": "Kingdom of Zimbabwe is to", "target": ["Kingdom of Mutapa"], "relation": "replaced by"}
+{"study": "Adolf Hitler is to German", "query": "Lithuanians is to", "target": ["Lithuanian"], "relation": "native language"}
+{"study": "Azhdarchidae is to pterosaur", "query": "Sorghum bicolor is to", "target": ["Sorghum"], "relation": "parent taxon"}
+{"study": "Hydrangea is to Hydrangeaceae", "query": "Balkan lynx is to", "target": ["Eurasian Lynx"], "relation": "parent taxon"}
+{"study": "Taff Vale Railway is to Great Western Railway", "query": "Rheinische Zeitung is to", "target": ["Neue Rheinische Zeitung"], "relation": "replaced by"}
+{"study": "Hordeum vulgare is to Hordeum", "query": "Artocarpus heterophyllus is to", "target": ["Artocarpus"], "relation": "parent taxon"}
+{"study": "green iguana is to Iguana", "query": "Thymus vulgaris is to", "target": ["Thymus"], "relation": "parent taxon"}
+{"study": "Anatidae is to Anseriformes", "query": "lion is to", "target": ["Panthera"], "relation": "parent taxon"}
+{"study": "XX Constitutional Government of Portugal is to XXI Constitutional Government of Portugal", "query": "International Security Assistance Force is to", "target": ["Resolute Support Mission"], "relation": "replaced by"}
+{"study": "Crocus sativus is to Crocus", "query": "True lemming is to", "target": ["lemming"], "relation": "parent taxon"}
+{"study": "Cape wild dog is to African wild dog", "query": "celery is to", "target": ["Apium"], "relation": "parent taxon"}
+{"study": "Hydrangea is to Hydrangeaceae", "query": "Gorilla is to", "target": ["Hominidae"], "relation": "parent taxon"}
+{"study": "Eucalyptus globulus is to Eucalyptus", "query": "Trigonella foenum-graecum is to", "target": ["Trigonella"], "relation": "parent taxon"}
+{"study": "Psilocybe semilanceata is to Psilocybe", "query": "Hydrangea is to", "target": ["Hydrangeaceae"], "relation": "parent taxon"}
+{"study": "Matricaria chamomilla is to Matricaria", "query": "Candida albicans is to", "target": ["Candida"], "relation": "parent taxon"}
+{"study": "caracal is to Caracal", "query": "Rubus idaeus is to", "target": ["Rubus"], "relation": "parent taxon"}
+{"study": "Socialist Republic of Montenegro is to Republic of Montenegro", "query": "Kazakh Soviet Socialist Republic is to", "target": ["Kazakhstan"], "relation": "replaced by"}
+{"study": "True lemming is to lemming", "query": "Pistacia vera is to", "target": ["Pistacia"], "relation": "parent taxon"}
+{"study": "Kim Jong-il is to Korean", "query": "Elon Musk is to", "target": ["English"], "relation": "native language"}
+{"study": "Lyceum of the Principality of Serbia is to University of Belgrade", "query": "Financial Stability Forum is to", "target": ["Financial Stability Board"], "relation": "replaced by"}
+{"study": "Escherichia coli is to Escherichia", "query": "house mouse is to", "target": ["Mus"], "relation": "parent taxon"}
+{"study": "Hydrochoerus hydrochaeris is to Hydrochoerus", "query": "Lophophora williamsii is to", "target": ["Lophophora"], "relation": "parent taxon"}
+{"study": "Pterocarpus santalinus is to Pterocarpus", "query": "Demodex folliculorum is to", "target": ["Demodex"], "relation": "parent taxon"}
+{"study": "Iguana is to Iguanidae", "query": "Talpa europaea is to", "target": ["Talpa"], "relation": "parent taxon"}
+{"study": "Ardeidae is to Pelecaniformes", "query": "Vigna radiata is to", "target": ["Vigna"], "relation": "parent taxon"}
+{"study": "Anne of Brittany is to Breton", "query": "Art Supawatt Purdy is to", "target": ["Thai"], "relation": "native language"}
+{"study": "Bos primigenius is to Bos", "query": "Iris pseudacorus is to", "target": ["Iris"], "relation": "parent taxon"}
+{"study": "League of Nations is to United Nations", "query": "North Ossetian Autonomous Soviet Socialist Republic is to", "target": ["Republic of North Ossetia-Alania"], "relation": "replaced by"}
+{"study": "Marinid Dynasty is to Wattasid dynasty", "query": "National Congress of Ecuador is to", "target": ["National Assembly"], "relation": "replaced by"}
+{"study": "Prunus spinosa is to Prunus", "query": "Iguana is to", "target": ["Iguanidae"], "relation": "parent taxon"}
+{"study": "True lemming is to lemming", "query": "Clostridium botulinum is to", "target": ["Clostridium"], "relation": "parent taxon"}
+{"study": "Annona muricata is to Annona", "query": "Mastadenovirus is to", "target": ["Adenoviridae"], "relation": "parent taxon"}
+{"study": "Palawan binturong is to binturong", "query": "Jasminum is to", "target": ["Oleaceae"], "relation": "parent taxon"}
+{"study": "University College, Bristol is to University of Bristol", "query": "Australian Customs and Border Protection Service is to", "target": ["Australian Border Force"], "relation": "replaced by"}
+{"study": "Polychaeta is to Annelida", "query": "Jasminum sambac is to", "target": ["Jasminum"], "relation": "parent taxon"}
+{"study": "Canis is to Canidae", "query": "Psilocybe semilanceata is to", "target": ["Psilocybe"], "relation": "parent taxon"}
+{"study": "Syzygium aromaticum is to Syzygium", "query": "Angelica is to", "target": ["Apiaceae"], "relation": "parent taxon"}
+{"study": "Urtica is to Urticaceae", "query": "Brown Bear is to", "target": ["Ursus"], "relation": "parent taxon"}
+{"study": "Mycenaean Greece is to Greek Dark Ages", "query": "Kingdom of Zimbabwe is to", "target": ["Kingdom of Mutapa"], "relation": "replaced by"}
+{"study": "Nanobacterium is to bacteria", "query": "Passer is to", "target": ["Passeridae"], "relation": "parent taxon"}
+{"study": "Zhili is to Hebei", "query": "Norwegian Army Air Service is to", "target": ["Royal Norwegian Air Force"], "relation": "replaced by"}
+{"study": "Anatidae is to Anseriformes", "query": "Barbary stag is to", "target": ["Red Deer"], "relation": "parent taxon"}
+{"study": "Bosniaks is to Bosnian", "query": "Richard Burton is to", "target": ["Welsh"], "relation": "native language"}
+{"study": "Physeter macrocephalus is to Physeter", "query": "Formosan clouded leopard is to", "target": ["clouded leopard"], "relation": "parent taxon"}
+{"study": "Angelica is to Apiaceae", "query": "Diospyros kaki is to", "target": ["Diospyros"], "relation": "parent taxon"}
+{"study": "Anne of Brittany is to Breton", "query": "Kazakhs is to", "target": ["Kazakh"], "relation": "native language"}
+{"study": "Frithuswith is to Old English", "query": "Iyasu V is to", "target": ["Amharic"], "relation": "native language"}
+{"study": "Heracleum mantegazzianum is to Heracleum", "query": "broccoli is to", "target": ["Brassica oleracea"], "relation": "parent taxon"}
+{"study": "Zhili is to Hebei", "query": "League of Nations is to", "target": ["United Nations"], "relation": "replaced by"}
+{"study": "Dionaea muscipula is to Dionaea", "query": "Heteroptera is to", "target": ["Hemiptera"], "relation": "parent taxon"}
+{"study": "Polychaeta is to Annelida", "query": "celeriac is to", "target": ["celery"], "relation": "parent taxon"}
+{"study": "Kersti Kaljulaid is to Estonian", "query": "Ramazan Kadyrov is to", "target": ["Chechen"], "relation": "native language"}
+{"study": "Lycoris radiata is to Lycoris", "query": "Balkan lynx is to", "target": ["Eurasian Lynx"], "relation": "parent taxon"}
+{"study": "Ottoman Empire is to Turkey", "query": "BBC Choice is to", "target": ["BBC Three"], "relation": "replaced by"}
+{"study": "Somalis is to Somali", "query": "Ainu people is to", "target": ["Ainu"], "relation": "native language"}
+{"study": "Gardenia jasminoides is to Gardenia", "query": "Legionella pneumophila is to", "target": ["Legionella"], "relation": "parent taxon"}
+{"study": "Hydrangea is to Hydrangeaceae", "query": "Agave tequilana is to", "target": ["Agave"], "relation": "parent taxon"}
+{"study": "Baja California Norte Territory is to Baja California", "query": "Grand Duchy of Finland is to", "target": ["Finland"], "relation": "replaced by"}
+{"study": "Pistacia vera is to Pistacia", "query": "Ursus is to", "target": ["Ursidae"], "relation": "parent taxon"}
+{"study": "Aronia melanocarpa is to Aronia", "query": "Picinae is to", "target": ["Picidae"], "relation": "parent taxon"}
+{"study": "Province of Schleswig-Holstein is to Schleswig-Holstein", "query": "Qing dynasty is to", "target": ["Republic of China"], "relation": "replaced by"}
+{"study": "potato is to Solanum", "query": "Great White Pelican is to", "target": ["Pelecanus"], "relation": "parent taxon"}
+{"study": "Lophius piscatorius is to Lophius", "query": "Common Pheasant is to", "target": ["Phasianus"], "relation": "parent taxon"}
+{"study": "broccoli is to Brassica oleracea", "query": "Tectona grandis is to", "target": ["Tectona"], "relation": "parent taxon"}
+{"study": "Mandatory Palestine is to Israel", "query": "British Indian Army is to", "target": ["Indian Army"], "relation": "replaced by"}
+{"study": "Kumyks is to Kumyk", "query": "Khaltmaagiin Battulga is to", "target": ["Mongolian"], "relation": "native language"}
+{"study": "lion is to Panthera", "query": "Fagopyrum esculentum is to", "target": ["Fagopyrum"], "relation": "parent taxon"}
+{"study": "Lycosa is to Lycosidae", "query": "Ulmus glabra is to", "target": ["Ulmus"], "relation": "parent taxon"}
+{"study": "invertebrate is to animal", "query": "Physeter macrocephalus is to", "target": ["Physeter"], "relation": "parent taxon"}
+{"study": "Crataegus monogyna is to Crataegus", "query": "Drosophila melanogaster is to", "target": ["Drosophila"], "relation": "parent taxon"}
+{"study": "Betula pendula is to Betula", "query": "Agave is to", "target": ["Asparagaceae"], "relation": "parent taxon"}
+{"study": "Euphorbia pulcherrima is to Euphorbia", "query": "lion is to", "target": ["Panthera"], "relation": "parent taxon"}
+{"study": "Malus sylvestris is to Malus", "query": "Opuntia ficus-indica is to", "target": ["Opuntia"], "relation": "parent taxon"}
+{"study": "Camelus is to Camelidae", "query": "caracal is to", "target": ["Caracal"], "relation": "parent taxon"}
+{"study": "Salix is to Salicaceae", "query": "Escherichia coli O157:H7 is to", "target": ["Escherichia coli"], "relation": "parent taxon"}
+{"study": "Agave tequilana is to Agave", "query": "Mycoplasma pneumoniae is to", "target": ["Mycoplasma"], "relation": "parent taxon"}
+{"study": "Ursus is to Ursidae", "query": "Paulownia tomentosa is to", "target": ["Paulownia"], "relation": "parent taxon"}
+{"study": "Azhdarchidae is to pterosaur", "query": "Bornean orangutan is to", "target": ["Orangutan"], "relation": "parent taxon"}
+{"study": "Python is to Pythonidae", "query": "Curcuma longa is to", "target": ["Curcuma"], "relation": "parent taxon"}
+{"study": "Raphanus sativus is to Raphanus", "query": "northern goshawk is to", "target": ["Accipiter"], "relation": "parent taxon"}
+{"study": "wolf is to Canis", "query": "Melolontha melolontha is to", "target": ["Melolontha"], "relation": "parent taxon"}
+{"study": "Dominion of Fiji is to Fiji", "query": "League of Nations is to", "target": ["United Nations"], "relation": "replaced by"}
+{"study": "Araneae is to Arachnida", "query": "Felinae is to", "target": ["Felidae"], "relation": "parent taxon"}
+{"study": "Ramazan Kadyrov is to Chechen", "query": "Emmanuel Macron is to", "target": ["French"], "relation": "native language"}
+{"study": "Arapaima gigas is to Arapaima", "query": "Eutardigrade is to", "target": ["Tardigrada"], "relation": "parent taxon"}
+{"study": "Financial Stability Forum is to Financial Stability Board", "query": "Dominion of New Zealand is to", "target": ["New Zealand"], "relation": "replaced by"}
+{"study": "Ranbir Kapoor is to Hindi", "query": "Ang Mey is to", "target": ["Khmer"], "relation": "native language"}
+{"study": "potato is to Solanum", "query": "Cannabis sativa is to", "target": ["Cannabis"], "relation": "parent taxon"}
+{"study": "dromedary is to Camelus", "query": "Anguis fragilis is to", "target": ["Anguis"], "relation": "parent taxon"}
+{"study": "Mustela erminea is to Mustela", "query": "Brassica rapa subsp. chinensis is to", "target": ["Brassica rapa"], "relation": "parent taxon"}
+{"study": "Lepisma saccharina is to Lepisma", "query": "Narcissus pseudonarcissus is to", "target": ["Narcissus"], "relation": "parent taxon"}
+{"study": "sea urchin is to Echinodermata", "query": "bighorn sheep is to", "target": ["Ovis"], "relation": "parent taxon"}
+{"study": "Emmanuel Macron is to French", "query": "Monica Bellucci is to", "target": ["Italian"], "relation": "native language"}
+{"study": "caracal is to Caracal", "query": "megalodon is to", "target": ["Carcharocles"], "relation": "parent taxon"}
+{"study": "Kumyks is to Kumyk", "query": "Croats is to", "target": ["Croatian"], "relation": "native language"}
+{"study": "Alabama Territory is to Alabama", "query": "Parallel ATA is to", "target": ["Serial ATA"], "relation": "replaced by"}
+{"study": "Staphylococcus aureus is to Staphylococcus", "query": "Ursus is to", "target": ["Ursidae"], "relation": "parent taxon"}
+{"study": "Prunus spinosa is to Prunus", "query": "Plantago major is to", "target": ["Plantago"], "relation": "parent taxon"}
+{"study": "Jacaranda mimosifolia is to Jacaranda", "query": "Common Cuckoo is to", "target": ["Cuculus"], "relation": "parent taxon"}
+{"study": "Lepisma saccharina is to Lepisma", "query": "Streptococcus pneumoniae is to", "target": ["Streptococcus"], "relation": "parent taxon"}
+{"study": "Python License is to Python Software Foundation License", "query": "People's Socialist Republic of Albania is to", "target": ["Albania"], "relation": "replaced by"}
+{"study": "Anemone nemorosa is to Anemone", "query": "Kalanchoe blossfeldiana is to", "target": ["Kalanchoe"], "relation": "parent taxon"}
+{"study": "Qing dynasty is to Republic of China", "query": "Renzi Cabinet is to", "target": ["Gentiloni Cabinet"], "relation": "replaced by"}
+{"study": "Norwegian Army Air Service is to Royal Norwegian Air Force", "query": "Kingdom of Scotland is to", "target": ["Great Britain"], "relation": "replaced by"}
+{"study": "Province of Canada is to Canada", "query": "Dominion of Pakistan is to", "target": ["Pakistan"], "relation": "replaced by"}
+{"study": "Iris pseudacorus is to Iris", "query": "mandrill is to", "target": ["Mandrillus"], "relation": "parent taxon"}
+{"study": "Common Cuckoo is to Cuculus", "query": "Testudo is to", "target": ["Testudinidae"], "relation": "parent taxon"}
+{"study": "Macedonians is to Macedonian", "query": "Bashkir people is to", "target": ["Bashkir"], "relation": "native language"}
+{"study": "Bacillus anthracis is to Bacillus", "query": "Chenopodium quinoa is to", "target": ["Chenopodium"], "relation": "parent taxon"}
+{"study": "Monica Bellucci is to Italian", "query": "Iyasu V is to", "target": ["Amharic"], "relation": "native language"}
+{"study": "Xylocopa violacea is to Xylocopa", "query": "Coffea arabica is to", "target": ["Coffea"], "relation": "parent taxon"}
+{"study": "Anatidae is to Anseriformes", "query": "Glaucus atlanticus is to", "target": ["Glaucus"], "relation": "parent taxon"}
+{"study": "Erythroxylum coca is to Erythroxylum", "query": "Secale cereale is to", "target": ["Secale"], "relation": "parent taxon"}
+{"study": "Province of New Jersey is to New Jersey", "query": "Thirteen Colonies is to", "target": ["United States of America"], "relation": "replaced by"}
+{"study": "Malus sylvestris is to Malus", "query": "Varanus komodoensis is to", "target": ["Varanus"], "relation": "parent taxon"}
+{"study": "University of Rennes is to University of Rennes 1", "query": "Old English Latin alphabet is to", "target": ["English alphabet"], "relation": "replaced by"}
+{"study": "flat peach is to peach", "query": "Lepus californicus is to", "target": ["Lepus"], "relation": "parent taxon"}
+{"study": "Adansonia digitata is to Adansonia", "query": "Plumeria rubra is to", "target": ["Plumeria"], "relation": "parent taxon"}
+{"study": "northern goshawk is to Accipiter", "query": "Spathiphyllum wallisii is to", "target": ["Spathiphyllum"], "relation": "parent taxon"}
+{"study": "Vigna radiata is to Vigna", "query": "Angelica is to", "target": ["Apiaceae"], "relation": "parent taxon"}
