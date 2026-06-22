@@ -7,8 +7,8 @@ from collections import defaultdict
 random.seed(42)
 
 
-INPUT_FILE = "results/evaluate_knowledge/Qwen/Qwen2.5-7B/evaluate_knowledge_combined.jsonl"
-OUTPUT_DIR = "data/data_experiment"
+INPUT_FILE = "results/evaluate_knowledge/Qwen/Qwen2.5-7B/evaluate_knowledge.jsonl"
+OUTPUT_DIR = "data"
 TRAIN_OUTPUT = "train_episodes.jsonl"
 TEST_OUTPUT  = "test_episodes.jsonl"
 
