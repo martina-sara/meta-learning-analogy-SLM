@@ -116,6 +116,22 @@ def load_model(
         model = get_peft_model(model, lora_config)
         model.print_trainable_parameters()
 
+    if ft_type == "full":
+        ft_dir = os.path.join(save_model_dir, model_name)
+        ft_path = os.path.join(ft_dir, f"{model_name}_best")
+        if not os.path.exists(ft_path):
+            raise FileNotFoundError(
+                f"No checkpoint at {ft_path}. Check --save_model_dir / --model / "
+                f"--test_model_type / --seed match the training run."
+            )
+        model = AutoModelForCausalLM.from_pretrained(
+            ft_path,
+            attn_implementation="eager",
+            trust_remote_code=True,
+        )
+        model.to(device)
+        model.eval()
+
     else:
         raise ValueError("ft_type must be 'full' or 'lora'")
 
