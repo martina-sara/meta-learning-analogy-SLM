@@ -25,7 +25,7 @@ done
 for SEED in 1048 512 1056; do
   # Baseline model on held-out relations
   python test.py \
-    --ft_type lora --test_model_type base --dataset base --model qwen-7b \
+    --ft_type lora --test_model_type base --dataset meta --model qwen-7b \
     --batch_size 32 --seed $SEED \
     --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
     --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
