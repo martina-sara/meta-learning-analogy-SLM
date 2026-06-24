@@ -108,8 +108,9 @@ def get_model_predictions(
     Returns:
         List of decoded model outputs as strings
     """
+    prompts = [inp + f" {ANSWER_TOKEN}" for inp in batch["input"]]
     inputs = tokenizer(
-        batch["input"], return_tensors="pt", padding=True, truncation=True
+        prompts, return_tensors="pt", padding=True, truncation=True
     ).to(model.device)
 
     outputs = model.generate(
