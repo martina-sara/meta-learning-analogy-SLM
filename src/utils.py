@@ -89,7 +89,7 @@ def load_model(
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
         cache_dir=cache_dir,
-        attn_implementation="sdpa_attention_2",
+        attn_implementation="sdpa",
         trust_remote_code=True,
         quantization_config=quantization_config,
         torch_dtype=dtype
