@@ -2,7 +2,7 @@
 
 
 # Basline fine-tuning
-for SEED in 1048 512 1056; do
+for SEED in 1048 512 1596; do
 python train.py \
   --dataset base --model qwen-7b --ft_type lora --precision bfloat16 \
   --epochs 4 --batch_size 4 --weight_decay 0.0 --dev_per_relation 2 \
@@ -12,7 +12,7 @@ done
 
 
 # Meta-training fine-tuning
-for SEED in 1048 512 1056; do
+for SEED in 1048 512 1596; do
 python train.py \
   --dataset meta --model qwen-7b --ft_type lora --precision bfloat16 \
   --epochs 1 --batch_size 4 --weight_decay 0.0 --dev_per_relation 2 \
@@ -22,7 +22,7 @@ done
 
 
 # Testing
-for SEED in 1048 512 1056; do
+for SEED in 1048 512 1596; do
   # Baseline model on held-out relations
   python test.py \
     --ft_type lora --test_model_type base --dataset meta --model qwen-7b \
