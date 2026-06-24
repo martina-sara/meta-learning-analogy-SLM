@@ -62,7 +62,7 @@ def load_model(
         cache_dir: The cache directory.
         device: The device to use.
         ft_type: The fine-tuning type.
-        precision: The precision format ("half", "int8", "int4").
+        precision: The precision format ("bfloat16", "int8", "int4").
 
     Returns:
         The pre-trained model.
@@ -70,7 +70,7 @@ def load_model(
     # Prepare quantization config based on precision
     quantization_config = None
     dtype = None
-    
+
     if precision == "int8":
         quantization_config = BitsAndBytesConfig(
             load_in_8bit=True,
@@ -84,7 +84,7 @@ def load_model(
         )
     elif precision == "bfloat16":
         dtype = torch.bfloat16
-    
+
     # Load the pre-trained model
     model = AutoModelForCausalLM.from_pretrained(
         model_id,
@@ -94,7 +94,7 @@ def load_model(
         quantization_config=quantization_config,
         torch_dtype=dtype
     )
-    
+
     if ft_type == "lora":
         # Prepare quantized model
         if precision in ["int4", "int8"]:
@@ -116,28 +116,16 @@ def load_model(
         model = get_peft_model(model, lora_config)
         model.print_trainable_parameters()
 
-    if ft_type == "full":
-        ft_dir = os.path.join(save_model_dir, model_name)
-        ft_path = os.path.join(ft_dir, f"{model_name}_best")
-        if not os.path.exists(ft_path):
-            raise FileNotFoundError(
-                f"No checkpoint at {ft_path}. Check --save_model_dir / --model / "
-                f"--test_model_type / --seed match the training run."
-            )
-        model = AutoModelForCausalLM.from_pretrained(
-            ft_path,
-            attn_implementation="eager",
-            trust_remote_code=True,
-        )
-        model.to(device)
-        model.eval()
+    elif ft_type == "full":
+        # Full fine-tuning: train all weights of the loaded model, no adapter setup.
+        pass
 
     else:
         raise ValueError("ft_type must be 'full' or 'lora'")
 
     if precision not in ["int4", "int8"]:
         model.to(device)
-    
+
     return model
 
 
