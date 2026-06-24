@@ -1,0 +1,39 @@
+#!/bin/bash
+
+
+# Basline fine-tuning
+for SEED in 1048 512 1056; do
+python train.py \
+  --dataset base --model qwen-7b --ft_type lora --precision bfloat16 \
+  --epochs 4 --batch_size 4 --weight_decay 0.0 --dev_per_relation 2 \
+  --seed $SEED --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
+  --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+done
+
+
+# Meta-training fine-tuning
+for SEED in 1048 512 1056; do
+python train.py \
+  --dataset meta --model qwen-7b --ft_type lora --precision bfloat16 \
+  --epochs 1 --batch_size 4 --weight_decay 0.0 --dev_per_relation 2 \
+  --seed $SEED --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
+  --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+done
+
+
+# Testing
+for SEED in 1048 512 1056; do
+  # Baseline model on held-out relations
+  python test.py \
+    --ft_type lora --test_model_type base --dataset base --model qwen-7b \
+    --batch_size 32 --seed $SEED \
+    --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
+    --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+
+  # Meta-trained model on held-out relations
+  python test.py \
+    --ft_type lora --test_model_type meta --dataset meta --model qwen-7b \
+    --batch_size 32 --seed $SEED \
+    --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
+    --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+done
