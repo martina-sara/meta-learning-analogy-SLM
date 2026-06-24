@@ -10,5 +10,4 @@ Content of the folder:
 * train_episodes.py
 
 ## Source code
-To run the training and testing code use train_test.bh
-Model and other parameters can be costumized.
+To run the training and testing code use train_test.bh, model and other parameters can be costumized. The code was obtained by adapting [Bertolazzi et a. (2026)](https://github.com/leobertolazzi/meta-learning-logic).
