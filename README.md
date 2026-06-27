@@ -16,7 +16,6 @@ The dataset was constructed by selecting items from [AnalogyKB Wikidata](https:/
 
 **Note:** because `episode_builder.py` filters out shortcuts from the training datasets and removes items unknown to the model from the testing datasets, the constructed episodes are strictly specific to the chosen model and size.
 
-
 ## Source Code
 
 ### Directory Content
@@ -30,4 +29,12 @@ The dataset was constructed by selecting items from [AnalogyKB Wikidata](https:/
 To run the training and testing pipelines, execute the bash script `train_test.sh` located in the `experiment` folder. Model selection and other parameters can be customized within the script.
 To analyze the results run `process_results.py`.
 
-_**Note:** the code was adapted from Bertolazzi et al. (2026)_
+_**Note:** the code was adapted from [Bertolazzi et a. (2026)](https://github.com/leobertolazzi/meta-learning-logic)_
+
+## Results
+
+### Directory Content
+* `train_logs`
+* `errors`
+* `results.cvs`
+* `plots`
