@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Model and corresponding dataset can be costumised as well as other parameters
 
 # Basline fine-tuning
 for SEED in 1048 512 1056 4742 1596; do
@@ -7,7 +8,7 @@ python train.py \
   --dataset base --model qwen-7b --ft_type lora --precision bfloat16 \
   --epochs 4 --batch_size 4 --weight_decay 0.0 --dev_per_relation 2 \
   --seed $SEED --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
-  --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+  --train_path data/train_episodes_7b.jsonl --test_path data/test_episodes_7b.jsonl
 done
 
 
@@ -17,7 +18,7 @@ python train.py \
   --dataset meta --model qwen-7b --ft_type lora --precision bfloat16 \
   --epochs 1 --batch_size 4 --weight_decay 0.0 --dev_per_relation 2 \
   --seed $SEED --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
-  --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+  --train_path data/train_episodes_7b.jsonl --test_path data/test_episodes_7b.jsonl
 done
 
 
@@ -28,12 +29,12 @@ for SEED in 1048 512 1056 4742 1596; do
     --ft_type lora --test_model_type base --dataset meta --model qwen-7b \
     --batch_size 32 --seed $SEED \
     --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
-    --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+    --train_path data/train_episodes_7b.jsonl --test_path data/test_episodes_7b.jsonl
 
   # Meta-trained model on held-out relations
   python test.py \
     --ft_type lora --test_model_type meta --dataset meta --model qwen-7b \
     --batch_size 32 --seed $SEED \
     --save_model_dir /workspace/analogy-slms --cache_dir /workspace/hf-cache \
-    --train_path data/train_episodes.jsonl --test_path data/test_episodes.jsonl
+    --train_path data/train_episodes_7b.jsonl --test_path data/test_episodes_7b.jsonl
 done
