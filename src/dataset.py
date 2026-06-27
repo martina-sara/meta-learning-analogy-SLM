@@ -16,8 +16,8 @@ COLUMNS = ["input", "output", "query", "gold_answer", "target", "relation", "epi
 
 def get_dataset(
     dataset_type: str,
-    train_path: str = "data/train_episodes.jsonl",
-    test_path: str = "data/test_episodes.jsonl",
+    train_path: str = "data/train_episodes_7b.jsonl",
+    test_path: str = "data/test_episodes_7b.jsonl",
     dev_per_relation: int = 0,
     subsample_train: Optional[int] = None,
     seed: int = 42,
