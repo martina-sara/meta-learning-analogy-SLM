@@ -1,0 +1,5690 @@
+{
+  "overall_accuracy": 42.0,
+  "per_relation_accuracy": {
+    "native language": 72.46,
+    "parent taxon": 39.08,
+    "replaced by": 34.59
+  },
+  "n_errors": 631,
+  "errors": [
+    {
+      "episode_id": "replaced by_0",
+      "relation": "replaced by",
+      "query": "Thirteen Colonies is to",
+      "prediction": "United States",
+      "target": [
+        "United States of America"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1",
+      "relation": "parent taxon",
+      "query": "St Kilda Wren is to",
+      "prediction": "wren",
+      "target": [
+        "Eurasian Wren"
+      ]
+    },
+    {
+      "episode_id": "replaced by_5",
+      "relation": "replaced by",
+      "query": "Mandatory Palestine is to",
+      "prediction": "British Mandate for Palestine",
+      "target": [
+        "Israel"
+      ]
+    },
+    {
+      "episode_id": "replaced by_7",
+      "relation": "replaced by",
+      "query": "Schweizerische Nordostbahn is to",
+      "prediction": "Switzerland",
+      "target": [
+        "Swiss Federal Railways"
+      ]
+    },
+    {
+      "episode_id": "replaced by_9",
+      "relation": "replaced by",
+      "query": "Dhana Nanda is to",
+      "prediction": "Indian politician",
+      "target": [
+        "Chandragupta Maurya"
+      ]
+    },
+    {
+      "episode_id": "replaced by_11",
+      "relation": "replaced by",
+      "query": "Upper Canada is to",
+      "prediction": "Canada",
+      "target": [
+        "Province of Canada"
+      ]
+    },
+    {
+      "episode_id": "replaced by_12",
+      "relation": "replaced by",
+      "query": "Commonwealth realm of Uganda is to",
+      "prediction": "Republic of Uganda",
+      "target": [
+        "Uganda"
+      ]
+    },
+    {
+      "episode_id": "replaced by_13",
+      "relation": "replaced by",
+      "query": "Commonwealth of the Philippines is to",
+      "prediction": "Republic of the Philippines",
+      "target": [
+        "Philippines"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_14",
+      "relation": "parent taxon",
+      "query": "sturgeon is to",
+      "prediction": "Acipenseridae",
+      "target": [
+        "Acipenseriformes"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_15",
+      "relation": "parent taxon",
+      "query": "Crocus sativus is to",
+      "prediction": "Iridacee",
+      "target": [
+        "Crocus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_17",
+      "relation": "parent taxon",
+      "query": "Picea abies is to",
+      "prediction": "Abies",
+      "target": [
+        "Picea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_18",
+      "relation": "replaced by",
+      "query": "Committee of European Securities Regulators is to",
+      "prediction": "European Union",
+      "target": [
+        "European Securities and Markets Authority"
+      ]
+    },
+    {
+      "episode_id": "replaced by_19",
+      "relation": "replaced by",
+      "query": "Middle English is to",
+      "prediction": "Old English",
+      "target": [
+        "Modern English"
+      ]
+    },
+    {
+      "episode_id": "replaced by_20",
+      "relation": "replaced by",
+      "query": "North Ossetian Autonomous Soviet Socialist Republic is to",
+      "prediction": "Soviet Union",
+      "target": [
+        "Republic of North Ossetia-Alania"
+      ]
+    },
+    {
+      "episode_id": "native language_22",
+      "relation": "native language",
+      "query": "Hafsat Abdulwaheed is to",
+      "prediction": "English",
+      "target": [
+        "Hausa"
+      ]
+    },
+    {
+      "episode_id": "replaced by_25",
+      "relation": "replaced by",
+      "query": "Kingdom of Israel is to",
+      "prediction": "Kingdom of Judah",
+      "target": [
+        "Judah"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_26",
+      "relation": "parent taxon",
+      "query": "Escherichia coli is to",
+      "prediction": "Enterobacteriaceae",
+      "target": [
+        "Escherichia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_27",
+      "relation": "replaced by",
+      "query": "Canada East is to",
+      "prediction": "Canada",
+      "target": [
+        "Quebec"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_28",
+      "relation": "parent taxon",
+      "query": "Ficus carica is to",
+      "prediction": "fig",
+      "target": [
+        "Ficus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_29",
+      "relation": "parent taxon",
+      "query": "Passiflora edulis is to",
+      "prediction": "Passifloraceae",
+      "target": [
+        "Passiflora"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_30",
+      "relation": "parent taxon",
+      "query": "Legionella pneumophila is to",
+      "prediction": "Legionellace",
+      "target": [
+        "Legionella"
+      ]
+    },
+    {
+      "episode_id": "replaced by_31",
+      "relation": "replaced by",
+      "query": "German Empire is to",
+      "prediction": "German Confederation",
+      "target": [
+        "Weimar Republic"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_34",
+      "relation": "parent taxon",
+      "query": "Syzygium aromaticum is to",
+      "prediction": "Myrtaceae",
+      "target": [
+        "Syzygium"
+      ]
+    },
+    {
+      "episode_id": "replaced by_35",
+      "relation": "replaced by",
+      "query": "Craxi I Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "Craxi II Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_36",
+      "relation": "parent taxon",
+      "query": "Bougainvillea glabra is to",
+      "prediction": "Rubiaceae",
+      "target": [
+        "Bougainvillea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_37",
+      "relation": "parent taxon",
+      "query": "Cimex lectularius is to",
+      "prediction": "bed bug",
+      "target": [
+        "Cimex"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_38",
+      "relation": "parent taxon",
+      "query": "Equus ferus przewalskii is to",
+      "prediction": "Equus",
+      "target": [
+        "Equus ferus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_39",
+      "relation": "replaced by",
+      "query": "Zoological Museum Amsterdam is to",
+      "prediction": "University of Amsterdam",
+      "target": [
+        "Naturalis Biodiversity Center"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_42",
+      "relation": "parent taxon",
+      "query": "Colocasia esculenta is to",
+      "prediction": "taro",
+      "target": [
+        "Colocasia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_46",
+      "relation": "parent taxon",
+      "query": "Apis mellifera is to",
+      "prediction": "honey bee",
+      "target": [
+        "Apis"
+      ]
+    },
+    {
+      "episode_id": "replaced by_47",
+      "relation": "replaced by",
+      "query": "Marinid Dynasty is to",
+      "prediction": "Morocco",
+      "target": [
+        "Wattasid dynasty"
+      ]
+    },
+    {
+      "episode_id": "replaced by_49",
+      "relation": "replaced by",
+      "query": "Norwegian Public Employment Service is to",
+      "prediction": "Ministry of Labour",
+      "target": [
+        "Norwegian Labour and Welfare Administration"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_50",
+      "relation": "parent taxon",
+      "query": "Quercus is to",
+      "prediction": "oak",
+      "target": [
+        "Fagaceae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_52",
+      "relation": "parent taxon",
+      "query": "Picea abies is to",
+      "prediction": "Abies",
+      "target": [
+        "Picea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_53",
+      "relation": "parent taxon",
+      "query": "Trifolium repens is to",
+      "prediction": "Fabaceae",
+      "target": [
+        "Trifolium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_56",
+      "relation": "parent taxon",
+      "query": "Gardenia jasminoides is to",
+      "prediction": "Cape jasmine",
+      "target": [
+        "Gardenia"
+      ]
+    },
+    {
+      "episode_id": "native language_57",
+      "relation": "native language",
+      "query": "Robert William Wilcox is to",
+      "prediction": "English",
+      "target": [
+        "Hawaiian"
+      ]
+    },
+    {
+      "episode_id": "native language_61",
+      "relation": "native language",
+      "query": "Marie Curie is to",
+      "prediction": "French",
+      "target": [
+        "Polish"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_63",
+      "relation": "parent taxon",
+      "query": "Juniperus is to",
+      "prediction": "Cupressaceaceae",
+      "target": [
+        "Cupressaceae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_64",
+      "relation": "replaced by",
+      "query": "De Gasperi VI Cabinet is to",
+      "prediction": "De Gasperi V Cabinet",
+      "target": [
+        "De Gasperi VII Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_67",
+      "relation": "parent taxon",
+      "query": "Bos primigenius is to",
+      "prediction": "Aurochs",
+      "target": [
+        "Bos"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_68",
+      "relation": "parent taxon",
+      "query": "Vigna radiata is to",
+      "prediction": "mung bean",
+      "target": [
+        "Vigna"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_69",
+      "relation": "parent taxon",
+      "query": "Quercus robur is to",
+      "prediction": "English oak",
+      "target": [
+        "Quercus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_71",
+      "relation": "parent taxon",
+      "query": "Eriobotrya japonica is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Eriobotrya"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_73",
+      "relation": "parent taxon",
+      "query": "Barbary lion is to",
+      "prediction": "Panthera leo",
+      "target": [
+        "lion"
+      ]
+    },
+    {
+      "episode_id": "replaced by_76",
+      "relation": "replaced by",
+      "query": "Spadolini I Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "Spadolini II Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_77",
+      "relation": "parent taxon",
+      "query": "Equus africanus asinus is to",
+      "prediction": "donkey",
+      "target": [
+        "Equus africanus"
+      ]
+    },
+    {
+      "episode_id": "native language_78",
+      "relation": "native language",
+      "query": "Michael Essien is to",
+      "prediction": "English",
+      "target": [
+        "Akan"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_80",
+      "relation": "parent taxon",
+      "query": "Opuntia ficus-indica is to",
+      "prediction": "Cactaceae",
+      "target": [
+        "Opuntia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_81",
+      "relation": "parent taxon",
+      "query": "Amanita muscaria is to",
+      "prediction": "Amanitace",
+      "target": [
+        "Amanita"
+      ]
+    },
+    {
+      "episode_id": "replaced by_82",
+      "relation": "replaced by",
+      "query": "Royal Italian Army is to",
+      "prediction": "Kingdom of Italy",
+      "target": [
+        "Italian Army"
+      ]
+    },
+    {
+      "episode_id": "native language_83",
+      "relation": "native language",
+      "query": "Ramazan Kadyrov is to",
+      "prediction": "Russian",
+      "target": [
+        "Chechen"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_84",
+      "relation": "parent taxon",
+      "query": "Dionaea muscipula is to",
+      "prediction": "Venus flytrap",
+      "target": [
+        "Dionaea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_85",
+      "relation": "replaced by",
+      "query": "Chairman of the Municipality of Metropolitan Toronto is to",
+      "prediction": "Mayor of of Toronto",
+      "target": [
+        "Mayor of Toronto"
+      ]
+    },
+    {
+      "episode_id": "replaced by_90",
+      "relation": "replaced by",
+      "query": "Yuan dynasty is to",
+      "prediction": "China",
+      "target": [
+        "Ming dynasty"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_93",
+      "relation": "parent taxon",
+      "query": "Magnolia grandiflora is to",
+      "prediction": "Magnoliaceae",
+      "target": [
+        "Magnolia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_95",
+      "relation": "parent taxon",
+      "query": "Quercus is to",
+      "prediction": "Oak",
+      "target": [
+        "Fagaceae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_97",
+      "relation": "replaced by",
+      "query": "DVB-T is to",
+      "prediction": "DVB",
+      "target": [
+        "DVB-T2"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_98",
+      "relation": "parent taxon",
+      "query": "Vespa is to",
+      "prediction": "Vespa",
+      "target": [
+        "Vespinae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_99",
+      "relation": "replaced by",
+      "query": "Republic of Montenegro is to",
+      "prediction": "Kingdom of Serbia",
+      "target": [
+        "Montenegro"
+      ]
+    },
+    {
+      "episode_id": "replaced by_103",
+      "relation": "replaced by",
+      "query": "Cuijk en Sint Agatha is to",
+      "prediction": "Netherlands",
+      "target": [
+        "Cuijk"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_104",
+      "relation": "parent taxon",
+      "query": "Neisseria meningitidis is to",
+      "prediction": "Neisseriaceae",
+      "target": [
+        "Neisseria"
+      ]
+    },
+    {
+      "episode_id": "replaced by_106",
+      "relation": "replaced by",
+      "query": "Python License is to",
+      "prediction": "Python Software Foundation",
+      "target": [
+        "Python Software Foundation License"
+      ]
+    },
+    {
+      "episode_id": "replaced by_107",
+      "relation": "replaced by",
+      "query": "XX Constitutional Government of Portugal is to",
+      "prediction": "Portuguese Escudo",
+      "target": [
+        "XXI Constitutional Government of Portugal"
+      ]
+    },
+    {
+      "episode_id": "replaced by_108",
+      "relation": "replaced by",
+      "query": "Social Democratic Workers' Party of Germany is to",
+      "prediction": "Germany",
+      "target": [
+        "Social Democratic Party of Germany"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_109",
+      "relation": "parent taxon",
+      "query": "Testudo is to",
+      "prediction": "Testudines",
+      "target": [
+        "Testudinidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_110",
+      "relation": "replaced by",
+      "query": "Python License is to",
+      "prediction": "Python Software Foundation",
+      "target": [
+        "Python Software Foundation License"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_112",
+      "relation": "parent taxon",
+      "query": "Araneus diadematus is to",
+      "prediction": "orb-web spider",
+      "target": [
+        "Araneus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_115",
+      "relation": "parent taxon",
+      "query": "European hedgehog is to",
+      "prediction": "Erinaceus europaeus",
+      "target": [
+        "Erinaceus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_116",
+      "relation": "replaced by",
+      "query": "Inverness-shire is to",
+      "prediction": "Highland Council",
+      "target": [
+        "Highland"
+      ]
+    },
+    {
+      "episode_id": "replaced by_119",
+      "relation": "replaced by",
+      "query": "Rumor IV Cabinet is to",
+      "prediction": "Rumor III Cabinet",
+      "target": [
+        "Rumor V Cabinet"
+      ]
+    },
+    {
+      "episode_id": "native language_120",
+      "relation": "native language",
+      "query": "Jesus is to",
+      "prediction": "Aramaic",
+      "target": [
+        "Hebrew"
+      ]
+    },
+    {
+      "episode_id": "replaced by_122",
+      "relation": "replaced by",
+      "query": "Serbia and Montenegro is to",
+      "prediction": "Federal Assembly",
+      "target": [
+        "Serbia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_123",
+      "relation": "replaced by",
+      "query": "First Van Agt cabinet is to",
+      "prediction": "Netherlands",
+      "target": [
+        "Second Van Agt cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_127",
+      "relation": "parent taxon",
+      "query": "Hydrochoerus hydrochaeris is to",
+      "prediction": "capybara",
+      "target": [
+        "Hydrochoerus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_128",
+      "relation": "replaced by",
+      "query": "De Gasperi II Cabinet is to",
+      "prediction": "De Gasperi I Cabinet",
+      "target": [
+        "De Gasperi III Cabinet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_130",
+      "relation": "replaced by",
+      "query": "Marinid Dynasty is to",
+      "prediction": "Morocco",
+      "target": [
+        "Wattasid dynasty"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_131",
+      "relation": "parent taxon",
+      "query": "wood cockroaches is to",
+      "prediction": "Blaberidae",
+      "target": [
+        "Blattodea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_132",
+      "relation": "replaced by",
+      "query": "First Hungarian Republic is to",
+      "prediction": "Kingdom of Hungary",
+      "target": [
+        "Hungarian Republic"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_135",
+      "relation": "parent taxon",
+      "query": "Dendrochirotida is to",
+      "prediction": "Cnidaria",
+      "target": [
+        "Holothuroidea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_136",
+      "relation": "replaced by",
+      "query": "Schweizerische Nordostbahn is to",
+      "prediction": "Switzerland",
+      "target": [
+        "Swiss Federal Railways"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_139",
+      "relation": "parent taxon",
+      "query": "Bougainvillea glabra is to",
+      "prediction": "Nyctaginaceae",
+      "target": [
+        "Bougainvillea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_141",
+      "relation": "parent taxon",
+      "query": "Matricaria chamomilla is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Matricaria"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_143",
+      "relation": "parent taxon",
+      "query": "Ulmus glabra is to",
+      "prediction": "European elm",
+      "target": [
+        "Ulmus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_144",
+      "relation": "parent taxon",
+      "query": "Cantharellus cibarius is to",
+      "prediction": "Boletaceae",
+      "target": [
+        "Cantharellus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_145",
+      "relation": "parent taxon",
+      "query": "Heteroptera is to",
+      "prediction": "Insecta",
+      "target": [
+        "Hemiptera"
+      ]
+    },
+    {
+      "episode_id": "native language_146",
+      "relation": "native language",
+      "query": "Slavs is to",
+      "prediction": "Old Church Slavonic",
+      "target": [
+        "Slavic"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_147",
+      "relation": "parent taxon",
+      "query": "Redband trout is to",
+      "prediction": "Oncorhynchus mykiss",
+      "target": [
+        "rainbow trout"
+      ]
+    },
+    {
+      "episode_id": "native language_148",
+      "relation": "native language",
+      "query": "Abdul Rasul Sayyaf is to",
+      "prediction": "Dari",
+      "target": [
+        "Pashto"
+      ]
+    },
+    {
+      "episode_id": "replaced by_151",
+      "relation": "replaced by",
+      "query": "historical province of Finland is to",
+      "prediction": "Finland",
+      "target": [
+        "province of Finland"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_152",
+      "relation": "parent taxon",
+      "query": "Platanus occidentalis is to",
+      "prediction": "Platanaceace",
+      "target": [
+        "Platanus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_156",
+      "relation": "parent taxon",
+      "query": "Passiflora edulis is to",
+      "prediction": "Passifloraceae",
+      "target": [
+        "Passiflora"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_157",
+      "relation": "parent taxon",
+      "query": "Boa constrictor is to",
+      "prediction": "Boidae",
+      "target": [
+        "Boa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_158",
+      "relation": "parent taxon",
+      "query": "sesame is to",
+      "prediction": "Pedaliaceae",
+      "target": [
+        "Sesamum"
+      ]
+    },
+    {
+      "episode_id": "replaced by_159",
+      "relation": "replaced by",
+      "query": "Rheinische Zeitung is to",
+      "prediction": "Karl Marx",
+      "target": [
+        "Neue Rheinische Zeitung"
+      ]
+    },
+    {
+      "episode_id": "replaced by_162",
+      "relation": "replaced by",
+      "query": "Thirtieth government of Israel is to",
+      "prediction": "31st government of Israel",
+      "target": [
+        "Thirty-first government of Israel"
+      ]
+    },
+    {
+      "episode_id": "replaced by_164",
+      "relation": "replaced by",
+      "query": "Madras State is to",
+      "prediction": "Andhra Pradesh",
+      "target": [
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "episode_id": "replaced by_165",
+      "relation": "replaced by",
+      "query": "Socialist Republic of Romania is to",
+      "prediction": "Communist Party of Romania",
+      "target": [
+        "Romania"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_169",
+      "relation": "parent taxon",
+      "query": "Curcuma longa is to",
+      "prediction": "Zingiberace",
+      "target": [
+        "Curcuma"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_170",
+      "relation": "parent taxon",
+      "query": "Scarlet Macaw is to",
+      "prediction": "macaw",
+      "target": [
+        "Ara"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_171",
+      "relation": "parent taxon",
+      "query": "wood cockroaches is to",
+      "prediction": "Blaberidae",
+      "target": [
+        "Blattodea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_173",
+      "relation": "parent taxon",
+      "query": "Matricaria chamomilla is to",
+      "prediction": "chamomile",
+      "target": [
+        "Matricaria"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_174",
+      "relation": "parent taxon",
+      "query": "norovirus is to",
+      "prediction": "calicivirus",
+      "target": [
+        "Caliciviridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_176",
+      "relation": "parent taxon",
+      "query": "peanut is to",
+      "prediction": "Arachis hypogaea",
+      "target": [
+        "Arachis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_177",
+      "relation": "parent taxon",
+      "query": "Chinchilla is to",
+      "prediction": "Rodentia",
+      "target": [
+        "Chinchillidae"
+      ]
+    },
+    {
+      "episode_id": "native language_178",
+      "relation": "native language",
+      "query": "Richard Burton is to",
+      "prediction": "English",
+      "target": [
+        "Welsh"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_181",
+      "relation": "parent taxon",
+      "query": "megalodon is to",
+      "prediction": "Carcharocles megalodon",
+      "target": [
+        "Carcharocles"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_182",
+      "relation": "parent taxon",
+      "query": "Morchella esculenta is to",
+      "prediction": "Ascomycota",
+      "target": [
+        "Morchella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_183",
+      "relation": "parent taxon",
+      "query": "Danaus plexippus is to",
+      "prediction": "Nymphalidae",
+      "target": [
+        "Danaus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_187",
+      "relation": "parent taxon",
+      "query": "western barn owl is to",
+      "prediction": "raptor",
+      "target": [
+        "Tyto"
+      ]
+    },
+    {
+      "episode_id": "replaced by_189",
+      "relation": "replaced by",
+      "query": "State Security Investigations Service is to",
+      "prediction": "New York",
+      "target": [
+        "National Security Agency"
+      ]
+    },
+    {
+      "episode_id": "replaced by_191",
+      "relation": "replaced by",
+      "query": "UCI Women's Road World Cup is to",
+      "prediction": "Union Cycliste Internationale",
+      "target": [
+        "UCI Women's World Tour"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_192",
+      "relation": "parent taxon",
+      "query": "Common Cuckoo is to",
+      "prediction": "Cuculidae",
+      "target": [
+        "Cuculus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_194",
+      "relation": "parent taxon",
+      "query": "Arapaima gigas is to",
+      "prediction": "Arapaimidae",
+      "target": [
+        "Arapaima"
+      ]
+    },
+    {
+      "episode_id": "replaced by_196",
+      "relation": "replaced by",
+      "query": "Zhili is to",
+      "prediction": "Qing dynasty",
+      "target": [
+        "Hebei"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_197",
+      "relation": "parent taxon",
+      "query": "Coffea arabica is to",
+      "prediction": "Rubiacece",
+      "target": [
+        "Coffea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_199",
+      "relation": "parent taxon",
+      "query": "Amanita muscaria var. guessowii is to",
+      "prediction": "Amanita",
+      "target": [
+        "Amanita muscaria"
+      ]
+    },
+    {
+      "episode_id": "replaced by_202",
+      "relation": "replaced by",
+      "query": "People's Republic of Hungary is to",
+      "prediction": "Kingdom of Hungary",
+      "target": [
+        "Hungary"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_203",
+      "relation": "parent taxon",
+      "query": "Gadus morhua is to",
+      "prediction": "Salmonidae",
+      "target": [
+        "Gadus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_206",
+      "relation": "parent taxon",
+      "query": "Scarlet Macaw is to",
+      "prediction": "parrot",
+      "target": [
+        "Ara"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_207",
+      "relation": "parent taxon",
+      "query": "Urtica dioica galeopsifolia is to",
+      "prediction": "Urtica",
+      "target": [
+        "Urtica dioica"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_211",
+      "relation": "parent taxon",
+      "query": "European Pine Marten is to",
+      "prediction": "pine mren",
+      "target": [
+        "Martes"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_213",
+      "relation": "parent taxon",
+      "query": "Rhus typhina is to",
+      "prediction": "staghorn sumac",
+      "target": [
+        "Rhus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_214",
+      "relation": "replaced by",
+      "query": "historical province of Finland is to",
+      "prediction": "Finland",
+      "target": [
+        "province of Finland"
+      ]
+    },
+    {
+      "episode_id": "replaced by_215",
+      "relation": "replaced by",
+      "query": "Internet Explorer is to",
+      "prediction": "Microsoft",
+      "target": [
+        "Microsoft Edge"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_216",
+      "relation": "parent taxon",
+      "query": "celery is to",
+      "prediction": "Apiaceae",
+      "target": [
+        "Apium"
+      ]
+    },
+    {
+      "episode_id": "native language_219",
+      "relation": "native language",
+      "query": "Horst Seehofer is to",
+      "prediction": "German",
+      "target": [
+        "Bavarian"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_221",
+      "relation": "parent taxon",
+      "query": "Indian peafowl is to",
+      "prediction": "fowl",
+      "target": [
+        "Pavo"
+      ]
+    },
+    {
+      "episode_id": "replaced by_222",
+      "relation": "replaced by",
+      "query": "National Congress of Ecuador is to",
+      "prediction": "Republic of Ecuador",
+      "target": [
+        "National Assembly"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_225",
+      "relation": "parent taxon",
+      "query": "Cichorium intybus is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Cichorium"
+      ]
+    },
+    {
+      "episode_id": "native language_226",
+      "relation": "native language",
+      "query": "Kurds is to",
+      "prediction": "Kurmanji",
+      "target": [
+        "Kurdish"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_233",
+      "relation": "parent taxon",
+      "query": "Great Tit is to",
+      "prediction": "passerine",
+      "target": [
+        "Parus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_234",
+      "relation": "parent taxon",
+      "query": "Spathiphyllum wallisii is to",
+      "prediction": "Araceae",
+      "target": [
+        "Spathiphyllum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_235",
+      "relation": "parent taxon",
+      "query": "rooibos is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Aspalathus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_236",
+      "relation": "replaced by",
+      "query": "Birmingham Central Library is to",
+      "prediction": "Birmingham City Council",
+      "target": [
+        "Library of Birmingham"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_239",
+      "relation": "parent taxon",
+      "query": "mallard is to",
+      "prediction": "fowl",
+      "target": [
+        "Anas"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_240",
+      "relation": "parent taxon",
+      "query": "Cricetinae is to",
+      "prediction": "Rodentia",
+      "target": [
+        "Muridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_241",
+      "relation": "parent taxon",
+      "query": "Naja is to",
+      "prediction": "snake",
+      "target": [
+        "Elapidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_242",
+      "relation": "replaced by",
+      "query": "Province of North Carolina is to",
+      "prediction": "United States",
+      "target": [
+        "North Carolina"
+      ]
+    },
+    {
+      "episode_id": "replaced by_243",
+      "relation": "replaced by",
+      "query": "Cuijk en Sint Agatha is to",
+      "prediction": "Netherlands",
+      "target": [
+        "Cuijk"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_245",
+      "relation": "parent taxon",
+      "query": "western barn owl is to",
+      "prediction": "barn owl",
+      "target": [
+        "Tyto"
+      ]
+    },
+    {
+      "episode_id": "native language_248",
+      "relation": "native language",
+      "query": "Jesus is to",
+      "prediction": "Aramaic",
+      "target": [
+        "Hebrew"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_249",
+      "relation": "parent taxon",
+      "query": "monkeypox virus is to",
+      "prediction": "Poxviridae",
+      "target": [
+        "Orthopoxvirus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_250",
+      "relation": "parent taxon",
+      "query": "Asian tiger mosquito is to",
+      "prediction": "Culex",
+      "target": [
+        "Aedes"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_251",
+      "relation": "parent taxon",
+      "query": "Mangifera indica is to",
+      "prediction": "Anacardiaceae",
+      "target": [
+        "Mangifera"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_252",
+      "relation": "parent taxon",
+      "query": "common ostrich is to",
+      "prediction": "Struthio camelus",
+      "target": [
+        "Struthio"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_253",
+      "relation": "parent taxon",
+      "query": "West Indian manatee is to",
+      "prediction": "Trichechus manatus",
+      "target": [
+        "Trichechus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_257",
+      "relation": "replaced by",
+      "query": "Mississippi Territory is to",
+      "prediction": "Alabama",
+      "target": [
+        "Mississippi"
+      ]
+    },
+    {
+      "episode_id": "replaced by_259",
+      "relation": "replaced by",
+      "query": "Zoological Museum Amsterdam is to",
+      "prediction": "University of Amsterdam",
+      "target": [
+        "Naturalis Biodiversity Center"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_263",
+      "relation": "parent taxon",
+      "query": "Trachemys scripta elegans is to",
+      "prediction": "Trachemys",
+      "target": [
+        "Trachemys scripta"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_265",
+      "relation": "parent taxon",
+      "query": "Cavia porcellus is to",
+      "prediction": "Guinea pig",
+      "target": [
+        "Cavia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_266",
+      "relation": "parent taxon",
+      "query": "celeriac is to",
+      "prediction": "Apiaceae",
+      "target": [
+        "celery"
+      ]
+    },
+    {
+      "episode_id": "replaced by_268",
+      "relation": "replaced by",
+      "query": "Eisenhower dollar is to",
+      "prediction": "Dwight D. Eisenhower",
+      "target": [
+        "Susan B. Anthony dollar"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_270",
+      "relation": "parent taxon",
+      "query": "Luciola is to",
+      "prediction": "firefly",
+      "target": [
+        "Lampyridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_271",
+      "relation": "parent taxon",
+      "query": "Gadus morhua is to",
+      "prediction": "fish",
+      "target": [
+        "Gadus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_273",
+      "relation": "parent taxon",
+      "query": "Macroglossum stellatarum is to",
+      "prediction": "Lepidoptera",
+      "target": [
+        "Macroglossum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_274",
+      "relation": "parent taxon",
+      "query": "Araneae is to",
+      "prediction": "Araneomorphae",
+      "target": [
+        "Arachnida"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_275",
+      "relation": "parent taxon",
+      "query": "Cichorium intybus is to",
+      "prediction": "Chicory",
+      "target": [
+        "Cichorium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_276",
+      "relation": "parent taxon",
+      "query": "Mycobacterium tuberculosis is to",
+      "prediction": "Tuberculosis",
+      "target": [
+        "Mycobacterium"
+      ]
+    },
+    {
+      "episode_id": "replaced by_277",
+      "relation": "replaced by",
+      "query": "United Kingdom of Portugal, Brazil and the Algarves is to",
+      "prediction": "Brazil",
+      "target": [
+        "Empire of Brazil"
+      ]
+    },
+    {
+      "episode_id": "replaced by_278",
+      "relation": "replaced by",
+      "query": "Territory of Hawaii is to",
+      "prediction": "United States",
+      "target": [
+        "Hawaii"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_283",
+      "relation": "parent taxon",
+      "query": "oceanic manta ray is to",
+      "prediction": "Myliobatiformes",
+      "target": [
+        "Manta"
+      ]
+    },
+    {
+      "episode_id": "replaced by_285",
+      "relation": "replaced by",
+      "query": "StarOffice is to",
+      "prediction": "OpenOffice",
+      "target": [
+        "OpenOffice.org"
+      ]
+    },
+    {
+      "episode_id": "replaced by_286",
+      "relation": "replaced by",
+      "query": "State Security Investigations Service is to",
+      "prediction": "United States",
+      "target": [
+        "National Security Agency"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_288",
+      "relation": "parent taxon",
+      "query": "Saccharomyces cerevisiae is to",
+      "prediction": "Saccharomycetaceae",
+      "target": [
+        "Saccharomyces"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_290",
+      "relation": "parent taxon",
+      "query": "Amaranthus retroflexus is to",
+      "prediction": "Amaranthaceae",
+      "target": [
+        "Amaranthus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_292",
+      "relation": "parent taxon",
+      "query": "Pholcus is to",
+      "prediction": "Araneae",
+      "target": [
+        "Pholcidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_297",
+      "relation": "replaced by",
+      "query": "Baja California Norte Territory is to",
+      "prediction": "Mexico",
+      "target": [
+        "Baja California"
+      ]
+    },
+    {
+      "episode_id": "replaced by_298",
+      "relation": "replaced by",
+      "query": "Rinpungpa is to",
+      "prediction": "Tibet",
+      "target": [
+        "Tsangpa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_300",
+      "relation": "parent taxon",
+      "query": "Raphanus sativus is to",
+      "prediction": "Brassicaceae",
+      "target": [
+        "Raphanus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_304",
+      "relation": "replaced by",
+      "query": "Province of New York is to",
+      "prediction": "United States",
+      "target": [
+        "New York"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_306",
+      "relation": "parent taxon",
+      "query": "Capparis spinosa subsp. nummularia is to",
+      "prediction": "Capparis",
+      "target": [
+        "Capparis spinosa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_307",
+      "relation": "parent taxon",
+      "query": "Nigella sativa is to",
+      "prediction": "Ranunculaceae",
+      "target": [
+        "Nigella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_308",
+      "relation": "parent taxon",
+      "query": "Secale cereale is to",
+      "prediction": "Poaceae",
+      "target": [
+        "Secale"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_310",
+      "relation": "parent taxon",
+      "query": "Sorbus aucuparia is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Sorbus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_311",
+      "relation": "replaced by",
+      "query": "Continental Congress is to",
+      "prediction": "United States",
+      "target": [
+        "United States Congress"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_312",
+      "relation": "parent taxon",
+      "query": "Papaver somniferum is to",
+      "prediction": "Papaveraceae",
+      "target": [
+        "Papaver"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_313",
+      "relation": "parent taxon",
+      "query": "Alnus glutinosa is to",
+      "prediction": "Fagaceae",
+      "target": [
+        "Alnus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_318",
+      "relation": "replaced by",
+      "query": "Windows Live Mesh is to",
+      "prediction": "Microsoft",
+      "target": [
+        "Microsoft OneDrive"
+      ]
+    },
+    {
+      "episode_id": "replaced by_321",
+      "relation": "replaced by",
+      "query": "Crown Colony of Sarawak is to",
+      "prediction": "United Kingdom",
+      "target": [
+        "Sarawak"
+      ]
+    },
+    {
+      "episode_id": "replaced by_324",
+      "relation": "replaced by",
+      "query": "First Hungarian Republic is to",
+      "prediction": "Kingdom of Hungary",
+      "target": [
+        "Hungarian Republic"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_326",
+      "relation": "parent taxon",
+      "query": "Artocarpus heterophyllus is to",
+      "prediction": "jackfruit",
+      "target": [
+        "Artocarpus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_327",
+      "relation": "replaced by",
+      "query": "Colony of Virginia is to",
+      "prediction": "Virginia Company of London",
+      "target": [
+        "Virginia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_328",
+      "relation": "replaced by",
+      "query": "Ottoman Empire is to",
+      "prediction": "Republic of Turkey",
+      "target": [
+        "Turkey"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_329",
+      "relation": "parent taxon",
+      "query": "Nicotiana tabacum is to",
+      "prediction": "Solanaceae",
+      "target": [
+        "Nicotiana"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_331",
+      "relation": "parent taxon",
+      "query": "Lepus is to",
+      "prediction": "Lagomorpha",
+      "target": [
+        "Leporidae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_332",
+      "relation": "parent taxon",
+      "query": "lettuce is to",
+      "prediction": "Lactuca sativa",
+      "target": [
+        "Lactuca"
+      ]
+    },
+    {
+      "episode_id": "replaced by_336",
+      "relation": "replaced by",
+      "query": "Soviet Airborne Forces is to",
+      "prediction": "Soviet Union",
+      "target": [
+        "Russian Airborne Troops"
+      ]
+    },
+    {
+      "episode_id": "replaced by_337",
+      "relation": "replaced by",
+      "query": "Norwegian Public Employment Service is to",
+      "prediction": "Ministry of Labour",
+      "target": [
+        "Norwegian Labour and Welfare Administration"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_338",
+      "relation": "parent taxon",
+      "query": "Thunnus is to",
+      "prediction": "Scombridae",
+      "target": [
+        "Thunnini"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_339",
+      "relation": "parent taxon",
+      "query": "Ardeidae is to",
+      "prediction": "heron",
+      "target": [
+        "Pelecaniformes"
+      ]
+    },
+    {
+      "episode_id": "native language_341",
+      "relation": "native language",
+      "query": "Anne of Brittany is to",
+      "prediction": "French",
+      "target": [
+        "Breton"
+      ]
+    },
+    {
+      "episode_id": "replaced by_342",
+      "relation": "replaced by",
+      "query": "Province of Brandenburg is to",
+      "prediction": "Kingdom of Prussia",
+      "target": [
+        "Brandenburg"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_344",
+      "relation": "parent taxon",
+      "query": "Coriandrum sativum is to",
+      "prediction": "Apiaceae",
+      "target": [
+        "Coriandrum"
+      ]
+    },
+    {
+      "episode_id": "replaced by_347",
+      "relation": "replaced by",
+      "query": "Province of New Hampshire is to",
+      "prediction": "United States",
+      "target": [
+        "New Hampshire"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_351",
+      "relation": "parent taxon",
+      "query": "Mangifera indica is to",
+      "prediction": "mango",
+      "target": [
+        "Mangifera"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_353",
+      "relation": "parent taxon",
+      "query": "European Pine Marten is to",
+      "prediction": "Mustelidae",
+      "target": [
+        "Martes"
+      ]
+    },
+    {
+      "episode_id": "replaced by_354",
+      "relation": "replaced by",
+      "query": "Reichsrat is to",
+      "prediction": "Austria-Hungary",
+      "target": [
+        "Bundesrat"
+      ]
+    },
+    {
+      "episode_id": "replaced by_355",
+      "relation": "replaced by",
+      "query": "Renzi Cabinet is to",
+      "prediction": "Matteo Renzi",
+      "target": [
+        "Gentiloni Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_356",
+      "relation": "parent taxon",
+      "query": "Tilia cordata is to",
+      "prediction": "Tiliaceae",
+      "target": [
+        "Tilia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_357",
+      "relation": "parent taxon",
+      "query": "Achillea millefolium is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Achillea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_358",
+      "relation": "parent taxon",
+      "query": "dingo is to",
+      "prediction": "Canis lupus",
+      "target": [
+        "wolf"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_359",
+      "relation": "parent taxon",
+      "query": "sea urchin is to",
+      "prediction": "echinoderm",
+      "target": [
+        "Echinodermata"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_360",
+      "relation": "parent taxon",
+      "query": "Lepus californicus is to",
+      "prediction": "Leporidae",
+      "target": [
+        "Lepus"
+      ]
+    },
+    {
+      "episode_id": "native language_362",
+      "relation": "native language",
+      "query": "Bobby Ologun is to",
+      "prediction": "English",
+      "target": [
+        "Yoruba"
+      ]
+    },
+    {
+      "episode_id": "replaced by_364",
+      "relation": "replaced by",
+      "query": "Grammy Award for Best Pop Performance by a Duo or Group with Vocals is to",
+      "prediction": "Grammy Award",
+      "target": [
+        "Grammy Award for Best Pop Duo/Group Performance"
+      ]
+    },
+    {
+      "episode_id": "replaced by_365",
+      "relation": "replaced by",
+      "query": "Eisenhower dollar is to",
+      "prediction": "United States",
+      "target": [
+        "Susan B. Anthony dollar"
+      ]
+    },
+    {
+      "episode_id": "replaced by_366",
+      "relation": "replaced by",
+      "query": "Guru Nanak is to",
+      "prediction": "Indian rupee",
+      "target": [
+        "Guru Angad Dev"
+      ]
+    },
+    {
+      "episode_id": "replaced by_367",
+      "relation": "replaced by",
+      "query": "Mackinac National Park is to",
+      "prediction": "Michigan",
+      "target": [
+        "Mackinac Island State Park"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_371",
+      "relation": "parent taxon",
+      "query": "Centaurea cyanus is to",
+      "prediction": "cornflower",
+      "target": [
+        "Centaurea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_372",
+      "relation": "replaced by",
+      "query": "Craxi I Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "Craxi II Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_373",
+      "relation": "parent taxon",
+      "query": "Xylocopa violacea is to",
+      "prediction": "Xylocopinae",
+      "target": [
+        "Xylocopa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_375",
+      "relation": "parent taxon",
+      "query": "Cavia porcellus is to",
+      "prediction": "rodent",
+      "target": [
+        "Cavia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_377",
+      "relation": "replaced by",
+      "query": "Province of Georgia is to",
+      "prediction": "United States",
+      "target": [
+        "Georgia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_378",
+      "relation": "parent taxon",
+      "query": "Crocodylus porosus is to",
+      "prediction": "Crocodylidae",
+      "target": [
+        "Crocodylus"
+      ]
+    },
+    {
+      "episode_id": "native language_379",
+      "relation": "native language",
+      "query": "Afro-Surinamese is to",
+      "prediction": "English",
+      "target": [
+        "creole language"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_381",
+      "relation": "parent taxon",
+      "query": "Danaus plexippus is to",
+      "prediction": "milkweed",
+      "target": [
+        "Danaus"
+      ]
+    },
+    {
+      "episode_id": "native language_382",
+      "relation": "native language",
+      "query": "Hafsat Abdulwaheed is to",
+      "prediction": "English",
+      "target": [
+        "Hausa"
+      ]
+    },
+    {
+      "episode_id": "replaced by_383",
+      "relation": "replaced by",
+      "query": "Microsoft Active Accessibility is to",
+      "prediction": "Microsoft UI Automation",
+      "target": [
+        "UI Automation"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_384",
+      "relation": "parent taxon",
+      "query": "Anemone nemorosa is to",
+      "prediction": "Ranunculaceae",
+      "target": [
+        "Anemone"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_385",
+      "relation": "parent taxon",
+      "query": "Anatidae is to",
+      "prediction": "fowl",
+      "target": [
+        "Anseriformes"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_387",
+      "relation": "parent taxon",
+      "query": "Aconitum napellus is to",
+      "prediction": "Ranunculaceae",
+      "target": [
+        "Aconitum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_388",
+      "relation": "parent taxon",
+      "query": "Citrus medica var. sarcodactylis is to",
+      "prediction": "Citrus",
+      "target": [
+        "Citrus medica"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_389",
+      "relation": "parent taxon",
+      "query": "Dendrochirotida is to",
+      "prediction": "Cnidaria",
+      "target": [
+        "Holothuroidea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_391",
+      "relation": "replaced by",
+      "query": "MAN Diesel SE is to",
+      "prediction": "MAN Group",
+      "target": [
+        "MAN Energy Solutions"
+      ]
+    },
+    {
+      "episode_id": "replaced by_392",
+      "relation": "replaced by",
+      "query": "EMD 567 is to",
+      "prediction": "General Electric",
+      "target": [
+        "EMD 645"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_393",
+      "relation": "parent taxon",
+      "query": "Urtica dioica galeopsifolia is to",
+      "prediction": "Urtica",
+      "target": [
+        "Urtica dioica"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_395",
+      "relation": "parent taxon",
+      "query": "Anguis fragilis is to",
+      "prediction": "European grass snake",
+      "target": [
+        "Anguis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_396",
+      "relation": "parent taxon",
+      "query": "Crataegus monogyna is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Crataegus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_397",
+      "relation": "parent taxon",
+      "query": "Sus scrofa is to",
+      "prediction": "boar",
+      "target": [
+        "Sus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_400",
+      "relation": "replaced by",
+      "query": "Ming dynasty is to",
+      "prediction": "Chinese characters",
+      "target": [
+        "Qing dynasty"
+      ]
+    },
+    {
+      "episode_id": "replaced by_404",
+      "relation": "replaced by",
+      "query": "Fanfani III Cabinet is to",
+      "prediction": "Fanfani Cabinet",
+      "target": [
+        "Fanfani IV Cabinet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_405",
+      "relation": "replaced by",
+      "query": "Rinpungpa is to",
+      "prediction": "Tsang",
+      "target": [
+        "Tsangpa"
+      ]
+    },
+    {
+      "episode_id": "replaced by_407",
+      "relation": "replaced by",
+      "query": "Yuan dynasty is to",
+      "prediction": "Mongol",
+      "target": [
+        "Ming dynasty"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_408",
+      "relation": "parent taxon",
+      "query": "Mespilus germanica is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Mespilus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_409",
+      "relation": "replaced by",
+      "query": "Alabama Territory is to",
+      "prediction": "United States",
+      "target": [
+        "Alabama"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_410",
+      "relation": "parent taxon",
+      "query": "Azhdarchidae is to",
+      "prediction": "Pterosauria",
+      "target": [
+        "pterosaur"
+      ]
+    },
+    {
+      "episode_id": "replaced by_415",
+      "relation": "replaced by",
+      "query": "Australian Customs and Border Protection Service is to",
+      "prediction": "Australian Government",
+      "target": [
+        "Australian Border Force"
+      ]
+    },
+    {
+      "episode_id": "native language_418",
+      "relation": "native language",
+      "query": "Ang Mey is to",
+      "prediction": "Malay",
+      "target": [
+        "Khmer"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_419",
+      "relation": "parent taxon",
+      "query": "Elephantidae is to",
+      "prediction": "Elephantidae",
+      "target": [
+        "Proboscidea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_420",
+      "relation": "parent taxon",
+      "query": "Araneus diadematus is to",
+      "prediction": "spider",
+      "target": [
+        "Araneus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_421",
+      "relation": "replaced by",
+      "query": "Kingdom of Scotland is to",
+      "prediction": "Kingdom of Great Britain",
+      "target": [
+        "Great Britain"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_422",
+      "relation": "parent taxon",
+      "query": "Great Tit is to",
+      "prediction": "Parus major",
+      "target": [
+        "Parus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_423",
+      "relation": "parent taxon",
+      "query": "Barbary lion is to",
+      "prediction": "Panthera leo leo",
+      "target": [
+        "lion"
+      ]
+    },
+    {
+      "episode_id": "replaced by_425",
+      "relation": "replaced by",
+      "query": "Czechoslovak Academy of Sciences is to",
+      "prediction": "Czechoslovakia",
+      "target": [
+        "Czech Academy of Sciences"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_426",
+      "relation": "parent taxon",
+      "query": "Pterocarpus santalinus is to",
+      "prediction": "Fabaceae",
+      "target": [
+        "Pterocarpus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_429",
+      "relation": "replaced by",
+      "query": "Dominion of Fiji is to",
+      "prediction": "Republic of Fiji",
+      "target": [
+        "Fiji"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_430",
+      "relation": "parent taxon",
+      "query": "Trachemys scripta elegans is to",
+      "prediction": "Trachemys",
+      "target": [
+        "Trachemys scripta"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_431",
+      "relation": "parent taxon",
+      "query": "Prunus spinosa is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Prunus"
+      ]
+    },
+    {
+      "episode_id": "native language_433",
+      "relation": "native language",
+      "query": "Art Supawatt Purdy is to",
+      "prediction": "English",
+      "target": [
+        "Thai"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_434",
+      "relation": "parent taxon",
+      "query": "Carcharhinus leucas is to",
+      "prediction": "Carcharhinidae",
+      "target": [
+        "Carcharhinus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_436",
+      "relation": "parent taxon",
+      "query": "Cape wild dog is to",
+      "prediction": "Lycaon pictus capensis",
+      "target": [
+        "African wild dog"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_437",
+      "relation": "parent taxon",
+      "query": "Nephelium lappaceum is to",
+      "prediction": "Sapindaceae",
+      "target": [
+        "Nephelium"
+      ]
+    },
+    {
+      "episode_id": "replaced by_438",
+      "relation": "replaced by",
+      "query": "De Gasperi II Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "De Gasperi III Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_440",
+      "relation": "parent taxon",
+      "query": "Cucumis melo var. cantalupensis is to",
+      "prediction": "Cucurbitaceae",
+      "target": [
+        "Cucumis melo"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_442",
+      "relation": "parent taxon",
+      "query": "potato is to",
+      "prediction": "Solanum tuberosum",
+      "target": [
+        "Solanum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_443",
+      "relation": "parent taxon",
+      "query": "broccoli is to",
+      "prediction": "Brassicaceae",
+      "target": [
+        "Brassica oleracea"
+      ]
+    },
+    {
+      "episode_id": "replaced by_444",
+      "relation": "replaced by",
+      "query": "DirectShow is to",
+      "prediction": "Microsoft",
+      "target": [
+        "Media Foundation"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_445",
+      "relation": "parent taxon",
+      "query": "Raphanus sativus is to",
+      "prediction": "radish",
+      "target": [
+        "Raphanus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_446",
+      "relation": "replaced by",
+      "query": "Grammy Award for Best Pop Performance by a Duo or Group with Vocals is to",
+      "prediction": "The Beatles",
+      "target": [
+        "Grammy Award for Best Pop Duo/Group Performance"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_447",
+      "relation": "parent taxon",
+      "query": "Lepisma saccharina is to",
+      "prediction": "Lepismatidae",
+      "target": [
+        "Lepisma"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_450",
+      "relation": "parent taxon",
+      "query": "Cannabis sativa is to",
+      "prediction": "Cannabaceae",
+      "target": [
+        "Cannabis"
+      ]
+    },
+    {
+      "episode_id": "replaced by_451",
+      "relation": "replaced by",
+      "query": "Dominion of Ceylon is to",
+      "prediction": "Republic of Sri Lanka",
+      "target": [
+        "Sri Lanka"
+      ]
+    },
+    {
+      "episode_id": "replaced by_452",
+      "relation": "replaced by",
+      "query": "Mandatory Palestine is to",
+      "prediction": "British Empire",
+      "target": [
+        "Israel"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_453",
+      "relation": "parent taxon",
+      "query": "Humulus lupulus is to",
+      "prediction": "Cannabaceae",
+      "target": [
+        "Humulus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_454",
+      "relation": "parent taxon",
+      "query": "Arapaima gigas is to",
+      "prediction": "Arapaimidae",
+      "target": [
+        "Arapaima"
+      ]
+    },
+    {
+      "episode_id": "replaced by_455",
+      "relation": "replaced by",
+      "query": "Serious Organised Crime Agency is to",
+      "prediction": "Home Office",
+      "target": [
+        "National Crime Agency"
+      ]
+    },
+    {
+      "episode_id": "replaced by_456",
+      "relation": "replaced by",
+      "query": "Leipziger Land is to",
+      "prediction": "Saxony",
+      "target": [
+        "Landkreis Leipzig"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_457",
+      "relation": "parent taxon",
+      "query": "Hordeum vulgare is to",
+      "prediction": "barley",
+      "target": [
+        "Hordeum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_458",
+      "relation": "parent taxon",
+      "query": "Hordeum vulgare is to",
+      "prediction": "Poaceae",
+      "target": [
+        "Hordeum"
+      ]
+    },
+    {
+      "episode_id": "replaced by_459",
+      "relation": "replaced by",
+      "query": "Dhana Nanda is to",
+      "prediction": "Nanda Empire",
+      "target": [
+        "Chandragupta Maurya"
+      ]
+    },
+    {
+      "episode_id": "replaced by_460",
+      "relation": "replaced by",
+      "query": "Florida Territory is to",
+      "prediction": "United States",
+      "target": [
+        "Florida"
+      ]
+    },
+    {
+      "episode_id": "replaced by_465",
+      "relation": "replaced by",
+      "query": "Upper Canada is to",
+      "prediction": "Canada",
+      "target": [
+        "Province of Canada"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_469",
+      "relation": "parent taxon",
+      "query": "Goniatitida is to",
+      "prediction": "Paleozoic",
+      "target": [
+        "Ammonoidea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_472",
+      "relation": "parent taxon",
+      "query": "Glaucus atlanticus is to",
+      "prediction": "Cnidaria",
+      "target": [
+        "Glaucus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_473",
+      "relation": "replaced by",
+      "query": "Leipziger Land is to",
+      "prediction": "Leipzig",
+      "target": [
+        "Landkreis Leipzig"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_477",
+      "relation": "parent taxon",
+      "query": "Common Pheasant is to",
+      "prediction": "fowl",
+      "target": [
+        "Phasianus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_478",
+      "relation": "replaced by",
+      "query": "De Gasperi VI Cabinet is to",
+      "prediction": "Italian Republic",
+      "target": [
+        "De Gasperi VII Cabinet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_480",
+      "relation": "replaced by",
+      "query": "De Gasperi III Cabinet is to",
+      "prediction": "De Gasperi II Cabinet",
+      "target": [
+        "De Gasperi IV Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_482",
+      "relation": "parent taxon",
+      "query": "Sus scrofa is to",
+      "prediction": "Suidae",
+      "target": [
+        "Sus"
+      ]
+    },
+    {
+      "episode_id": "native language_483",
+      "relation": "native language",
+      "query": "Marie Curie is to",
+      "prediction": "French",
+      "target": [
+        "Polish"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_486",
+      "relation": "parent taxon",
+      "query": "Otariidae is to",
+      "prediction": "pinniped",
+      "target": [
+        "Pinnipedia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_487",
+      "relation": "parent taxon",
+      "query": "Xylocopa violacea is to",
+      "prediction": "bee",
+      "target": [
+        "Xylocopa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_489",
+      "relation": "parent taxon",
+      "query": "Malus sylvestris is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Malus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_490",
+      "relation": "parent taxon",
+      "query": "Trigonella foenum-graecum is to",
+      "prediction": "fenugreek",
+      "target": [
+        "Trigonella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_494",
+      "relation": "parent taxon",
+      "query": "Pholcidae is to",
+      "prediction": "spider",
+      "target": [
+        "Araneae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_495",
+      "relation": "parent taxon",
+      "query": "Poecilia reticulata is to",
+      "prediction": "fish",
+      "target": [
+        "Poecilia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_496",
+      "relation": "parent taxon",
+      "query": "Redband trout is to",
+      "prediction": "Oncorhynchus mykiss",
+      "target": [
+        "rainbow trout"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_497",
+      "relation": "parent taxon",
+      "query": "Allosaurus is to",
+      "prediction": "Coelurosauria",
+      "target": [
+        "Allosauridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_500",
+      "relation": "parent taxon",
+      "query": "Rubus idaeus is to",
+      "prediction": "raspberry",
+      "target": [
+        "Rubus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_501",
+      "relation": "replaced by",
+      "query": "Inverness-shire is to",
+      "prediction": "Highland Council",
+      "target": [
+        "Highland"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_502",
+      "relation": "parent taxon",
+      "query": "Camelus is to",
+      "prediction": "Bovidae",
+      "target": [
+        "Camelidae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_505",
+      "relation": "parent taxon",
+      "query": "sturgeon is to",
+      "prediction": "Acipenseridae",
+      "target": [
+        "Acipenseriformes"
+      ]
+    },
+    {
+      "episode_id": "replaced by_506",
+      "relation": "replaced by",
+      "query": "People's Republic of Hungary is to",
+      "prediction": "Kingdom of Hungary",
+      "target": [
+        "Hungary"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_507",
+      "relation": "parent taxon",
+      "query": "Pinus pinea is to",
+      "prediction": "Pinaceae",
+      "target": [
+        "Pinus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_509",
+      "relation": "parent taxon",
+      "query": "Indian elephant is to",
+      "prediction": "Elephantidae",
+      "target": [
+        "Asian elephant"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_510",
+      "relation": "parent taxon",
+      "query": "house mouse is to",
+      "prediction": "Rodentia",
+      "target": [
+        "Mus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_511",
+      "relation": "parent taxon",
+      "query": "Lycosa is to",
+      "prediction": "Araneae",
+      "target": [
+        "Lycosidae"
+      ]
+    },
+    {
+      "episode_id": "native language_514",
+      "relation": "native language",
+      "query": "Panini is to",
+      "prediction": "English",
+      "target": [
+        "Sanskrit"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_515",
+      "relation": "parent taxon",
+      "query": "Morchella esculenta is to",
+      "prediction": "Fungi",
+      "target": [
+        "Morchella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_519",
+      "relation": "parent taxon",
+      "query": "Annona muricata is to",
+      "prediction": "soursop",
+      "target": [
+        "Annona"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_522",
+      "relation": "parent taxon",
+      "query": "rooibos is to",
+      "prediction": "Aspalathus linearis",
+      "target": [
+        "Aspalathus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_524",
+      "relation": "parent taxon",
+      "query": "Ficus carica is to",
+      "prediction": "fig",
+      "target": [
+        "Ficus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_525",
+      "relation": "replaced by",
+      "query": "Microsoft Office XML formats is to",
+      "prediction": "Microsoft Office",
+      "target": [
+        "Office Open XML"
+      ]
+    },
+    {
+      "episode_id": "replaced by_526",
+      "relation": "replaced by",
+      "query": "Ulucanlar Prison Museum is to",
+      "prediction": "Ottoman Empire",
+      "target": [
+        "museum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_532",
+      "relation": "parent taxon",
+      "query": "Qinling panda is to",
+      "prediction": "Ailuropoda",
+      "target": [
+        "giant panda"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_533",
+      "relation": "parent taxon",
+      "query": "common ostrich is to",
+      "prediction": "rhea",
+      "target": [
+        "Struthio"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_534",
+      "relation": "parent taxon",
+      "query": "Dionaea muscipula is to",
+      "prediction": "Venus flytrap",
+      "target": [
+        "Dionaea"
+      ]
+    },
+    {
+      "episode_id": "native language_535",
+      "relation": "native language",
+      "query": "Bobby Ologun is to",
+      "prediction": "English",
+      "target": [
+        "Yoruba"
+      ]
+    },
+    {
+      "episode_id": "replaced by_536",
+      "relation": "replaced by",
+      "query": "Old English is to",
+      "prediction": "English",
+      "target": [
+        "Middle English"
+      ]
+    },
+    {
+      "episode_id": "replaced by_537",
+      "relation": "replaced by",
+      "query": "Berlusconi II Cabinet is to",
+      "prediction": "Berlusconi II",
+      "target": [
+        "Berlusconi III Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_538",
+      "relation": "parent taxon",
+      "query": "Luciola is to",
+      "prediction": "Coleoptera",
+      "target": [
+        "Lampyridae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_539",
+      "relation": "replaced by",
+      "query": "Birmingham Central Library is to",
+      "prediction": "Birmingham City Council",
+      "target": [
+        "Library of Birmingham"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_540",
+      "relation": "parent taxon",
+      "query": "Juglans regia is to",
+      "prediction": "Juglandaceae",
+      "target": [
+        "Juglans"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_543",
+      "relation": "parent taxon",
+      "query": "mallard is to",
+      "prediction": "fowl",
+      "target": [
+        "Anas"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_544",
+      "relation": "parent taxon",
+      "query": "Aesculus hippocastanum is to",
+      "prediction": "Sapindaceae",
+      "target": [
+        "Aesculus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_546",
+      "relation": "replaced by",
+      "query": "De Gasperi IV Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "De Gasperi V Cabinet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_548",
+      "relation": "replaced by",
+      "query": "Commonwealth of the Philippines is to",
+      "prediction": "United States",
+      "target": [
+        "Philippines"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_550",
+      "relation": "parent taxon",
+      "query": "bhut jolokia is to",
+      "prediction": "Solanum",
+      "target": [
+        "Capsicum chinense"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_552",
+      "relation": "parent taxon",
+      "query": "Achillea millefolium is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Achillea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_553",
+      "relation": "parent taxon",
+      "query": "Viola tricolor is to",
+      "prediction": "V.",
+      "target": [
+        "Viola"
+      ]
+    },
+    {
+      "episode_id": "replaced by_558",
+      "relation": "replaced by",
+      "query": "DirectShow is to",
+      "prediction": "Microsoft",
+      "target": [
+        "Media Foundation"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_559",
+      "relation": "parent taxon",
+      "query": "Lophophora williamsii is to",
+      "prediction": "Peyote",
+      "target": [
+        "Lophophora"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_560",
+      "relation": "parent taxon",
+      "query": "Artemisia absinthium is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Artemisia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_561",
+      "relation": "parent taxon",
+      "query": "Dendrobatidae is to",
+      "prediction": "Dendrobatidae",
+      "target": [
+        "Anura"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_564",
+      "relation": "parent taxon",
+      "query": "Corylus avellana is to",
+      "prediction": "European hazel",
+      "target": [
+        "Corylus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_565",
+      "relation": "replaced by",
+      "query": "Socialist Republic of Montenegro is to",
+      "prediction": "Kingdom of Yugoslavia",
+      "target": [
+        "Republic of Montenegro"
+      ]
+    },
+    {
+      "episode_id": "replaced by_566",
+      "relation": "replaced by",
+      "query": "Secretary of State for Commonwealth Affairs is to",
+      "prediction": "Secretary of State for the Colonies",
+      "target": [
+        "Secretary of State for Foreign and Commonwealth Affairs"
+      ]
+    },
+    {
+      "episode_id": "native language_568",
+      "relation": "native language",
+      "query": "Horst Seehofer is to",
+      "prediction": "German",
+      "target": [
+        "Bavarian"
+      ]
+    },
+    {
+      "episode_id": "native language_571",
+      "relation": "native language",
+      "query": "Corsicans is to",
+      "prediction": "French",
+      "target": [
+        "Corsican"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_574",
+      "relation": "parent taxon",
+      "query": "Thymus vulgaris is to",
+      "prediction": "Lamiaceae",
+      "target": [
+        "Thymus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_580",
+      "relation": "parent taxon",
+      "query": "Aloe vera is to",
+      "prediction": "Asphodelaceae",
+      "target": [
+        "Aloe"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_581",
+      "relation": "parent taxon",
+      "query": "Humulus lupulus is to",
+      "prediction": "Cannabaceace",
+      "target": [
+        "Humulus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_582",
+      "relation": "replaced by",
+      "query": "Soviet Airborne Forces is to",
+      "prediction": "Soviet Union",
+      "target": [
+        "Russian Airborne Troops"
+      ]
+    },
+    {
+      "episode_id": "replaced by_584",
+      "relation": "replaced by",
+      "query": "BBC Choice is to",
+      "prediction": "BBC",
+      "target": [
+        "BBC Three"
+      ]
+    },
+    {
+      "episode_id": "native language_586",
+      "relation": "native language",
+      "query": "Anne of Brittany is to",
+      "prediction": "French",
+      "target": [
+        "Breton"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_588",
+      "relation": "parent taxon",
+      "query": "Lophiidae is to",
+      "prediction": "Lophius",
+      "target": [
+        "Lophiiformes"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_590",
+      "relation": "parent taxon",
+      "query": "Aconitum napellus is to",
+      "prediction": "Ranunculaceae",
+      "target": [
+        "Aconitum"
+      ]
+    },
+    {
+      "episode_id": "replaced by_591",
+      "relation": "replaced by",
+      "query": "South Yemen is to",
+      "prediction": "People's Democratic Republic of Yemen",
+      "target": [
+        "Yemen"
+      ]
+    },
+    {
+      "episode_id": "replaced by_592",
+      "relation": "replaced by",
+      "query": "Ottoman Empire is to",
+      "prediction": "Republic of Turkey",
+      "target": [
+        "Turkey"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_593",
+      "relation": "parent taxon",
+      "query": "Blattella germanica is to",
+      "prediction": "Blattellidae",
+      "target": [
+        "Blattella"
+      ]
+    },
+    {
+      "episode_id": "replaced by_596",
+      "relation": "replaced by",
+      "query": "Czechoslovak Academy of Sciences is to",
+      "prediction": "Czech Republic",
+      "target": [
+        "Czech Academy of Sciences"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_597",
+      "relation": "parent taxon",
+      "query": "Lens culinaris is to",
+      "prediction": "Fabaceae",
+      "target": [
+        "Lens"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_598",
+      "relation": "parent taxon",
+      "query": "Hordeum vulgare var. nudum or Hordeum vulgare var. trifurcatum is to",
+      "prediction": "Poaceae",
+      "target": [
+        "Hordeum vulgare"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_599",
+      "relation": "parent taxon",
+      "query": "Asparagus officinalis is to",
+      "prediction": "Asparagaceae",
+      "target": [
+        "Asparagus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_600",
+      "relation": "parent taxon",
+      "query": "Tagetes erecta is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Tagetes"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_601",
+      "relation": "parent taxon",
+      "query": "Macroglossum stellatarum is to",
+      "prediction": "Lepidoptera",
+      "target": [
+        "Macroglossum"
+      ]
+    },
+    {
+      "episode_id": "replaced by_603",
+      "relation": "replaced by",
+      "query": "Middle English is to",
+      "prediction": "Early Modern English",
+      "target": [
+        "Modern English"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_605",
+      "relation": "parent taxon",
+      "query": "Aloe vera is to",
+      "prediction": "Asphodelaceaceae",
+      "target": [
+        "Aloe"
+      ]
+    },
+    {
+      "episode_id": "replaced by_606",
+      "relation": "replaced by",
+      "query": "Colony of Virginia is to",
+      "prediction": "United States",
+      "target": [
+        "Virginia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_607",
+      "relation": "replaced by",
+      "query": "XX Constitutional Government of Portugal is to",
+      "prediction": "Portugal",
+      "target": [
+        "XXI Constitutional Government of Portugal"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_608",
+      "relation": "parent taxon",
+      "query": "Juniperus is to",
+      "prediction": "Cupressaceaceae",
+      "target": [
+        "Cupressaceae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_611",
+      "relation": "parent taxon",
+      "query": "Talpa europaea is to",
+      "prediction": "European mole",
+      "target": [
+        "Talpa"
+      ]
+    },
+    {
+      "episode_id": "native language_615",
+      "relation": "native language",
+      "query": "Xabi Alonso is to",
+      "prediction": "Spanish",
+      "target": [
+        "Basque"
+      ]
+    },
+    {
+      "episode_id": "replaced by_616",
+      "relation": "replaced by",
+      "query": "Thirtieth government of Israel is to",
+      "prediction": "Israel",
+      "target": [
+        "Thirty-first government of Israel"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_617",
+      "relation": "parent taxon",
+      "query": "Colocasia esculenta is to",
+      "prediction": "taro",
+      "target": [
+        "Colocasia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_620",
+      "relation": "parent taxon",
+      "query": "wolf is to",
+      "prediction": "canine",
+      "target": [
+        "Canis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_623",
+      "relation": "parent taxon",
+      "query": "Platanus occidentalis is to",
+      "prediction": "Platanaceae",
+      "target": [
+        "Platanus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_624",
+      "relation": "parent taxon",
+      "query": "Plumeria rubra is to",
+      "prediction": "Plumeriaceae",
+      "target": [
+        "Plumeria"
+      ]
+    },
+    {
+      "episode_id": "replaced by_626",
+      "relation": "replaced by",
+      "query": "Guru Nanak is to",
+      "prediction": "Guru Angad",
+      "target": [
+        "Guru Angad Dev"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_627",
+      "relation": "parent taxon",
+      "query": "Cucurbita pepo is to",
+      "prediction": "Cucurbitaceae",
+      "target": [
+        "Cucurbita"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_628",
+      "relation": "parent taxon",
+      "query": "Aesculus hippocastanum is to",
+      "prediction": "Horse chestnut",
+      "target": [
+        "Aesculus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_629",
+      "relation": "parent taxon",
+      "query": "Equus ferus przewalskii is to",
+      "prediction": "Equus",
+      "target": [
+        "Equus ferus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_631",
+      "relation": "replaced by",
+      "query": "Rumor IV Cabinet is to",
+      "prediction": "Rumor III Cabinet",
+      "target": [
+        "Rumor V Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_633",
+      "relation": "parent taxon",
+      "query": "European perch is to",
+      "prediction": "Percidae",
+      "target": [
+        "perch"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_635",
+      "relation": "parent taxon",
+      "query": "bhut jolokia is to",
+      "prediction": "Solanum",
+      "target": [
+        "Capsicum chinense"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_638",
+      "relation": "parent taxon",
+      "query": "influenza A virus subtype H1N1 is to",
+      "prediction": "Inuenza A",
+      "target": [
+        "influenza A virus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_639",
+      "relation": "replaced by",
+      "query": "Gold Coast is to",
+      "prediction": "Tweed Heads",
+      "target": [
+        "Ghana"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_640",
+      "relation": "parent taxon",
+      "query": "northern goshawk is to",
+      "prediction": "Accipiter gentilis",
+      "target": [
+        "Accipiter"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_641",
+      "relation": "parent taxon",
+      "query": "Northern Raven is to",
+      "prediction": "Corvidae",
+      "target": [
+        "Corvus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_642",
+      "relation": "parent taxon",
+      "query": "Coffea is to",
+      "prediction": "Rubiacece",
+      "target": [
+        "Rubiaceae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_646",
+      "relation": "replaced by",
+      "query": "EMD 567 is to",
+      "prediction": "EMD 568",
+      "target": [
+        "EMD 645"
+      ]
+    },
+    {
+      "episode_id": "replaced by_647",
+      "relation": "replaced by",
+      "query": "Alabama Territory is to",
+      "prediction": "State of Alabama",
+      "target": [
+        "Alabama"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_649",
+      "relation": "parent taxon",
+      "query": "Aronia melanocarpa is to",
+      "prediction": "chokeberry",
+      "target": [
+        "Aronia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_650",
+      "relation": "parent taxon",
+      "query": "Cricetinae is to",
+      "prediction": "Rodentia",
+      "target": [
+        "Muridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_651",
+      "relation": "parent taxon",
+      "query": "Epipremnum aureum is to",
+      "prediction": "Pothos",
+      "target": [
+        "Epipremnum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_653",
+      "relation": "parent taxon",
+      "query": "Fagus sylvatica is to",
+      "prediction": "beech",
+      "target": [
+        "Fagus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_654",
+      "relation": "parent taxon",
+      "query": "Chenopodium quinoa is to",
+      "prediction": "Chenopodiaceae",
+      "target": [
+        "Chenopodium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_655",
+      "relation": "parent taxon",
+      "query": "Otariidae is to",
+      "prediction": "pinnipeds",
+      "target": [
+        "Pinnipedia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_657",
+      "relation": "parent taxon",
+      "query": "Anemone nemorosa is to",
+      "prediction": "wood anemone",
+      "target": [
+        "Anemone"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_658",
+      "relation": "parent taxon",
+      "query": "Epipremnum aureum is to",
+      "prediction": "Araceaceae",
+      "target": [
+        "Epipremnum"
+      ]
+    },
+    {
+      "episode_id": "replaced by_661",
+      "relation": "replaced by",
+      "query": "Microsoft Office XML formats is to",
+      "prediction": "Microsoft Office",
+      "target": [
+        "Office Open XML"
+      ]
+    },
+    {
+      "episode_id": "replaced by_662",
+      "relation": "replaced by",
+      "query": "Taff Vale Railway is to",
+      "prediction": "British Rail",
+      "target": [
+        "Great Western Railway"
+      ]
+    },
+    {
+      "episode_id": "replaced by_663",
+      "relation": "replaced by",
+      "query": "De Gasperi V Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "De Gasperi VI Cabinet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_665",
+      "relation": "replaced by",
+      "query": "Azerbaijan Democratic Republic is to",
+      "prediction": "Azerbaijan Republic",
+      "target": [
+        "Azerbaijan Soviet Socialist Republic"
+      ]
+    },
+    {
+      "episode_id": "replaced by_666",
+      "relation": "replaced by",
+      "query": "International Security Assistance Force is to",
+      "prediction": "NATO",
+      "target": [
+        "Resolute Support Mission"
+      ]
+    },
+    {
+      "episode_id": "replaced by_668",
+      "relation": "replaced by",
+      "query": "Territory of Hawaii is to",
+      "prediction": "State of Hawaii",
+      "target": [
+        "Hawaii"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_670",
+      "relation": "parent taxon",
+      "query": "Nicotiana tabacum is to",
+      "prediction": "Solanaceae",
+      "target": [
+        "Nicotiana"
+      ]
+    },
+    {
+      "episode_id": "native language_673",
+      "relation": "native language",
+      "query": "Corsicans is to",
+      "prediction": "French",
+      "target": [
+        "Corsican"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_674",
+      "relation": "parent taxon",
+      "query": "Lonicera japonica is to",
+      "prediction": "Caprifoliaceae",
+      "target": [
+        "Lonicera"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_675",
+      "relation": "parent taxon",
+      "query": "Citrus medica var. sarcodactylis is to",
+      "prediction": "Citrus",
+      "target": [
+        "Citrus medica"
+      ]
+    },
+    {
+      "episode_id": "replaced by_676",
+      "relation": "replaced by",
+      "query": "West Germany is to",
+      "prediction": "East Germany",
+      "target": [
+        "Germany"
+      ]
+    },
+    {
+      "episode_id": "replaced by_677",
+      "relation": "replaced by",
+      "query": "Film Australia is to",
+      "prediction": "Australian Government",
+      "target": [
+        "Screen Australia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_679",
+      "relation": "replaced by",
+      "query": "Legislative Assembly of the Province of Canada is to",
+      "prediction": "Province of Canada",
+      "target": [
+        "Legislative Assembly of Ontario"
+      ]
+    },
+    {
+      "episode_id": "replaced by_681",
+      "relation": "replaced by",
+      "query": "Dominion of Ceylon is to",
+      "prediction": "United Kingdom",
+      "target": [
+        "Sri Lanka"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_688",
+      "relation": "parent taxon",
+      "query": "Pistacia vera is to",
+      "prediction": "Anacardiaceae",
+      "target": [
+        "Pistacia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_689",
+      "relation": "replaced by",
+      "query": "Continental Congress is to",
+      "prediction": "Articles of Confederation",
+      "target": [
+        "United States Congress"
+      ]
+    },
+    {
+      "episode_id": "replaced by_690",
+      "relation": "replaced by",
+      "query": "Fanfani III Cabinet is to",
+      "prediction": "Italian Republic",
+      "target": [
+        "Fanfani IV Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_695",
+      "relation": "parent taxon",
+      "query": "West Indian manatee is to",
+      "prediction": "Trichechus manatus",
+      "target": [
+        "Trichechus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_696",
+      "relation": "parent taxon",
+      "query": "Formosan clouded leopard is to",
+      "prediction": "Neofelis",
+      "target": [
+        "clouded leopard"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_698",
+      "relation": "parent taxon",
+      "query": "Haliaeetus is to",
+      "prediction": "raptors",
+      "target": [
+        "Accipitridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_705",
+      "relation": "parent taxon",
+      "query": "Nepeta cataria is to",
+      "prediction": "Lamiaceae",
+      "target": [
+        "Nepeta"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_706",
+      "relation": "parent taxon",
+      "query": "Jacaranda mimosifolia is to",
+      "prediction": "Bignoniaceae",
+      "target": [
+        "Jacaranda"
+      ]
+    },
+    {
+      "episode_id": "replaced by_707",
+      "relation": "replaced by",
+      "query": "Old English Latin alphabet is to",
+      "prediction": "Latin alphabet",
+      "target": [
+        "English alphabet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_708",
+      "relation": "replaced by",
+      "query": "Second Empire of Haiti is to",
+      "prediction": "First Empire of Haiti",
+      "target": [
+        "Haiti"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_710",
+      "relation": "parent taxon",
+      "query": "Malus sylvestris is to",
+      "prediction": "Rosaceae",
+      "target": [
+        "Malus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_711",
+      "relation": "parent taxon",
+      "query": "Bacillus anthracis is to",
+      "prediction": "anthrax",
+      "target": [
+        "Bacillus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_716",
+      "relation": "parent taxon",
+      "query": "Erythroxylum coca is to",
+      "prediction": "Erythroxylaceae",
+      "target": [
+        "Erythroxylum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_717",
+      "relation": "parent taxon",
+      "query": "Erythroxylum coca is to",
+      "prediction": "Erythroxylaceae",
+      "target": [
+        "Erythroxylum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_719",
+      "relation": "parent taxon",
+      "query": "Haliaeetus is to",
+      "prediction": "raptor",
+      "target": [
+        "Accipitridae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_720",
+      "relation": "replaced by",
+      "query": "Old English is to",
+      "prediction": "English",
+      "target": [
+        "Middle English"
+      ]
+    },
+    {
+      "episode_id": "replaced by_722",
+      "relation": "replaced by",
+      "query": "StarOffice is to",
+      "prediction": "Sun Microsystems",
+      "target": [
+        "OpenOffice.org"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_723",
+      "relation": "parent taxon",
+      "query": "dingo is to",
+      "prediction": "Canis lupus",
+      "target": [
+        "wolf"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_725",
+      "relation": "parent taxon",
+      "query": "Camelus is to",
+      "prediction": "Camel",
+      "target": [
+        "Camelidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_726",
+      "relation": "replaced by",
+      "query": "Big Eight Conference is to",
+      "prediction": "Big Ten Conference",
+      "target": [
+        "Big 12 Conference"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_729",
+      "relation": "parent taxon",
+      "query": "Vespa is to",
+      "prediction": "Hymenoptera",
+      "target": [
+        "Vespinae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_730",
+      "relation": "replaced by",
+      "query": "Lyceum of the Principality of Serbia is to",
+      "prediction": "Serbia",
+      "target": [
+        "University of Belgrade"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_733",
+      "relation": "parent taxon",
+      "query": "Mastadenovirus is to",
+      "prediction": "Adenoviridaae",
+      "target": [
+        "Adenoviridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_734",
+      "relation": "parent taxon",
+      "query": "European hedgehog is to",
+      "prediction": "Erinaceidae",
+      "target": [
+        "Erinaceus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_735",
+      "relation": "replaced by",
+      "query": "Colony of Vancouver Island is to",
+      "prediction": "British Columbia",
+      "target": [
+        "Colony of British Columbia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_736",
+      "relation": "parent taxon",
+      "query": "Scolopendra gigantea is to",
+      "prediction": "Scolopendridae",
+      "target": [
+        "Scolopendra"
+      ]
+    },
+    {
+      "episode_id": "replaced by_737",
+      "relation": "replaced by",
+      "query": "Big Eight Conference is to",
+      "prediction": "University of Oklahoma",
+      "target": [
+        "Big 12 Conference"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_738",
+      "relation": "parent taxon",
+      "query": "green iguana is to",
+      "prediction": "Iguanidae",
+      "target": [
+        "Iguana"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_739",
+      "relation": "parent taxon",
+      "query": "Brown Bear is to",
+      "prediction": "Ursidae",
+      "target": [
+        "Ursus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_742",
+      "relation": "replaced by",
+      "query": "Mississippi Territory is to",
+      "prediction": "United States",
+      "target": [
+        "Mississippi"
+      ]
+    },
+    {
+      "episode_id": "native language_744",
+      "relation": "native language",
+      "query": "Ozbek is to",
+      "prediction": "Turkic",
+      "target": [
+        "Uzbek"
+      ]
+    },
+    {
+      "episode_id": "replaced by_746",
+      "relation": "replaced by",
+      "query": "Ming dynasty is to",
+      "prediction": "Nanjing",
+      "target": [
+        "Qing dynasty"
+      ]
+    },
+    {
+      "episode_id": "replaced by_747",
+      "relation": "replaced by",
+      "query": "Kingdom of Israel is to",
+      "prediction": "Kingdom of Judah",
+      "target": [
+        "Judah"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_749",
+      "relation": "parent taxon",
+      "query": "Magnolia grandiflora is to",
+      "prediction": "Magnoliaceae",
+      "target": [
+        "Magnolia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_750",
+      "relation": "replaced by",
+      "query": "Province of Canada is to",
+      "prediction": "Dominion of of Canada",
+      "target": [
+        "Canada"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_751",
+      "relation": "parent taxon",
+      "query": "Scolopendra gigantea is to",
+      "prediction": "Scolopendridae",
+      "target": [
+        "Scolopendra"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_752",
+      "relation": "parent taxon",
+      "query": "Mustela erminea is to",
+      "prediction": "Mustelidae",
+      "target": [
+        "Mustela"
+      ]
+    },
+    {
+      "episode_id": "replaced by_754",
+      "relation": "replaced by",
+      "query": "UCI Women's Road World Cup is to",
+      "prediction": "UCI Road World Championships",
+      "target": [
+        "UCI Women's World Tour"
+      ]
+    },
+    {
+      "episode_id": "replaced by_755",
+      "relation": "replaced by",
+      "query": "South Eastern and Chatham Railway is to",
+      "prediction": "Southern Region",
+      "target": [
+        "Southern Railway"
+      ]
+    },
+    {
+      "episode_id": "replaced by_756",
+      "relation": "replaced by",
+      "query": "Gold Coast is to",
+      "prediction": "Queensland",
+      "target": [
+        "Ghana"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_760",
+      "relation": "parent taxon",
+      "query": "Lens culinaris is to",
+      "prediction": "lentil",
+      "target": [
+        "Lens"
+      ]
+    },
+    {
+      "episode_id": "replaced by_761",
+      "relation": "replaced by",
+      "query": "Scottish Aviation is to",
+      "prediction": "BAE Systems",
+      "target": [
+        "British Aerospace"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_762",
+      "relation": "parent taxon",
+      "query": "caracal is to",
+      "prediction": "Felidae",
+      "target": [
+        "Caracal"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_764",
+      "relation": "parent taxon",
+      "query": "Mimosa pudica is to",
+      "prediction": "plant",
+      "target": [
+        "Mimosa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_765",
+      "relation": "parent taxon",
+      "query": "Elephantidae is to",
+      "prediction": "Elephantidae",
+      "target": [
+        "Proboscidea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_767",
+      "relation": "parent taxon",
+      "query": "Nepeta cataria is to",
+      "prediction": "catmint",
+      "target": [
+        "Nepeta"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_768",
+      "relation": "parent taxon",
+      "query": "Lucanus cervus is to",
+      "prediction": "Lucanidae",
+      "target": [
+        "Lucanus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_771",
+      "relation": "parent taxon",
+      "query": "Ardeidae is to",
+      "prediction": "Ardeidae",
+      "target": [
+        "Pelecaniformes"
+      ]
+    },
+    {
+      "episode_id": "native language_776",
+      "relation": "native language",
+      "query": "Abdul Rasul Sayyaf is to",
+      "prediction": "Dari",
+      "target": [
+        "Pashto"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_777",
+      "relation": "parent taxon",
+      "query": "Nephelium lappaceum is to",
+      "prediction": "Sapindaceae",
+      "target": [
+        "Nephelium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_778",
+      "relation": "parent taxon",
+      "query": "Blattella germanica is to",
+      "prediction": "Blattellidae",
+      "target": [
+        "Blattella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_781",
+      "relation": "parent taxon",
+      "query": "Equus africanus asinus is to",
+      "prediction": "Equidae",
+      "target": [
+        "Equus africanus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_782",
+      "relation": "replaced by",
+      "query": "MAN Diesel SE is to",
+      "prediction": "MAN Group",
+      "target": [
+        "MAN Energy Solutions"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_785",
+      "relation": "parent taxon",
+      "query": "Phaseolus vulgaris is to",
+      "prediction": "Fabaceae",
+      "target": [
+        "Phaseolus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_786",
+      "relation": "parent taxon",
+      "query": "Anatidae is to",
+      "prediction": "fowl",
+      "target": [
+        "Anseriformes"
+      ]
+    },
+    {
+      "episode_id": "replaced by_787",
+      "relation": "replaced by",
+      "query": "Republic of Bosnia and Herzegovina is to",
+      "prediction": "University of Sarajevo",
+      "target": [
+        "Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "episode_id": "replaced by_790",
+      "relation": "replaced by",
+      "query": "Reichsrat is to",
+      "prediction": "Weimar Republic",
+      "target": [
+        "Bundesrat"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_792",
+      "relation": "parent taxon",
+      "query": "Staphylococcus aureus is to",
+      "prediction": "Golden staph",
+      "target": [
+        "Staphylococcus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_793",
+      "relation": "parent taxon",
+      "query": "Juglans regia is to",
+      "prediction": "Juglandaceae",
+      "target": [
+        "Juglans"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_794",
+      "relation": "parent taxon",
+      "query": "cherry tomato is to",
+      "prediction": "Solanum lycopersicum",
+      "target": [
+        "tomato"
+      ]
+    },
+    {
+      "episode_id": "replaced by_795",
+      "relation": "replaced by",
+      "query": "Windows Live Mesh is to",
+      "prediction": "Microsoft",
+      "target": [
+        "Microsoft OneDrive"
+      ]
+    },
+    {
+      "episode_id": "replaced by_797",
+      "relation": "replaced by",
+      "query": "Crown Colony of Sarawak is to",
+      "prediction": "Malaysia",
+      "target": [
+        "Sarawak"
+      ]
+    },
+    {
+      "episode_id": "replaced by_798",
+      "relation": "replaced by",
+      "query": "Azerbaijan Democratic Republic is to",
+      "prediction": "Azerbaijan",
+      "target": [
+        "Azerbaijan Soviet Socialist Republic"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_801",
+      "relation": "parent taxon",
+      "query": "Bos primigenius indicus is to",
+      "prediction": "Banteng",
+      "target": [
+        "Bos primigenius"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_803",
+      "relation": "parent taxon",
+      "query": "Boa constrictor is to",
+      "prediction": "Boidae",
+      "target": [
+        "Boa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_804",
+      "relation": "parent taxon",
+      "query": "Fagus sylvatica is to",
+      "prediction": "Fagacece",
+      "target": [
+        "Fagus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_806",
+      "relation": "parent taxon",
+      "query": "St Kilda Wren is to",
+      "prediction": "Troglodytidae",
+      "target": [
+        "Eurasian Wren"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_807",
+      "relation": "parent taxon",
+      "query": "Brachiosaurus is to",
+      "prediction": "Sauropoda",
+      "target": [
+        "Brachiosauridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_808",
+      "relation": "parent taxon",
+      "query": "Narcissus pseudonarcissus is to",
+      "prediction": "Amaryllidaceae",
+      "target": [
+        "Narcissus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_810",
+      "relation": "replaced by",
+      "query": "De Gasperi III Cabinet is to",
+      "prediction": "Italy",
+      "target": [
+        "De Gasperi IV Cabinet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_811",
+      "relation": "parent taxon",
+      "query": "mandrill is to",
+      "prediction": "Cercopithecidae",
+      "target": [
+        "Mandrillus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_812",
+      "relation": "parent taxon",
+      "query": "Trifolium repens is to",
+      "prediction": "clover",
+      "target": [
+        "Trifolium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_813",
+      "relation": "parent taxon",
+      "query": "Hydrochoerus hydrochaeris is to",
+      "prediction": "Hydrochoerinae",
+      "target": [
+        "Hydrochoerus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_814",
+      "relation": "parent taxon",
+      "query": "Brassica rapa subsp. chinensis is to",
+      "prediction": "Brassica",
+      "target": [
+        "Brassica rapa"
+      ]
+    },
+    {
+      "episode_id": "replaced by_815",
+      "relation": "replaced by",
+      "query": "Southwest Territory is to",
+      "prediction": "State of Tennessee",
+      "target": [
+        "Tennessee"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_817",
+      "relation": "parent taxon",
+      "query": "Cape wild dog is to",
+      "prediction": "Lycaon",
+      "target": [
+        "African wild dog"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_818",
+      "relation": "parent taxon",
+      "query": "Theobroma cacao is to",
+      "prediction": "Malvaceae",
+      "target": [
+        "Theobroma"
+      ]
+    },
+    {
+      "episode_id": "replaced by_819",
+      "relation": "replaced by",
+      "query": "Canada East is to",
+      "prediction": "Canada",
+      "target": [
+        "Quebec"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_820",
+      "relation": "parent taxon",
+      "query": "Paramecium caudatum is to",
+      "prediction": "Paramecidae",
+      "target": [
+        "Paramecium"
+      ]
+    },
+    {
+      "episode_id": "replaced by_825",
+      "relation": "replaced by",
+      "query": "Province of New Jersey is to",
+      "prediction": "United States",
+      "target": [
+        "New Jersey"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_828",
+      "relation": "parent taxon",
+      "query": "Bos primigenius is to",
+      "prediction": "Bovidae",
+      "target": [
+        "Bos"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_829",
+      "relation": "parent taxon",
+      "query": "potato is to",
+      "prediction": "Solanum tuberosum",
+      "target": [
+        "Solanum"
+      ]
+    },
+    {
+      "episode_id": "native language_830",
+      "relation": "native language",
+      "query": "Hazaras is to",
+      "prediction": "Dari",
+      "target": [
+        "Hazaragi"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_831",
+      "relation": "parent taxon",
+      "query": "Lepisma saccharina is to",
+      "prediction": "Silverfish",
+      "target": [
+        "Lepisma"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_833",
+      "relation": "parent taxon",
+      "query": "Chinchilla is to",
+      "prediction": "Lagomorpha",
+      "target": [
+        "Chinchillidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_834",
+      "relation": "replaced by",
+      "query": "Socialist Republic of Montenegro is to",
+      "prediction": "Kingdom of Yugoslavia",
+      "target": [
+        "Republic of Montenegro"
+      ]
+    },
+    {
+      "episode_id": "replaced by_838",
+      "relation": "replaced by",
+      "query": "Czechoslovakia is to",
+      "prediction": "Czechoslovak Socialist Republic",
+      "target": [
+        "Czech Republic"
+      ]
+    },
+    {
+      "episode_id": "replaced by_840",
+      "relation": "replaced by",
+      "query": "Film Australia is to",
+      "prediction": "Australian Broadcasting Corporation",
+      "target": [
+        "Screen Australia"
+      ]
+    },
+    {
+      "episode_id": "native language_841",
+      "relation": "native language",
+      "query": "Lhotshampa is to",
+      "prediction": "Dzongkha",
+      "target": [
+        "Nepali"
+      ]
+    },
+    {
+      "episode_id": "replaced by_843",
+      "relation": "replaced by",
+      "query": "Microsoft Active Accessibility is to",
+      "prediction": "Microsoft",
+      "target": [
+        "UI Automation"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_844",
+      "relation": "parent taxon",
+      "query": "Mitragyna speciosa is to",
+      "prediction": "kratom",
+      "target": [
+        "Mitragyna"
+      ]
+    },
+    {
+      "episode_id": "native language_845",
+      "relation": "native language",
+      "query": "Michael Essien is to",
+      "prediction": "English",
+      "target": [
+        "Akan"
+      ]
+    },
+    {
+      "episode_id": "replaced by_846",
+      "relation": "replaced by",
+      "query": "Florida Territory is to",
+      "prediction": "State of Florida",
+      "target": [
+        "Florida"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_849",
+      "relation": "parent taxon",
+      "query": "Galanthus is to",
+      "prediction": "Liliaceae",
+      "target": [
+        "Amaryllidaceae"
+      ]
+    },
+    {
+      "episode_id": "native language_850",
+      "relation": "native language",
+      "query": "Xabi Alonso is to",
+      "prediction": "Spanish",
+      "target": [
+        "Basque"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_851",
+      "relation": "parent taxon",
+      "query": "Bald Eagle is to",
+      "prediction": "Accipitridae",
+      "target": [
+        "Haliaeetus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_852",
+      "relation": "replaced by",
+      "query": "Papal States is to",
+      "prediction": "Kingdom of Italy",
+      "target": [
+        "Vatican City"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_854",
+      "relation": "parent taxon",
+      "query": "cherry tomato is to",
+      "prediction": "Solanum lycopersicum",
+      "target": [
+        "tomato"
+      ]
+    },
+    {
+      "episode_id": "replaced by_856",
+      "relation": "replaced by",
+      "query": "Ulucanlar Prison Museum is to",
+      "prediction": "Ministry of Justice",
+      "target": [
+        "museum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_857",
+      "relation": "parent taxon",
+      "query": "Datura stramonium is to",
+      "prediction": "Solanaceae",
+      "target": [
+        "Datura"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_858",
+      "relation": "parent taxon",
+      "query": "oceanic manta ray is to",
+      "prediction": "Mobula birostris",
+      "target": [
+        "Manta"
+      ]
+    },
+    {
+      "episode_id": "replaced by_861",
+      "relation": "replaced by",
+      "query": "Province of New Jersey is to",
+      "prediction": "United States",
+      "target": [
+        "New Jersey"
+      ]
+    },
+    {
+      "episode_id": "replaced by_862",
+      "relation": "replaced by",
+      "query": "British Indian Army is to",
+      "prediction": "United Kingdom",
+      "target": [
+        "Indian Army"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_863",
+      "relation": "parent taxon",
+      "query": "cephalopod is to",
+      "prediction": "mollusc",
+      "target": [
+        "Mollusca"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_865",
+      "relation": "parent taxon",
+      "query": "Heracleum mantegazzianum is to",
+      "prediction": "Apiaceae",
+      "target": [
+        "Heracleum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_866",
+      "relation": "parent taxon",
+      "query": "Physeter macrocephalus is to",
+      "prediction": "Physeteridae",
+      "target": [
+        "Physeter"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_868",
+      "relation": "parent taxon",
+      "query": "Euphorbia pulcherrima is to",
+      "prediction": "Euphorbiaceae",
+      "target": [
+        "Euphorbia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_869",
+      "relation": "replaced by",
+      "query": "Legislative Assembly of the Province of Canada is to",
+      "prediction": "Parliament of Canada",
+      "target": [
+        "Legislative Assembly of Ontario"
+      ]
+    },
+    {
+      "episode_id": "replaced by_870",
+      "relation": "replaced by",
+      "query": "Republic of Montenegro is to",
+      "prediction": "Kingdom of Serbia",
+      "target": [
+        "Montenegro"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_873",
+      "relation": "parent taxon",
+      "query": "Coriandrum sativum is to",
+      "prediction": "Apiaceae",
+      "target": [
+        "Coriandrum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_874",
+      "relation": "parent taxon",
+      "query": "Physalis peruviana is to",
+      "prediction": "Solanaceae",
+      "target": [
+        "Physalis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_875",
+      "relation": "parent taxon",
+      "query": "Cucumis sativus is to",
+      "prediction": "Cucurbitaceae",
+      "target": [
+        "Cucumis"
+      ]
+    },
+    {
+      "episode_id": "replaced by_878",
+      "relation": "replaced by",
+      "query": "Chairman of the Municipality of Metropolitan Toronto is to",
+      "prediction": "City of Toronto",
+      "target": [
+        "Mayor of Toronto"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_881",
+      "relation": "parent taxon",
+      "query": "Lucanus cervus is to",
+      "prediction": "Lucanidae",
+      "target": [
+        "Lucanus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_883",
+      "relation": "parent taxon",
+      "query": "Plantago major is to",
+      "prediction": "Plantaginaceae",
+      "target": [
+        "Plantago"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_884",
+      "relation": "parent taxon",
+      "query": "Barbary stag is to",
+      "prediction": "Cervidae",
+      "target": [
+        "Red Deer"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_885",
+      "relation": "parent taxon",
+      "query": "Australopithecus afarensis is to",
+      "prediction": "Homininae",
+      "target": [
+        "Australopithecus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_886",
+      "relation": "parent taxon",
+      "query": "Azhdarchidae is to",
+      "prediction": "Pterosauria",
+      "target": [
+        "pterosaur"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_891",
+      "relation": "parent taxon",
+      "query": "Nigella sativa is to",
+      "prediction": "Ranunculaceae",
+      "target": [
+        "Nigella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_893",
+      "relation": "parent taxon",
+      "query": "Amanita muscaria is to",
+      "prediction": "Amanitace",
+      "target": [
+        "Amanita"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_894",
+      "relation": "parent taxon",
+      "query": "Pinus pinea is to",
+      "prediction": "Pinaceae",
+      "target": [
+        "Pinus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_895",
+      "relation": "parent taxon",
+      "query": "Amaranthus retroflexus is to",
+      "prediction": "Amaranthaceae",
+      "target": [
+        "Amaranthus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_897",
+      "relation": "replaced by",
+      "query": "Republic of China is to",
+      "prediction": "Republic of China (1912–1949)",
+      "target": [
+        "People's Republic of China"
+      ]
+    },
+    {
+      "episode_id": "replaced by_901",
+      "relation": "replaced by",
+      "query": "Social Democratic Workers' Party of Germany is to",
+      "prediction": "Socialist Workers' Party of Germany",
+      "target": [
+        "Social Democratic Party of Germany"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_903",
+      "relation": "parent taxon",
+      "query": "pomelo is to",
+      "prediction": "Rutaceae",
+      "target": [
+        "Citrus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_904",
+      "relation": "parent taxon",
+      "query": "Crocus sativus is to",
+      "prediction": "Iridacee",
+      "target": [
+        "Crocus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_907",
+      "relation": "parent taxon",
+      "query": "Salvia officinalis is to",
+      "prediction": "Lamiaceae",
+      "target": [
+        "Salvia"
+      ]
+    },
+    {
+      "episode_id": "replaced by_908",
+      "relation": "replaced by",
+      "query": "Second Empire of Haiti is to",
+      "prediction": "First Empire of Haiti",
+      "target": [
+        "Haiti"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_909",
+      "relation": "parent taxon",
+      "query": "Lycosa is to",
+      "prediction": "spider",
+      "target": [
+        "Lycosidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_910",
+      "relation": "replaced by",
+      "query": "Insular Government of the Philippine Islands is to",
+      "prediction": "Philippines",
+      "target": [
+        "Commonwealth of the Philippines"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_911",
+      "relation": "parent taxon",
+      "query": "Syzygium aromaticum is to",
+      "prediction": "Myrtaceae",
+      "target": [
+        "Syzygium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_912",
+      "relation": "parent taxon",
+      "query": "Araneae is to",
+      "prediction": "Arachnnida",
+      "target": [
+        "Arachnida"
+      ]
+    },
+    {
+      "episode_id": "native language_913",
+      "relation": "native language",
+      "query": "Slavs is to",
+      "prediction": "Old Church Slavonic",
+      "target": [
+        "Slavic"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_914",
+      "relation": "parent taxon",
+      "query": "Mespilus germanica is to",
+      "prediction": "medlar",
+      "target": [
+        "Mespilus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_916",
+      "relation": "replaced by",
+      "query": "People's Republic of Bulgaria is to",
+      "prediction": "Bulgarian Socialist Republic",
+      "target": [
+        "Bulgaria"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_918",
+      "relation": "parent taxon",
+      "query": "beaver is to",
+      "prediction": "Castor",
+      "target": [
+        "Castoridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_921",
+      "relation": "parent taxon",
+      "query": "European perch is to",
+      "prediction": "Percidae",
+      "target": [
+        "perch"
+      ]
+    },
+    {
+      "episode_id": "native language_924",
+      "relation": "native language",
+      "query": "Afro-Surinamese is to",
+      "prediction": "English",
+      "target": [
+        "creole language"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_926",
+      "relation": "parent taxon",
+      "query": "norovirus is to",
+      "prediction": "Caliciviridaae",
+      "target": [
+        "Caliciviridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_927",
+      "relation": "parent taxon",
+      "query": "Centaurea cyanus is to",
+      "prediction": "Asteraceae",
+      "target": [
+        "Centaurea"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_928",
+      "relation": "parent taxon",
+      "query": "Thunnus is to",
+      "prediction": "tuna",
+      "target": [
+        "Thunnini"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_929",
+      "relation": "parent taxon",
+      "query": "Coffea is to",
+      "prediction": "Coffea arabica",
+      "target": [
+        "Rubiaceae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_931",
+      "relation": "parent taxon",
+      "query": "Paulownia tomentosa is to",
+      "prediction": "Paulowniaceae",
+      "target": [
+        "Paulownia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_932",
+      "relation": "parent taxon",
+      "query": "Lonicera is to",
+      "prediction": "honeysuckle",
+      "target": [
+        "Caprifoliaceae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_933",
+      "relation": "parent taxon",
+      "query": "Drosophila melanogaster is to",
+      "prediction": "Drosophilidae",
+      "target": [
+        "Drosophila"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_934",
+      "relation": "parent taxon",
+      "query": "Melolontha melolontha is to",
+      "prediction": "June bug",
+      "target": [
+        "Melolontha"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_936",
+      "relation": "parent taxon",
+      "query": "Papaver somniferum is to",
+      "prediction": "Papaveraceae",
+      "target": [
+        "Papaver"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_937",
+      "relation": "parent taxon",
+      "query": "Brachiosaurus is to",
+      "prediction": "Sauropoda",
+      "target": [
+        "Brachiosauridae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_938",
+      "relation": "replaced by",
+      "query": "Province of Georgia is to",
+      "prediction": "Republic of Georgia",
+      "target": [
+        "Georgia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_940",
+      "relation": "parent taxon",
+      "query": "Hexactinellid is to",
+      "prediction": "Hexactinellida",
+      "target": [
+        "Porifera"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_941",
+      "relation": "parent taxon",
+      "query": "Cimex lectularius is to",
+      "prediction": "Hemiptera",
+      "target": [
+        "Cimex"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_942",
+      "relation": "parent taxon",
+      "query": "Urtica is to",
+      "prediction": "nettle",
+      "target": [
+        "Urticaceae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_943",
+      "relation": "parent taxon",
+      "query": "Annona muricata is to",
+      "prediction": "Annonaceae",
+      "target": [
+        "Annona"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_944",
+      "relation": "parent taxon",
+      "query": "Tawny Owl is to",
+      "prediction": "Strigidae",
+      "target": [
+        "Strix"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_946",
+      "relation": "parent taxon",
+      "query": "Lupinus albus is to",
+      "prediction": "Fabaceae",
+      "target": [
+        "Lupinus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_948",
+      "relation": "parent taxon",
+      "query": "Eriobotrya japonica is to",
+      "prediction": "plant",
+      "target": [
+        "Eriobotrya"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_950",
+      "relation": "parent taxon",
+      "query": "Bornean orangutan is to",
+      "prediction": "Pongo",
+      "target": [
+        "Orangutan"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_951",
+      "relation": "parent taxon",
+      "query": "Indian elephant is to",
+      "prediction": "Elephas maximus",
+      "target": [
+        "Asian elephant"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_956",
+      "relation": "parent taxon",
+      "query": "Oryza sativa is to",
+      "prediction": "Poace",
+      "target": [
+        "Oryza"
+      ]
+    },
+    {
+      "episode_id": "replaced by_959",
+      "relation": "replaced by",
+      "query": "Province of Canada is to",
+      "prediction": "Dominion of of Canada",
+      "target": [
+        "Canada"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_961",
+      "relation": "parent taxon",
+      "query": "Cucumis sativus is to",
+      "prediction": "Cucurbitaceae",
+      "target": [
+        "Cucumis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_962",
+      "relation": "parent taxon",
+      "query": "Urtica is to",
+      "prediction": "nettle",
+      "target": [
+        "Urticaceae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_963",
+      "relation": "parent taxon",
+      "query": "Salvia officinalis is to",
+      "prediction": "Lamiaceae",
+      "target": [
+        "Salvia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_965",
+      "relation": "parent taxon",
+      "query": "lettuce is to",
+      "prediction": "Lactuca sativa",
+      "target": [
+        "Lactuca"
+      ]
+    },
+    {
+      "episode_id": "replaced by_968",
+      "relation": "replaced by",
+      "query": "Kingdom of Zimbabwe is to",
+      "prediction": "Republic of Zimbabwe",
+      "target": [
+        "Kingdom of Mutapa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_970",
+      "relation": "parent taxon",
+      "query": "Sorghum bicolor is to",
+      "prediction": "grass",
+      "target": [
+        "Sorghum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_971",
+      "relation": "parent taxon",
+      "query": "Balkan lynx is to",
+      "prediction": "Lynx",
+      "target": [
+        "Eurasian Lynx"
+      ]
+    },
+    {
+      "episode_id": "replaced by_972",
+      "relation": "replaced by",
+      "query": "Rheinische Zeitung is to",
+      "prediction": "Karl Marx",
+      "target": [
+        "Neue Rheinische Zeitung"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_973",
+      "relation": "parent taxon",
+      "query": "Artocarpus heterophyllus is to",
+      "prediction": "Morace",
+      "target": [
+        "Artocarpus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_975",
+      "relation": "parent taxon",
+      "query": "lion is to",
+      "prediction": "Felidae",
+      "target": [
+        "Panthera"
+      ]
+    },
+    {
+      "episode_id": "replaced by_976",
+      "relation": "replaced by",
+      "query": "International Security Assistance Force is to",
+      "prediction": "NATO-led International Security Assistance Force",
+      "target": [
+        "Resolute Support Mission"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_977",
+      "relation": "parent taxon",
+      "query": "True lemming is to",
+      "prediction": "Lemmus",
+      "target": [
+        "lemming"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_978",
+      "relation": "parent taxon",
+      "query": "celery is to",
+      "prediction": "Apium graveolens",
+      "target": [
+        "Apium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_980",
+      "relation": "parent taxon",
+      "query": "Trigonella foenum-graecum is to",
+      "prediction": "fenugreek",
+      "target": [
+        "Trigonella"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_983",
+      "relation": "parent taxon",
+      "query": "Rubus idaeus is to",
+      "prediction": "raspberry",
+      "target": [
+        "Rubus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_984",
+      "relation": "replaced by",
+      "query": "Kazakh Soviet Socialist Republic is to",
+      "prediction": "Republic of Kazakhstan",
+      "target": [
+        "Kazakhstan"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_985",
+      "relation": "parent taxon",
+      "query": "Pistacia vera is to",
+      "prediction": "pistachio",
+      "target": [
+        "Pistacia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_991",
+      "relation": "parent taxon",
+      "query": "Talpa europaea is to",
+      "prediction": "Talpidae",
+      "target": [
+        "Talpa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_992",
+      "relation": "parent taxon",
+      "query": "Vigna radiata is to",
+      "prediction": "Fabaceae",
+      "target": [
+        "Vigna"
+      ]
+    },
+    {
+      "episode_id": "replaced by_995",
+      "relation": "replaced by",
+      "query": "North Ossetian Autonomous Soviet Socialist Republic is to",
+      "prediction": "Russian SFSR",
+      "target": [
+        "Republic of North Ossetia-Alania"
+      ]
+    },
+    {
+      "episode_id": "replaced by_996",
+      "relation": "replaced by",
+      "query": "National Congress of Ecuador is to",
+      "prediction": "Ecuador",
+      "target": [
+        "National Assembly"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_998",
+      "relation": "parent taxon",
+      "query": "Clostridium botulinum is to",
+      "prediction": "botulism",
+      "target": [
+        "Clostridium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_999",
+      "relation": "parent taxon",
+      "query": "Mastadenovirus is to",
+      "prediction": "Adenoviridaae",
+      "target": [
+        "Adenoviridae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1000",
+      "relation": "parent taxon",
+      "query": "Jasminum is to",
+      "prediction": "jasmine",
+      "target": [
+        "Oleaceae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1001",
+      "relation": "replaced by",
+      "query": "Australian Customs and Border Protection Service is to",
+      "prediction": "Department of Immigration and Border Protection",
+      "target": [
+        "Australian Border Force"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1002",
+      "relation": "parent taxon",
+      "query": "Jasminum sambac is to",
+      "prediction": "Oleaceae",
+      "target": [
+        "Jasminum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1003",
+      "relation": "parent taxon",
+      "query": "Psilocybe semilanceata is to",
+      "prediction": "Agaricales",
+      "target": [
+        "Psilocybe"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1005",
+      "relation": "parent taxon",
+      "query": "Brown Bear is to",
+      "prediction": "Ursidae",
+      "target": [
+        "Ursus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1006",
+      "relation": "replaced by",
+      "query": "Kingdom of Zimbabwe is to",
+      "prediction": "Great Zimbabwe",
+      "target": [
+        "Kingdom of Mutapa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1007",
+      "relation": "parent taxon",
+      "query": "Passer is to",
+      "prediction": "finch",
+      "target": [
+        "Passeridae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1008",
+      "relation": "replaced by",
+      "query": "Norwegian Army Air Service is to",
+      "prediction": "Norwegian Armed Forces",
+      "target": [
+        "Royal Norwegian Air Force"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1009",
+      "relation": "parent taxon",
+      "query": "Barbary stag is to",
+      "prediction": "Cervidae",
+      "target": [
+        "Red Deer"
+      ]
+    },
+    {
+      "episode_id": "native language_1010",
+      "relation": "native language",
+      "query": "Richard Burton is to",
+      "prediction": "English",
+      "target": [
+        "Welsh"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1011",
+      "relation": "parent taxon",
+      "query": "Formosan clouded leopard is to",
+      "prediction": "Neofelis",
+      "target": [
+        "clouded leopard"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1012",
+      "relation": "parent taxon",
+      "query": "Diospyros kaki is to",
+      "prediction": "Ebenaceae",
+      "target": [
+        "Diospyros"
+      ]
+    },
+    {
+      "episode_id": "native language_1014",
+      "relation": "native language",
+      "query": "Iyasu V is to",
+      "prediction": "Japanese",
+      "target": [
+        "Amharic"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1016",
+      "relation": "replaced by",
+      "query": "League of Nations is to",
+      "prediction": "Switzerland",
+      "target": [
+        "United Nations"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1018",
+      "relation": "parent taxon",
+      "query": "celeriac is to",
+      "prediction": "Apiaceae",
+      "target": [
+        "celery"
+      ]
+    },
+    {
+      "episode_id": "native language_1019",
+      "relation": "native language",
+      "query": "Ramazan Kadyrov is to",
+      "prediction": "Russian",
+      "target": [
+        "Chechen"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1020",
+      "relation": "parent taxon",
+      "query": "Balkan lynx is to",
+      "prediction": "Lynx",
+      "target": [
+        "Eurasian Lynx"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1021",
+      "relation": "replaced by",
+      "query": "BBC Choice is to",
+      "prediction": "BBC",
+      "target": [
+        "BBC Three"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1024",
+      "relation": "parent taxon",
+      "query": "Agave tequilana is to",
+      "prediction": "Agavaceae",
+      "target": [
+        "Agave"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1025",
+      "relation": "replaced by",
+      "query": "Grand Duchy of Finland is to",
+      "prediction": "Russian Empire",
+      "target": [
+        "Finland"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1028",
+      "relation": "replaced by",
+      "query": "Qing dynasty is to",
+      "prediction": "Manchuria",
+      "target": [
+        "Republic of China"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1031",
+      "relation": "parent taxon",
+      "query": "Tectona grandis is to",
+      "prediction": "teak",
+      "target": [
+        "Tectona"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1032",
+      "relation": "replaced by",
+      "query": "British Indian Army is to",
+      "prediction": "United Kingdom",
+      "target": [
+        "Indian Army"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1034",
+      "relation": "parent taxon",
+      "query": "Fagopyrum esculentum is to",
+      "prediction": "Polygonaceae",
+      "target": [
+        "Fagopyrum"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1036",
+      "relation": "parent taxon",
+      "query": "Physeter macrocephalus is to",
+      "prediction": "sperm whale",
+      "target": [
+        "Physeter"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1037",
+      "relation": "parent taxon",
+      "query": "Drosophila melanogaster is to",
+      "prediction": "Drosophilidae",
+      "target": [
+        "Drosophila"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1039",
+      "relation": "parent taxon",
+      "query": "lion is to",
+      "prediction": "Felidae",
+      "target": [
+        "Panthera"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1040",
+      "relation": "parent taxon",
+      "query": "Opuntia ficus-indica is to",
+      "prediction": "Cactaceae",
+      "target": [
+        "Opuntia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1041",
+      "relation": "parent taxon",
+      "query": "caracal is to",
+      "prediction": "Felidae",
+      "target": [
+        "Caracal"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1042",
+      "relation": "parent taxon",
+      "query": "Escherichia coli O157:H7 is to",
+      "prediction": "Enterobacteriaceae",
+      "target": [
+        "Escherichia coli"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1044",
+      "relation": "parent taxon",
+      "query": "Paulownia tomentosa is to",
+      "prediction": "Paulowniaceae",
+      "target": [
+        "Paulownia"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1045",
+      "relation": "parent taxon",
+      "query": "Bornean orangutan is to",
+      "prediction": "primate",
+      "target": [
+        "Orangutan"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1046",
+      "relation": "parent taxon",
+      "query": "Curcuma longa is to",
+      "prediction": "Zingiberace",
+      "target": [
+        "Curcuma"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1048",
+      "relation": "parent taxon",
+      "query": "Melolontha melolontha is to",
+      "prediction": "Scarabaeidae",
+      "target": [
+        "Melolontha"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1049",
+      "relation": "replaced by",
+      "query": "League of Nations is to",
+      "prediction": "Geneva",
+      "target": [
+        "United Nations"
+      ]
+    },
+    {
+      "episode_id": "native language_1054",
+      "relation": "native language",
+      "query": "Ang Mey is to",
+      "prediction": "Tagalog",
+      "target": [
+        "Khmer"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1055",
+      "relation": "parent taxon",
+      "query": "Cannabis sativa is to",
+      "prediction": "Cannabaceace",
+      "target": [
+        "Cannabis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1056",
+      "relation": "parent taxon",
+      "query": "Anguis fragilis is to",
+      "prediction": "snake",
+      "target": [
+        "Anguis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1057",
+      "relation": "parent taxon",
+      "query": "Brassica rapa subsp. chinensis is to",
+      "prediction": "Brassica",
+      "target": [
+        "Brassica rapa"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1058",
+      "relation": "parent taxon",
+      "query": "Narcissus pseudonarcissus is to",
+      "prediction": "Amaryllidaceae",
+      "target": [
+        "Narcissus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1059",
+      "relation": "parent taxon",
+      "query": "bighorn sheep is to",
+      "prediction": "Bovidae",
+      "target": [
+        "Ovis"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1061",
+      "relation": "parent taxon",
+      "query": "megalodon is to",
+      "prediction": "Megalodon",
+      "target": [
+        "Carcharocles"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1064",
+      "relation": "parent taxon",
+      "query": "Ursus is to",
+      "prediction": "Canidae",
+      "target": [
+        "Ursidae"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1068",
+      "relation": "replaced by",
+      "query": "People's Socialist Republic of Albania is to",
+      "prediction": "Albanian Socialist Party",
+      "target": [
+        "Albania"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1070",
+      "relation": "replaced by",
+      "query": "Renzi Cabinet is to",
+      "prediction": "People's Republic of China",
+      "target": [
+        "Gentiloni Cabinet"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1071",
+      "relation": "replaced by",
+      "query": "Kingdom of Scotland is to",
+      "prediction": "Kingdom of England",
+      "target": [
+        "Great Britain"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1073",
+      "relation": "parent taxon",
+      "query": "mandrill is to",
+      "prediction": "primate",
+      "target": [
+        "Mandrillus"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1074",
+      "relation": "parent taxon",
+      "query": "Testudo is to",
+      "prediction": "tortoise",
+      "target": [
+        "Testudinidae"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1076",
+      "relation": "parent taxon",
+      "query": "Chenopodium quinoa is to",
+      "prediction": "Chenopodiaceae",
+      "target": [
+        "Chenopodium"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1079",
+      "relation": "parent taxon",
+      "query": "Glaucus atlanticus is to",
+      "prediction": "Glaucidae",
+      "target": [
+        "Glaucus"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1081",
+      "relation": "replaced by",
+      "query": "Thirteen Colonies is to",
+      "prediction": "British Empire",
+      "target": [
+        "United States of America"
+      ]
+    },
+    {
+      "episode_id": "replaced by_1083",
+      "relation": "replaced by",
+      "query": "Old English Latin alphabet is to",
+      "prediction": "Latin alphabet",
+      "target": [
+        "English alphabet"
+      ]
+    },
+    {
+      "episode_id": "parent taxon_1084",
+      "relation": "parent taxon",
+      "query": "Lepus californicus is to",
+      "prediction": "rabbit",
+      "target": [
+        "Lepus"
+      ]
+    }
+  ]
+}
