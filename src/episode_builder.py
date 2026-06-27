@@ -2,15 +2,21 @@ import json
 import random
 import re
 import os
+import argparse
 from collections import defaultdict
 
 random.seed(42)
 
+parser = argparse.ArgumentParser()
+parser.add_argument("model",type=str,help="Name of the model to use")
+args = parser.parse_args()
 
-INPUT_FILE = "results/evaluate_knowledge/Qwen/Qwen2.5-7B/evaluate_knowledge.jsonl"
+model_size = args.model.split("-")[-1]
+
+INPUT_FILE = f"data/evaluate_knowledge/evaluate_knowledge_{model_size}.jsonl"
 OUTPUT_DIR = "data"
-TRAIN_OUTPUT = "train_episodes.jsonl"
-TEST_OUTPUT  = "test_episodes.jsonl"
+TRAIN_OUTPUT = f"train_episodes_{model_size}.jsonl"
+TEST_OUTPUT  = f"test_episodes_{model_size}.jsonl"
 
 K_TRAIN = 3
 K_TEST  = 1
