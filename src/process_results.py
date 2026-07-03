@@ -202,35 +202,83 @@ def accuracy_barplot(result_dir: str = DEFAULT_RESULT_DIR) -> None:
     plt.close()
 
 
-def learning_curves(result_dir: str = DEFAULT_RESULT_DIR) -> None:
+def _seed_curves(df, log_dir, model, cond):
+    """All per-seed validation curves for a (model, cond), as (progress[0..1], acc%) pairs."""
+    curves = []
+    seeds = sorted(df[(df["model"] == model) & (df["model_type"] == cond)]["seed"].unique())
+    for seed in seeds:
+        log_path = os.path.join(log_dir, f"{model}_lora_{cond}_seed_{seed}.csv")
+        if not os.path.exists(log_path):
+            continue
+        log = pd.read_csv(log_path)
+        if "eval/acc" not in log.columns or len(log) == 0:
+            continue
+        acc = log["eval/acc"].to_numpy(dtype=float)
+        if np.nanmax(acc) <= 1.0:                    # stored as fraction -> percent
+            acc = acc * 100.0
+        n = len(acc)
+        # Prefer a real training-progress column; fall back to even checkpoint spacing.
+        xraw = None
+        for cand in ("step", "global_step", "num_examples", "epoch"):
+            if cand in log.columns:
+                xraw = log[cand].to_numpy(dtype=float)
+                break
+        if xraw is None or n < 2 or xraw.max() == xraw.min():
+            prog = np.linspace(0.0, 1.0, n)
+        else:
+            prog = (xraw - xraw.min()) / (xraw.max() - xraw.min())
+        curves.append((prog, acc))
+    return curves
+
+
+def learning_curves(result_dir: str = DEFAULT_RESULT_DIR, n_grid: int = 100) -> None:
     log_dir = os.path.join(result_dir, "train_logs")
     df = _load_results(result_dir)
+    grid = np.linspace(0.0, 1.0, n_grid)
+    colors = {"base": "tab:blue", "meta": "tab:red"}
 
+    # Aggregate to mean +/- std over seeds on a common progress grid.
+    agg, ymax = {}, 0.0
     for model in MODELS:
-        plt.figure(figsize=(9, 5.5))
-        colors = {"base": "tab:blue", "meta": "tab:red"}
         for cond in COND_ORDER:
-            sub = df[(df["model"] == model) & (df["model_type"] == cond)]
-            if sub.empty:
+            curves = _seed_curves(df, log_dir, model, cond)
+            if not curves:
                 continue
-            best_seed = sub.loc[sub["accuracy"].idxmax(), "seed"]
-            log_path = os.path.join(log_dir, f"{model}_lora_{cond}_seed_{best_seed}.csv")
-            if not os.path.exists(log_path):
+            stacked = np.vstack([np.interp(grid, p, a) for p, a in curves])
+            mean = stacked.mean(axis=0)
+            std = stacked.std(axis=0, ddof=1) if len(curves) > 1 else np.zeros_like(mean)
+            agg[(model, cond)] = (mean, std, len(curves))
+            ymax = max(ymax, float(np.nanmax(mean + std)))
+
+    # One row of panels, shared y-axis for honest cross-size comparison.
+    fig, axes = plt.subplots(1, len(MODELS), figsize=(5 * len(MODELS), 4.8), sharey=True)
+    axes = np.atleast_1d(axes)
+
+    for ax, model in zip(axes, MODELS):
+        for cond in COND_ORDER:
+            if (model, cond) not in agg:
                 continue
-            log = pd.read_csv(log_path)
-            plt.plot(range(len(log)), log["eval/acc"], marker="o", linestyle="-",
-                     color=colors[cond],
-                     label=f"{COND_PRETTY[cond]} (seed {best_seed})")
-        plt.xlabel("Validation checkpoint")
-        plt.ylabel("Validation accuracy (%)")
-        plt.title(f"Learning curve — {MODEL_PRETTY[model]} (best seed)")
-        plt.legend()
-        plt.grid(alpha=0.3)
-        plt.tight_layout()
-        plots = os.path.join(result_dir, "plots")
-        os.makedirs(plots, exist_ok=True)
-        plt.savefig(os.path.join(plots, f"{model}_learning_curve.png"), dpi=200)
-        plt.close()
+            mean, std, k = agg[(model, cond)]
+            x = grid * 100.0
+            ax.plot(x, mean, color=colors[cond], lw=2,
+                    label=f"{COND_PRETTY[cond]} (n={k})")
+            ax.fill_between(x, mean - std, mean + std, color=colors[cond],
+                            alpha=0.18, linewidth=0)
+        ax.set_title(MODEL_PRETTY[model])
+        ax.set_xlabel("Training progress (%)")
+        ax.set_xlim(0, 100)
+        ax.grid(alpha=0.3)
+
+    axes[0].set_ylabel("Validation accuracy (%)")
+    axes[0].set_ylim(0, min(100, ymax * 1.05))
+    axes[0].legend(loc="lower right", frameon=True)
+    fig.suptitle("Learning curves — mean ± std over seeds", y=1.02, fontsize=13)
+    fig.tight_layout()
+
+    plots = os.path.join(result_dir, "plots")
+    os.makedirs(plots, exist_ok=True)
+    fig.savefig(os.path.join(plots, "learning_curves.png"), dpi=200, bbox_inches="tight")
+    plt.close(fig)
 
 
 def error_analysis(result_dir: str = DEFAULT_RESULT_DIR) -> pd.DataFrame:
