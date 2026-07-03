@@ -1,0 +1,7 @@
+model,model_type,mean_errors,mean_acc
+qwen-1.5b,base,698.2,28.168
+qwen-1.5b,meta,512.6,47.262
+qwen-3b,base,780.0,32.05800000000001
+qwen-3b,meta,508.6,55.696000000000005
+qwen-7b,base,719.0,33.918
+qwen-7b,meta,547.6,49.67

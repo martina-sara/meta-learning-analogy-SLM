@@ -38,3 +38,4 @@ _**Note:** the code was adapted from [Bertolazzi et a. (2026)](https://github.co
 * `errors`
 * `results.cvs`
 * `plots`
+* `tables`
