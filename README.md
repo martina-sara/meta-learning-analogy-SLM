@@ -1,6 +1,6 @@
 # meta-learning-analogy-SLM
 
-Code and datasets used for the project: **"Inducing Structural Mapping: A Few-Shot Meta-Learning Approach to Analogical Reasoning in Small Language Models"**
+Code and datasets used for the project: **"A Few-Shot Meta-Learning Approach to Analogical Reasoning in Small Language Models"**
 
 ## Overview
 Language models often encode the relation linking a source pair but fail to transfer it to a target pair, defaulting to surface similarity. Following the diagnostic work of Lee et al. (2026), which localises this bottleneck at the mapping stage rather than at relation extraction, we apply a few-shot meta-learning framework to analogical reasoning. Across episodes, the model must infer the common relation from a small study set and apply it to complete an analogy. We evaluate three Qwen2.5 models (1.5B, 3B and 7B) trained on items from [AnalogyKB](https://github.com/siyuyuan/analogykb) and [BATS](https://vecto.space/projects/BATS/) against a baseline fine-tuned without a study set. Meta-trained models improve significantly over the baseline, even on relations unseen during training.
